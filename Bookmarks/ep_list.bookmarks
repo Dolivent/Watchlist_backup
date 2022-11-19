@@ -1,0 +1,4040 @@
+[
+  {
+    "Symbol": "NYSE:WAT",
+    "Time": "1999-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WAT",
+    "Time": "2000-01-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ZD",
+    "Time": "2002-04-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BIO",
+    "Time": "2003-04-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AAP",
+    "Time": "2003-05-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CMI",
+    "Time": "2003-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BSX",
+    "Time": "2003-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLAB",
+    "Time": "2003-08-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2003-09-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2003-12-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HELE",
+    "Time": "2004-01-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DIS",
+    "Time": "2004-02-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAPL",
+    "Time": "2005-01-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MAT",
+    "Time": "2005-01-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2005-02-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ITRI",
+    "Time": "2005-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLAB",
+    "Time": "2005-05-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ODP",
+    "Time": "2005-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:A",
+    "Time": "2005-08-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNX",
+    "Time": "2006-01-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSCO",
+    "Time": "2006-02-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMKR",
+    "Time": "2006-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GRMN",
+    "Time": "2006-05-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DLB",
+    "Time": "2006-10-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OII",
+    "Time": "2006-11-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:THS",
+    "Time": "2006-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GT",
+    "Time": "2006-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KMX",
+    "Time": "2006-12-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RGP",
+    "Time": "2006-12-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ATR",
+    "Time": "2007-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MTRN",
+    "Time": "2007-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:UEIC",
+    "Time": "2007-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2007-04-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TUP",
+    "Time": "2007-04-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OI",
+    "Time": "2007-04-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CHE",
+    "Time": "2007-05-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TPC",
+    "Time": "2007-05-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MMS",
+    "Time": "2007-05-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EME",
+    "Time": "2007-06-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2007-06-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CROX",
+    "Time": "2007-07-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AGCO",
+    "Time": "2007-10-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ATVI",
+    "Time": "2007-12-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SAM",
+    "Time": "2008-03-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLS",
+    "Time": "2008-04-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLO",
+    "Time": "2008-05-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2009-04-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:UTHR",
+    "Time": "2009-05-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PKG",
+    "Time": "2009-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ALV",
+    "Time": "2009-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SBUX",
+    "Time": "2009-07-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:POOL",
+    "Time": "2009-07-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WST",
+    "Time": "2009-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:THS",
+    "Time": "2009-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CROX",
+    "Time": "2009-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ULTA",
+    "Time": "2009-09-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2009-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EWBC",
+    "Time": "2009-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:THS",
+    "Time": "2009-12-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BBBY",
+    "Time": "2010-01-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OTEX",
+    "Time": "2010-02-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NDSN",
+    "Time": "2010-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DECK",
+    "Time": "2010-02-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SCL",
+    "Time": "2010-04-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWKS",
+    "Time": "2010-04-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EPC",
+    "Time": "2010-07-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BKNG",
+    "Time": "2010-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LULU",
+    "Time": "2010-09-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNX",
+    "Time": "2010-09-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LYTS",
+    "Time": "2010-10-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RCKY",
+    "Time": "2010-10-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OII",
+    "Time": "2010-10-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MTZ",
+    "Time": "2010-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AWI",
+    "Time": "2010-11-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DDS",
+    "Time": "2010-11-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SIMO",
+    "Time": "2011-02-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TUP",
+    "Time": "2011-02-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLAB",
+    "Time": "2011-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SF",
+    "Time": "2011-02-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MMSI",
+    "Time": "2011-02-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VRTX",
+    "Time": "2011-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NDSN",
+    "Time": "2011-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NCR",
+    "Time": "2011-04-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HSTM",
+    "Time": "2011-04-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HXL",
+    "Time": "2011-04-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LYB",
+    "Time": "2011-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TGI",
+    "Time": "2011-05-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KEX",
+    "Time": "2011-10-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CRUS",
+    "Time": "2012-01-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNX",
+    "Time": "2012-01-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSCO",
+    "Time": "2012-01-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NTCT",
+    "Time": "2012-01-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAPL",
+    "Time": "2012-01-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PTC",
+    "Time": "2012-01-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NCR",
+    "Time": "2012-02-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CERN",
+    "Time": "2012-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AKAM",
+    "Time": "2012-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RAIL",
+    "Time": "2012-02-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CRM",
+    "Time": "2012-02-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BWXT",
+    "Time": "2012-03-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EVRI",
+    "Time": "2012-03-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PNR",
+    "Time": "2012-03-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ALGN",
+    "Time": "2012-04-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPE",
+    "Time": "2012-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2012-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PZZA",
+    "Time": "2012-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWIR",
+    "Time": "2012-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VRTX",
+    "Time": "2012-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WMT",
+    "Time": "2012-05-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RHP",
+    "Time": "2012-05-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SIX",
+    "Time": "2012-07-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:STX",
+    "Time": "2012-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UL",
+    "Time": "2012-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPE",
+    "Time": "2012-07-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CRUS",
+    "Time": "2012-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GPS",
+    "Time": "2012-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2012-08-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLT",
+    "Time": "2012-08-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GWRE",
+    "Time": "2012-09-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:APOG",
+    "Time": "2012-09-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EME",
+    "Time": "2012-10-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMCX",
+    "Time": "2012-11-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WGO",
+    "Time": "2012-12-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WOLF",
+    "Time": "2013-01-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NFLX",
+    "Time": "2013-01-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PG",
+    "Time": "2013-01-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLT",
+    "Time": "2013-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MOH",
+    "Time": "2013-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CPRI",
+    "Time": "2013-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CBRL",
+    "Time": "2013-02-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GWRE",
+    "Time": "2013-02-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BWXT",
+    "Time": "2013-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DECK",
+    "Time": "2013-03-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IMMR",
+    "Time": "2013-03-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2013-04-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSBC",
+    "Time": "2013-04-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OIS",
+    "Time": "2013-04-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FBHS",
+    "Time": "2013-05-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EA",
+    "Time": "2013-05-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NUS",
+    "Time": "2013-07-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UAA",
+    "Time": "2013-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FB",
+    "Time": "2013-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OMC",
+    "Time": "2013-07-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NLOK",
+    "Time": "2013-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MHK",
+    "Time": "2013-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DXCM",
+    "Time": "2013-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FN",
+    "Time": "2013-08-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNX",
+    "Time": "2013-09-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ULTA",
+    "Time": "2013-09-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FN",
+    "Time": "2013-09-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CMTL",
+    "Time": "2013-10-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AAP",
+    "Time": "2013-10-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NTCT",
+    "Time": "2013-10-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NUS",
+    "Time": "2013-10-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NFLX",
+    "Time": "2013-10-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GLW",
+    "Time": "2013-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NUVA",
+    "Time": "2013-10-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ENDP",
+    "Time": "2013-11-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GOGO",
+    "Time": "2013-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PANW",
+    "Time": "2013-11-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CONN",
+    "Time": "2013-12-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CMTL",
+    "Time": "2013-12-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SGMO",
+    "Time": "2014-01-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:UAL",
+    "Time": "2014-01-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EAT",
+    "Time": "2014-01-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UAA",
+    "Time": "2014-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FB",
+    "Time": "2014-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PRG",
+    "Time": "2014-02-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PKG",
+    "Time": "2014-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OC",
+    "Time": "2014-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CPRI",
+    "Time": "2014-02-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GRMN",
+    "Time": "2014-02-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COMM",
+    "Time": "2014-02-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMSF",
+    "Time": "2014-02-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SGMO",
+    "Time": "2014-03-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PRTA",
+    "Time": "2014-03-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAPL",
+    "Time": "2014-04-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EPC",
+    "Time": "2014-04-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IT",
+    "Time": "2014-05-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CBRE",
+    "Time": "2014-05-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HOLX",
+    "Time": "2014-05-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EA",
+    "Time": "2014-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BIG",
+    "Time": "2014-05-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LAD",
+    "Time": "2014-06-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RHI",
+    "Time": "2014-07-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LUMN",
+    "Time": "2014-07-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:X",
+    "Time": "2014-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TWTR",
+    "Time": "2014-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NLS",
+    "Time": "2014-08-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FOLD",
+    "Time": "2014-08-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SIG",
+    "Time": "2014-08-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TK",
+    "Time": "2014-09-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BJRI",
+    "Time": "2014-10-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INFN",
+    "Time": "2014-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SNBR",
+    "Time": "2014-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSCO",
+    "Time": "2014-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BBW",
+    "Time": "2014-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RDCM",
+    "Time": "2014-10-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:V",
+    "Time": "2014-10-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WETF",
+    "Time": "2014-10-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BLMN",
+    "Time": "2014-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FICO",
+    "Time": "2014-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ICUI",
+    "Time": "2014-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WMT",
+    "Time": "2014-11-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVRO",
+    "Time": "2015-01-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EA",
+    "Time": "2015-01-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAPL",
+    "Time": "2015-01-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2015-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DIS",
+    "Time": "2015-02-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RCKY",
+    "Time": "2015-02-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COLM",
+    "Time": "2015-02-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BSX",
+    "Time": "2015-02-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MGNI",
+    "Time": "2015-02-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PRTA",
+    "Time": "2015-03-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:APOG",
+    "Time": "2015-04-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CE",
+    "Time": "2015-04-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ASTE",
+    "Time": "2015-04-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WAB",
+    "Time": "2015-04-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DPZ",
+    "Time": "2015-04-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPO",
+    "Time": "2015-04-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FBC",
+    "Time": "2015-04-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NLS",
+    "Time": "2015-05-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RBA",
+    "Time": "2015-05-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MOMO",
+    "Time": "2015-05-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HRTX",
+    "Time": "2015-05-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CAG",
+    "Time": "2015-06-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BWXT",
+    "Time": "2015-07-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MPC",
+    "Time": "2015-07-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:INFY",
+    "Time": "2015-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2015-07-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MSTR",
+    "Time": "2015-07-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HOLX",
+    "Time": "2015-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ICUI",
+    "Time": "2015-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TAP",
+    "Time": "2015-10-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:KLAC",
+    "Time": "2015-10-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ZEN",
+    "Time": "2015-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PAR",
+    "Time": "2015-11-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PCTY",
+    "Time": "2015-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INTU",
+    "Time": "2015-11-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EGHT",
+    "Time": "2016-01-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:JBSS",
+    "Time": "2016-01-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DPZ",
+    "Time": "2016-02-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ALRM",
+    "Time": "2016-02-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ATSG",
+    "Time": "2016-03-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ULTA",
+    "Time": "2016-03-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BSX",
+    "Time": "2016-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FB",
+    "Time": "2016-04-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SNBR",
+    "Time": "2016-04-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BGS",
+    "Time": "2016-04-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:QUAD",
+    "Time": "2016-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TPC",
+    "Time": "2016-05-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:POST",
+    "Time": "2016-05-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CECE",
+    "Time": "2016-05-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVDA",
+    "Time": "2016-05-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DLTR",
+    "Time": "2016-05-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VEEV",
+    "Time": "2016-05-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DPZ",
+    "Time": "2016-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HZO",
+    "Time": "2016-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GRPN",
+    "Time": "2016-07-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CGNX",
+    "Time": "2016-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PFSI",
+    "Time": "2016-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NSIT",
+    "Time": "2016-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HZNP",
+    "Time": "2016-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DXPE",
+    "Time": "2016-08-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AOSL",
+    "Time": "2016-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LCI",
+    "Time": "2016-08-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VEEV",
+    "Time": "2016-08-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MWA",
+    "Time": "2016-09-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NFLX",
+    "Time": "2016-10-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BK",
+    "Time": "2016-10-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IPGP",
+    "Time": "2016-10-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:JBSS",
+    "Time": "2016-11-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TRUE",
+    "Time": "2016-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NAVI",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:J",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:URI",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MLM",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:STLD",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EXP",
+    "Time": "2016-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SLF",
+    "Time": "2016-11-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MFC",
+    "Time": "2016-11-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVDA",
+    "Time": "2016-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NTAP",
+    "Time": "2016-11-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAOI",
+    "Time": "2017-01-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CSX",
+    "Time": "2017-01-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IIVI",
+    "Time": "2017-01-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRCY",
+    "Time": "2017-01-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NEWR",
+    "Time": "2017-01-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CALA",
+    "Time": "2017-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EPAY",
+    "Time": "2017-02-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HUBG",
+    "Time": "2017-02-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWIR",
+    "Time": "2017-02-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVTA",
+    "Time": "2017-02-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ANET",
+    "Time": "2017-02-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TMST",
+    "Time": "2017-02-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TRUE",
+    "Time": "2017-02-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COHU",
+    "Time": "2017-02-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MHO",
+    "Time": "2017-02-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BLD",
+    "Time": "2017-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GCP",
+    "Time": "2017-03-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FIVE",
+    "Time": "2017-03-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VRTX",
+    "Time": "2017-03-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2017-04-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LPLA",
+    "Time": "2017-04-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IPGP",
+    "Time": "2017-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CMI",
+    "Time": "2017-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KAI",
+    "Time": "2017-05-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FORM",
+    "Time": "2017-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LHCG",
+    "Time": "2017-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:REGI",
+    "Time": "2017-05-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SYNH",
+    "Time": "2017-05-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVDA",
+    "Time": "2017-05-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SGMO",
+    "Time": "2017-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PEGA",
+    "Time": "2017-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTD",
+    "Time": "2017-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TGI",
+    "Time": "2017-05-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INTU",
+    "Time": "2017-05-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MOD",
+    "Time": "2017-05-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DECK",
+    "Time": "2017-05-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NRG",
+    "Time": "2017-07-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VRTX",
+    "Time": "2017-07-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ABCB",
+    "Time": "2017-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BANF",
+    "Time": "2017-07-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WERN",
+    "Time": "2017-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BA",
+    "Time": "2017-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2017-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KRA",
+    "Time": "2017-07-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DAN",
+    "Time": "2017-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LL",
+    "Time": "2017-08-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FMC",
+    "Time": "2017-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SPR",
+    "Time": "2017-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OSK",
+    "Time": "2017-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AJRD",
+    "Time": "2017-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EPAY",
+    "Time": "2017-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SPLK",
+    "Time": "2017-08-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CTLT",
+    "Time": "2017-08-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GPC",
+    "Time": "2017-09-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VHC",
+    "Time": "2017-10-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ANAB",
+    "Time": "2017-10-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SKX",
+    "Time": "2017-10-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GPK",
+    "Time": "2017-10-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KRA",
+    "Time": "2017-10-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WST",
+    "Time": "2017-10-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TREX",
+    "Time": "2017-10-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TACT",
+    "Time": "2017-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NBIX",
+    "Time": "2017-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RFP",
+    "Time": "2017-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EHC",
+    "Time": "2017-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WING",
+    "Time": "2017-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BOOT",
+    "Time": "2017-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTWO",
+    "Time": "2017-11-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INGN",
+    "Time": "2017-11-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HIBB",
+    "Time": "2017-11-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CPRT",
+    "Time": "2017-11-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MDGL",
+    "Time": "2017-12-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CNR",
+    "Time": "2017-12-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SKY",
+    "Time": "2018-01-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2018-01-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NFLX",
+    "Time": "2018-01-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRTN",
+    "Time": "2018-01-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IMMR",
+    "Time": "2018-01-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CNMD",
+    "Time": "2018-02-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DECK",
+    "Time": "2018-02-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ZEN",
+    "Time": "2018-02-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TWTR",
+    "Time": "2018-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SPSC",
+    "Time": "2018-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SEDG",
+    "Time": "2018-02-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PRG",
+    "Time": "2018-02-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HPE",
+    "Time": "2018-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ETSY",
+    "Time": "2018-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AXON",
+    "Time": "2018-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VCEL",
+    "Time": "2018-03-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AMRC",
+    "Time": "2018-03-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MODV",
+    "Time": "2018-03-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DBI",
+    "Time": "2018-03-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SMTC",
+    "Time": "2018-03-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HRTX",
+    "Time": "2018-03-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LULU",
+    "Time": "2018-03-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HSII",
+    "Time": "2018-04-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2018-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SPSC",
+    "Time": "2018-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EVTC",
+    "Time": "2018-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SHAK",
+    "Time": "2018-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NEWR",
+    "Time": "2018-05-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BCOR",
+    "Time": "2018-05-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GDOT",
+    "Time": "2018-05-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTD",
+    "Time": "2018-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ARCB",
+    "Time": "2018-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WWE",
+    "Time": "2018-05-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AEL",
+    "Time": "2018-05-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MOMO",
+    "Time": "2018-05-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CVCO",
+    "Time": "2018-05-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MDGL",
+    "Time": "2018-05-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KEYS",
+    "Time": "2018-05-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RH",
+    "Time": "2018-06-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RPM",
+    "Time": "2018-06-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MLKN",
+    "Time": "2018-07-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SMPL",
+    "Time": "2018-07-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HLX",
+    "Time": "2018-07-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MOH",
+    "Time": "2018-08-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PAYC",
+    "Time": "2018-08-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMED",
+    "Time": "2018-08-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ZEN",
+    "Time": "2018-08-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTEK",
+    "Time": "2018-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DXCM",
+    "Time": "2018-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WING",
+    "Time": "2018-08-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EKSO",
+    "Time": "2018-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FIVN",
+    "Time": "2018-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ETSY",
+    "Time": "2018-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RPD",
+    "Time": "2018-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ALRM",
+    "Time": "2018-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:YELP",
+    "Time": "2018-08-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AYX",
+    "Time": "2018-08-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PETQ",
+    "Time": "2018-08-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WMT",
+    "Time": "2018-08-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CRMT",
+    "Time": "2018-08-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HZNP",
+    "Time": "2018-08-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KEYS",
+    "Time": "2018-08-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DBI",
+    "Time": "2018-08-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TLYS",
+    "Time": "2018-08-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PARR",
+    "Time": "2018-08-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MLKN",
+    "Time": "2018-09-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SA",
+    "Time": "2018-09-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EEFT",
+    "Time": "2018-10-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CIG",
+    "Time": "2018-10-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTD",
+    "Time": "2018-10-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MGNI",
+    "Time": "2018-11-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:XLNX",
+    "Time": "2019-01-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSIS",
+    "Time": "2019-01-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WWD",
+    "Time": "2019-01-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRCY",
+    "Time": "2019-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SYK",
+    "Time": "2019-01-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FLWS",
+    "Time": "2019-01-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DECK",
+    "Time": "2019-02-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ZEN",
+    "Time": "2019-02-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COLM",
+    "Time": "2019-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OMCL",
+    "Time": "2019-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MSI",
+    "Time": "2019-02-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CRTO",
+    "Time": "2019-02-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:YETI",
+    "Time": "2019-02-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SNBR",
+    "Time": "2019-02-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:KNDI",
+    "Time": "2019-02-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BOOM",
+    "Time": "2019-02-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTD",
+    "Time": "2019-02-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SE",
+    "Time": "2019-02-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MELI",
+    "Time": "2019-02-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HZNP",
+    "Time": "2019-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TWNK",
+    "Time": "2019-02-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EVRI",
+    "Time": "2019-03-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MDB",
+    "Time": "2019-03-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVRO",
+    "Time": "2019-03-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:XHR",
+    "Time": "2019-03-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PRGS",
+    "Time": "2019-03-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EXP",
+    "Time": "2019-03-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DIS",
+    "Time": "2019-04-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BCOV",
+    "Time": "2019-04-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ENVA",
+    "Time": "2019-04-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LOVE",
+    "Time": "2019-04-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ENPH",
+    "Time": "2019-05-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DMRC",
+    "Time": "2019-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UAA",
+    "Time": "2019-05-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2019-05-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AIG",
+    "Time": "2019-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EGRX",
+    "Time": "2019-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IOVA",
+    "Time": "2019-05-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HEI",
+    "Time": "2019-05-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VEEV",
+    "Time": "2019-05-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MLKN",
+    "Time": "2019-06-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HLIT",
+    "Time": "2019-07-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPO",
+    "Time": "2019-07-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CRWD",
+    "Time": "2019-07-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MHO",
+    "Time": "2019-07-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WST",
+    "Time": "2019-07-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SMSI",
+    "Time": "2019-07-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BIO",
+    "Time": "2019-08-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SEDG",
+    "Time": "2019-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CDLX",
+    "Time": "2019-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AVLR",
+    "Time": "2019-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FTDR",
+    "Time": "2019-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:G",
+    "Time": "2019-08-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVRO",
+    "Time": "2019-08-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TGT",
+    "Time": "2019-08-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LCI",
+    "Time": "2019-08-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMBA",
+    "Time": "2019-08-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DOCU",
+    "Time": "2019-09-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MLKN",
+    "Time": "2019-09-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNX",
+    "Time": "2019-09-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:POOL",
+    "Time": "2019-10-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TRNS",
+    "Time": "2019-10-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VC",
+    "Time": "2019-10-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ROCK",
+    "Time": "2019-10-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RMD",
+    "Time": "2019-10-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SHOO",
+    "Time": "2019-10-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:QRVO",
+    "Time": "2019-11-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DVA",
+    "Time": "2019-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IOSP",
+    "Time": "2019-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HPQ",
+    "Time": "2019-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CCRN",
+    "Time": "2019-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DXCM",
+    "Time": "2019-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVRO",
+    "Time": "2019-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TGI",
+    "Time": "2019-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COLL",
+    "Time": "2019-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IVC",
+    "Time": "2019-11-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ROK",
+    "Time": "2019-11-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CDLX",
+    "Time": "2019-11-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ENR",
+    "Time": "2019-11-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SCHW",
+    "Time": "2019-11-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:POWL",
+    "Time": "2019-12-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SNY",
+    "Time": "2019-12-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLAB",
+    "Time": "2019-12-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MIRM",
+    "Time": "2019-12-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:JBL",
+    "Time": "2019-12-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RAD",
+    "Time": "2019-12-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MX",
+    "Time": "2020-01-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LAUR",
+    "Time": "2020-01-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ADNT",
+    "Time": "2020-01-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMZN",
+    "Time": "2020-01-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CTLT",
+    "Time": "2020-02-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UIS",
+    "Time": "2020-02-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NLOK",
+    "Time": "2020-02-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IDT",
+    "Time": "2020-02-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:USNA",
+    "Time": "2020-04-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CHGG",
+    "Time": "2020-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MELI",
+    "Time": "2020-05-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TWLO",
+    "Time": "2020-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FSLY",
+    "Time": "2020-05-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PTGX",
+    "Time": "2020-05-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVAX",
+    "Time": "2020-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BJ",
+    "Time": "2020-05-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WU",
+    "Time": "2020-06-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:APPS",
+    "Time": "2020-06-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HEAR",
+    "Time": "2020-06-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NVTA",
+    "Time": "2020-06-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:KNSA",
+    "Time": "2020-06-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:QUMU",
+    "Time": "2020-06-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:INFY",
+    "Time": "2020-07-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OMI",
+    "Time": "2020-07-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LAD",
+    "Time": "2020-07-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UL",
+    "Time": "2020-07-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWIR",
+    "Time": "2020-07-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:UPS",
+    "Time": "2020-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:QCOM",
+    "Time": "2020-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AAPL",
+    "Time": "2020-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PINS",
+    "Time": "2020-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FB",
+    "Time": "2020-07-31",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ADT",
+    "Time": "2020-08-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IRTC",
+    "Time": "2020-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IMXI",
+    "Time": "2020-08-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2020-08-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ASTE",
+    "Time": "2020-08-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AMN",
+    "Time": "2020-08-07",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TGT",
+    "Time": "2020-08-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SJM",
+    "Time": "2020-08-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PLAN",
+    "Time": "2020-08-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VNE",
+    "Time": "2020-08-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LUB",
+    "Time": "2020-09-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SGMS",
+    "Time": "2020-09-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NKE",
+    "Time": "2020-09-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNAP",
+    "Time": "2020-10-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CALX",
+    "Time": "2020-10-21",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TUP",
+    "Time": "2020-10-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PINS",
+    "Time": "2020-10-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IT",
+    "Time": "2020-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ANET",
+    "Time": "2020-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:XPEV",
+    "Time": "2020-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SNDX",
+    "Time": "2020-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WK",
+    "Time": "2020-11-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:QCOM",
+    "Time": "2020-11-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GPRO",
+    "Time": "2020-11-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PEB",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RHP",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FMX",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PFGC",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:XHR",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PRTY",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PLNT",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PH",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BSBR",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PARR",
+    "Time": "2020-11-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ZLAB",
+    "Time": "2020-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WSM",
+    "Time": "2020-11-20",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BB",
+    "Time": "2020-12-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SFIX",
+    "Time": "2020-12-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SMAR",
+    "Time": "2020-12-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EGHT",
+    "Time": "2020-12-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SMPL",
+    "Time": "2020-12-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MLM",
+    "Time": "2021-01-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GTX",
+    "Time": "2021-01-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GLNG",
+    "Time": "2021-01-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MAXR",
+    "Time": "2021-01-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GE",
+    "Time": "2021-01-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVAX",
+    "Time": "2021-01-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GOOG",
+    "Time": "2021-02-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MTOR",
+    "Time": "2021-02-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TDC",
+    "Time": "2021-02-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SLQT",
+    "Time": "2021-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LYFT",
+    "Time": "2021-02-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:THS",
+    "Time": "2021-02-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HUBS",
+    "Time": "2021-02-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TMST",
+    "Time": "2021-02-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RVLV",
+    "Time": "2021-02-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EGLE",
+    "Time": "2021-03-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WSM",
+    "Time": "2021-03-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AOUT",
+    "Time": "2021-03-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LEVI",
+    "Time": "2021-04-09",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PPG",
+    "Time": "2021-04-16",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PETQ",
+    "Time": "2021-04-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EFX",
+    "Time": "2021-04-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TDC",
+    "Time": "2021-04-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:POOL",
+    "Time": "2021-04-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CROX",
+    "Time": "2021-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HSII",
+    "Time": "2021-04-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:G",
+    "Time": "2021-04-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MHO",
+    "Time": "2021-04-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CCS",
+    "Time": "2021-04-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FB",
+    "Time": "2021-04-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IT",
+    "Time": "2021-05-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EVRI",
+    "Time": "2021-05-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:JYNT",
+    "Time": "2021-05-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OOMA",
+    "Time": "2021-05-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ICFI",
+    "Time": "2021-06-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NKE",
+    "Time": "2021-06-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PFSW",
+    "Time": "2021-07-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VRS",
+    "Time": "2021-07-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLOW",
+    "Time": "2021-07-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CROX",
+    "Time": "2021-07-22",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RHI",
+    "Time": "2021-07-23",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LC",
+    "Time": "2021-07-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TEAM",
+    "Time": "2021-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:POWI",
+    "Time": "2021-07-30",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TA",
+    "Time": "2021-08-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HZNP",
+    "Time": "2021-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PAYC",
+    "Time": "2021-08-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SITM",
+    "Time": "2021-08-05",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CVNA",
+    "Time": "2021-08-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ALRM",
+    "Time": "2021-08-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FULC",
+    "Time": "2021-08-10",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DOCS",
+    "Time": "2021-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PDFS",
+    "Time": "2021-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SKIN",
+    "Time": "2021-08-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ALC",
+    "Time": "2021-08-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PANW",
+    "Time": "2021-08-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ASO",
+    "Time": "2021-08-25",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMBA",
+    "Time": "2021-09-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SIG",
+    "Time": "2021-09-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PD",
+    "Time": "2021-09-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MRK",
+    "Time": "2021-10-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AYI",
+    "Time": "2021-10-06",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MXL",
+    "Time": "2021-10-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:RSG",
+    "Time": "2021-10-29",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NTCT",
+    "Time": "2021-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MTRN",
+    "Time": "2021-11-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SMCI",
+    "Time": "2021-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SKY",
+    "Time": "2021-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:FRG",
+    "Time": "2021-11-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PH",
+    "Time": "2021-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:EGY",
+    "Time": "2021-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:WK",
+    "Time": "2021-11-04",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BW",
+    "Time": "2021-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BZH",
+    "Time": "2021-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IAS",
+    "Time": "2021-11-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRAM",
+    "Time": "2021-11-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FTCH",
+    "Time": "2021-11-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DLTR",
+    "Time": "2021-11-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TJX",
+    "Time": "2021-11-17",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BBWI",
+    "Time": "2021-11-18",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRVL",
+    "Time": "2021-12-03",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLAB",
+    "Time": "2021-12-08",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:HWC",
+    "Time": "2022-01-19",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GLW",
+    "Time": "2022-01-26",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TWNK",
+    "Time": "2022-01-27",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CPRI",
+    "Time": "2022-02-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LNTH",
+    "Time": "2022-02-24",
+    "Tags": null,
+    "Comment": null
+  }
+]

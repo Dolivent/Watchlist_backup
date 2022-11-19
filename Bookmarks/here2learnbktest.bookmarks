@@ -1,0 +1,410 @@
+[
+  {
+    "Symbol": "NYSE:SQM",
+    "Time": "2022-03-03",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TRQ",
+    "Time": "2022-03-03",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ZIM",
+    "Time": "2022-03-09",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HBM",
+    "Time": "2022-03-10",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:TZA",
+    "Time": "2022-03-10",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DAC",
+    "Time": "2022-03-11",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MATX",
+    "Time": "2022-03-14",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DDS",
+    "Time": "2022-03-16",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:JXN",
+    "Time": "2022-03-16",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SLVM",
+    "Time": "2022-03-16",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CLF",
+    "Time": "2022-03-17",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PARA",
+    "Time": "2022-03-17",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VIVO",
+    "Time": "2022-03-17",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KR",
+    "Time": "2022-03-18",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AGRI",
+    "Time": "2022-03-21",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FLR",
+    "Time": "2022-03-21",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KR",
+    "Time": "2022-03-21",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RADA",
+    "Time": "2022-03-21",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KAR",
+    "Time": "2022-03-22",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AGRI",
+    "Time": "2022-03-23",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KR",
+    "Time": "2022-03-23",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KBR",
+    "Time": "2022-03-24",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GOGL",
+    "Time": "2022-03-28",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SBLK",
+    "Time": "2022-03-28",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BROS",
+    "Time": "2022-03-29",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SG",
+    "Time": "2022-03-29",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TH",
+    "Time": "2022-03-29",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BORR",
+    "Time": "2022-03-30",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GFI",
+    "Time": "2022-03-31",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:MRC",
+    "Time": "2022-03-31",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TENB",
+    "Time": "2022-03-31",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VTNR",
+    "Time": "2022-03-31",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BORR",
+    "Time": "2022-04-01",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GGPI",
+    "Time": "2022-04-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PTEN",
+    "Time": "2022-04-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PUMP",
+    "Time": "2022-04-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:UEC",
+    "Time": "2022-04-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:OXY",
+    "Time": "2022-04-05",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:PUMP",
+    "Time": "2022-04-05",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:UEC",
+    "Time": "2022-04-07",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CENX",
+    "Time": "2022-04-08",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:ERX",
+    "Time": "2022-04-08",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:UUUU",
+    "Time": "2022-04-12",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:X",
+    "Time": "2022-04-12",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:GFI",
+    "Time": "2022-04-18",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:VET",
+    "Time": "2022-04-18",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TH",
+    "Time": "2022-04-19",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VTNR",
+    "Time": "2022-04-20",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:X",
+    "Time": "2022-04-20",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:UAL",
+    "Time": "2022-04-21",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BPT",
+    "Time": "2022-04-29",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SJT",
+    "Time": "2022-05-02",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CRK",
+    "Time": "2022-05-03",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NEXT",
+    "Time": "2022-05-03",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TWI",
+    "Time": "2022-05-03",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SATL",
+    "Time": "2022-05-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:UCO",
+    "Time": "2022-05-04",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ALB",
+    "Time": "2022-05-05",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:HUSA",
+    "Time": "2022-05-05",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SARK",
+    "Time": "2022-05-06",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:SOXS",
+    "Time": "2022-05-11",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:SOXS",
+    "Time": "2022-05-12",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BORR",
+    "Time": "2022-05-13",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BPT",
+    "Time": "2022-05-13",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CF",
+    "Time": "2022-05-13",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:IPI",
+    "Time": "2022-05-16",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SGML",
+    "Time": "2022-05-16",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TDW",
+    "Time": "2022-05-16",
+    "Tags": [],
+    "Comment": null
+  }
+]

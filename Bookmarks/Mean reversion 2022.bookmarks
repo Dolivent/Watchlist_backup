@@ -1,0 +1,122 @@
+[
+  {
+    "Symbol": "NASDAQ:ARVL",
+    "Time": "2022-01-28",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TWOU",
+    "Time": "2022-02-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MNDY",
+    "Time": "2022-02-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:GDS",
+    "Time": "2022-03-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PDD",
+    "Time": "2022-03-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:YMM",
+    "Time": "2022-03-14",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "ARCA:YINN",
+    "Time": "2022-03-15",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BCYC",
+    "Time": "2022-04-13",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AFRM",
+    "Time": "2022-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FVRR",
+    "Time": "2022-05-11",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MSTR",
+    "Time": "2022-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SI",
+    "Time": "2022-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:U",
+    "Time": "2022-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:UPST",
+    "Time": "2022-05-12",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:ANF",
+    "Time": "2022-05-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNAP",
+    "Time": "2022-05-24",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IOVA",
+    "Time": "2022-06-02",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LYT",
+    "Time": "2022-07-01",
+    "Tags": null,
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ARLP",
+    "Time": "2022-07-13",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:BROS",
+    "Time": "2022-07-13",
+    "Tags": [],
+    "Comment": null
+  }
+]

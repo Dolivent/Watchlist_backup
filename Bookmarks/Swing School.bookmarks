@@ -1,0 +1,890 @@
+[
+  {
+    "Symbol": "NASDAQ:ACMR",
+    "Time": "2020-02-14T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:APPS",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ARCT",
+    "Time": "2020-07-10T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BLNK",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CAR",
+    "Time": "2020-08-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CELH",
+    "Time": "2020-06-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CELH",
+    "Time": "2020-07-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CELH",
+    "Time": "2020-08-04T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CLSK",
+    "Time": "2020-07-15T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CODX",
+    "Time": "2020-02-21T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CODX",
+    "Time": "2020-05-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CODX",
+    "Time": "2020-07-20T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CVNA",
+    "Time": "2020-06-01T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CVNA",
+    "Time": "2020-06-30T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CWH",
+    "Time": "2020-07-09T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CZR",
+    "Time": "2020-04-23T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPI",
+    "Time": "2020-07-16T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:EXPI",
+    "Time": "2020-08-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FSLY",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FVRR",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FVRR",
+    "Time": "2020-06-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:HL",
+    "Time": "2020-08-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:IBIO",
+    "Time": "2020-07-14T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:IBIO",
+    "Time": "2020-07-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:IDEX",
+    "Time": "2020-06-15T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-03-26T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-05-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-06-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MARK",
+    "Time": "2020-05-21T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NLS",
+    "Time": "2020-05-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NLS",
+    "Time": "2020-06-16T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NLS",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVAX",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OPK",
+    "Time": "2020-06-25T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OPK",
+    "Time": "2020-07-16T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OPK",
+    "Time": "2020-08-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2020-05-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2020-06-18T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PENN",
+    "Time": "2020-04-24T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PENN",
+    "Time": "2020-06-22T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PENN",
+    "Time": "2020-07-14T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PENN",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLUG",
+    "Time": "2020-06-22T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RDFN",
+    "Time": "2020-04-22T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RDFN",
+    "Time": "2020-07-16T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:RUN",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SRNE",
+    "Time": "2020-06-22T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SRNE",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWBI",
+    "Time": "2020-06-25T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SWBI",
+    "Time": "2020-07-20T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTOO",
+    "Time": "2020-08-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:UAVS",
+    "Time": "2020-08-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WKHS",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:WTRH",
+    "Time": "2020-06-26T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PRTS",
+    "Time": "2020-07-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:JMIA",
+    "Time": "2020-07-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CAN",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:Z",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TDOC",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VIR",
+    "Time": "2020-07-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AVLR",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:AVLR",
+    "Time": "2020-06-11T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ZS",
+    "Time": "2020-05-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DDOG",
+    "Time": "2020-06-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LAKE",
+    "Time": "2020-07-27T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:LAKE",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PTON",
+    "Time": "2020-05-01T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PTON",
+    "Time": "2020-07-24T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSLA",
+    "Time": "2019-12-09T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSLA",
+    "Time": "2020-05-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSLA",
+    "Time": "2020-06-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TTD",
+    "Time": "2020-07-30T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ZM",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:APT",
+    "Time": "2020-07-15T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:W",
+    "Time": "2020-07-24T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:W",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BILI",
+    "Time": "2020-06-11T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:BILI",
+    "Time": "2020-07-30T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:CODX",
+    "Time": "2020-07-15T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VIR",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:KIRK",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:KIRK",
+    "Time": "2020-07-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2017-05-19T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2017-04-18T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2017-07-10T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2017-08-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2018-03-02T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SQ",
+    "Time": "2018-09-24T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SEDG",
+    "Time": "2020-08-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ETSY",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ETSY",
+    "Time": "2020-07-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRNA",
+    "Time": "2020-04-01T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRNA",
+    "Time": "2020-04-13T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRNA",
+    "Time": "2020-05-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRNA",
+    "Time": "2020-07-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MRNA",
+    "Time": "2020-08-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:W",
+    "Time": "2020-06-09T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:VXRT",
+    "Time": "2020-07-10T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSLA",
+    "Time": "2020-08-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:TWLO",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LRN",
+    "Time": "2020-08-04T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:COUP",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LAC",
+    "Time": "2020-06-26T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:LAC",
+    "Time": "2020-07-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:DT",
+    "Time": "2020-08-04T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:CHWY",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:IBIO",
+    "Time": "2020-08-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:HTBX",
+    "Time": "2020-08-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2020-07-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SNAP",
+    "Time": "2020-08-18T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2017-08-24T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2017-09-26T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2017-10-16T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:OSTK",
+    "Time": "2017-12-08T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SEDG",
+    "Time": "2017-09-26T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ROKU",
+    "Time": "2019-07-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ROKU",
+    "Time": "2019-10-02T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:ENPH",
+    "Time": "2020-02-03T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2016-06-15T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2016-05-13T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2016-12-05T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2017-01-23T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2017-03-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2017-03-09T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2018-07-25T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2019-12-11T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2020-05-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:AMD",
+    "Time": "2020-06-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:DOCU",
+    "Time": "2020-04-09T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:KODK",
+    "Time": "2020-08-06T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-04-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-05-07T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:INO",
+    "Time": "2020-06-08T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MELI",
+    "Time": "2016-08-30T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:MELI",
+    "Time": "2017-04-19T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLUG",
+    "Time": "2014-02-24T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:PLUG",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:SDGR",
+    "Time": "2020-08-05T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NAT",
+    "Time": "2020-04-17T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:NAT",
+    "Time": "2019-12-04T00:00:00-05:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SHOP",
+    "Time": "2020-06-12T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:SHOP",
+    "Time": "2020-05-01T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:TSLA",
+    "Time": "2020-05-28T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FSLY",
+    "Time": "2020-08-19T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NYSE:FSLY",
+    "Time": "2020-09-18T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVAX",
+    "Time": "2020-07-31T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "AMEX:UAVS",
+    "Time": "2020-08-03T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  },
+  {
+    "Symbol": "NASDAQ:NVDA",
+    "Time": "2020-07-29T00:00:00-04:00",
+    "Tags": [],
+    "Comment": null
+  }
+]
