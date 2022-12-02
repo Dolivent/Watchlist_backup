@@ -301,3 +301,8 @@ FirstDayAsync
 ← 192576·162·Historical Market Data Service error message:Historical data request pacing violation·
 UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
    at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
+FirstDayAsync
+→ \u0000\u0000\u0000\u003887·195165·0·STNT·STK··0···SMART·PINK·USD···0·0·TRADES·2·
+← 195165·162·Historical Market Data Service error message:Historical data request pacing violation·
+UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
