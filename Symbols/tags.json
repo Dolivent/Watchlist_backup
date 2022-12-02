@@ -1,0 +1,977 @@
+{
+  "aerospace \u0026 defense": [
+    "NASDAQ:AXON",
+    "NYSE:ERJ",
+    "NYSE:GD",
+    "NYSE:HWM",
+    "NYSE:LMT",
+    "NYSE:NOC",
+    "NYSE:RTX",
+    "NYSE:TXT"
+  ],
+  "agricultural inputs": [
+    "NYSE:CF",
+    "NYSE:CTVA",
+    "NYSE:IPI",
+    "NYSE:LXU",
+    "NYSE:MOS",
+    "NYSE:NTR",
+    "NYSE:UAN"
+  ],
+  "airlines": [
+    "NYSE:AZUL",
+    "NYSE:GOL",
+    "NYSE:SAVE",
+    "NASDAQ:ULCC"
+  ],
+  "aluminum": [
+    "NYSE:AA",
+    "NYSE:ARNC",
+    "NASDAQ:CENX"
+  ],
+  "argentina": [
+    "NYSE:ARCO",
+    "AMEX:ARGT",
+    "NYSE:BMA",
+    "NASDAQ:GGAL",
+    "NASDAQ:MELI",
+    "NYSE:PAM",
+    "NYSE:TGS",
+    "NYSE:YPF"
+  ],
+  "artificial intelligence": [
+    "NYSE:AI",
+    "NASDAQ:PGY"
+  ],
+  "asset management": [
+    "NYSE:AMP"
+  ],
+  "auto manufacturers": [
+    "NYSE:F",
+    "NASDAQ:FFIE",
+    "NASDAQ:GOEV",
+    "NASDAQ:LCID",
+    "NASDAQ:LI",
+    "NYSE:NIO",
+    "NASDAQ:NIU",
+    "NASDAQ:PEV",
+    "NASDAQ:PSNY",
+    "NASDAQ:RIDE",
+    "NASDAQ:RIVN",
+    "NASDAQ:TSLA",
+    "NASDAQ:WKHS",
+    "NYSE:XPEV"
+  ],
+  "banks - diversified": [
+    "NYSE:BAC",
+    "NYSE:JPM",
+    "NYSE:WFC"
+  ],
+  "banks - regional": [
+    "NASDAQ:BANF",
+    "NYSE:BBD",
+    "NYSE:BCH",
+    "NYSE:BSBR",
+    "NYSE:CFR",
+    "NYSE:ITUB",
+    "NYSE:USB"
+  ],
+  "beverages - brewers": [
+    "NYSE:ABEV"
+  ],
+  "beverages - non-alcoholic": [
+    "NASDAQ:CELH"
+  ],
+  "biotechnology": [
+    "NASDAQ:ABCL",
+    "NASDAQ:AGEN",
+    "NASDAQ:AKRO",
+    "NASDAQ:ALDX",
+    "NASDAQ:ALLO",
+    "NASDAQ:ALNY",
+    "NASDAQ:ALT",
+    "NASDAQ:AMGN",
+    "NASDAQ:AMLX",
+    "NASDAQ:APLS",
+    "NASDAQ:ARGX",
+    "NASDAQ:ARWR",
+    "NASDAQ:ATAI",
+    "NASDAQ:AXSM",
+    "NASDAQ:BEAM",
+    "NASDAQ:BGNE",
+    "NASDAQ:BLUE",
+    "NASDAQ:BNTX",
+    "NASDAQ:CLVS",
+    "NASDAQ:COGT",
+    "NASDAQ:CORT",
+    "NASDAQ:CPRX",
+    "NASDAQ:CRBU",
+    "NASDAQ:CRSP",
+    "NASDAQ:CTIC",
+    "NASDAQ:CYTK",
+    "NASDAQ:DAWN",
+    "NASDAQ:DICE",
+    "NASDAQ:FOLD",
+    "NASDAQ:GERN",
+    "NASDAQ:GILD",
+    "NASDAQ:GOSS",
+    "NASDAQ:GTHX",
+    "NASDAQ:HALO",
+    "NASDAQ:HRMY",
+    "NASDAQ:IMCR",
+    "NASDAQ:IMGN",
+    "NASDAQ:KYMR",
+    "NASDAQ:LEGN",
+    "NASDAQ:MCRB",
+    "NASDAQ:MRNA",
+    "NASDAQ:MRSN",
+    "NASDAQ:NBIX",
+    "NASDAQ:NTLA",
+    "NASDAQ:NVAX",
+    "NASDAQ:PLRX",
+    "NASDAQ:REGN",
+    "NASDAQ:RXRX",
+    "NASDAQ:RYTM",
+    "NASDAQ:SAVA",
+    "NASDAQ:SGEN",
+    "NASDAQ:SIGA",
+    "NASDAQ:SRPT",
+    "NASDAQ:TCRT",
+    "NASDAQ:UTHR",
+    "NASDAQ:VERV",
+    "NASDAQ:VRDN",
+    "NASDAQ:VRTX",
+    "NASDAQ:ZLAB"
+  ],
+  "brazil": [
+    "AMEX:EWZ",
+    "NYSE:GGB",
+    "NYSE:VALE"
+  ],
+  "capital markets": [
+    "NASDAQ:FUTU",
+    "NYSE:GS",
+    "NASDAQ:IBKR",
+    "NASDAQ:LPLA",
+    "NYSE:MS",
+    "NYSE:RJF",
+    "NYSE:SCHW"
+  ],
+  "charging system infrastructure": [
+    "NASDAQ:BLNK",
+    "NYSE:CHPT",
+    "NASDAQ:EVGO",
+    "NYSE:WBX"
+  ],
+  "chile": [
+    "AMEX:ECH"
+  ],
+  "china": [
+    "NYSE:BABA",
+    "NASDAQ:HTHT",
+    "NASDAQ:LI",
+    "NASDAQ:TCOM"
+  ],
+  "cloud computing": [
+    "NYSE:ANET",
+    "NYSE:ASAN",
+    "NASDAQ:BL",
+    "NYSE:BOX",
+    "NYSE:CALX",
+    "NYSE:CRM",
+    "NASDAQ:DDOG",
+    "NYSE:DOCN",
+    "NASDAQ:DOCU",
+    "NASDAQ:GOOG",
+    "NASDAQ:GTLB",
+    "NASDAQ:MDB",
+    "NASDAQ:MNDY",
+    "NASDAQ:MSFT",
+    "NYSE:NET",
+    "NYSE:PAYC",
+    "NYSE:SNOW",
+    "NASDAQ:TEAM",
+    "NYSE:TWLO",
+    "NASDAQ:ZI",
+    "NASDAQ:ZM"
+  ],
+  "coal": [
+    "NYSE:AMR",
+    "NYSE:ARCH",
+    "NASDAQ:ARLP",
+    "NYSE:CEIX",
+    "NYSE:HCC",
+    "NYSE:SXC"
+  ],
+  "coking coal": [
+    "NYSE:AMR",
+    "NYSE:HCC",
+    "NASDAQ:METC",
+    "NYSE:SXC"
+  ],
+  "communication equipment": [
+    "NASDAQ:CLFD",
+    "NASDAQ:COMM",
+    "NASDAQ:PI"
+  ],
+  "communication services": [
+    "NASDAQ:EXTR",
+    "NYSE:T",
+    "NASDAQ:TMUS"
+  ],
+  "computer hardware": [
+    "NASDAQ:SMCI"
+  ],
+  "consulting services": [
+    "NASDAQ:HURN"
+  ],
+  "consumer cyclical": [
+    "NYSE:AZO",
+    "NYSE:GPC",
+    "NYSE:MCD",
+    "NASDAQ:ORLY",
+    "NYSE:TJX",
+    "NASDAQ:WING"
+  ],
+  "consumer defensive": [
+    "NYSE:BJ",
+    "NYSE:ELF",
+    "NASDAQ:PEP"
+  ],
+  "consumer electronics": [
+    "NASDAQ:AAPL"
+  ],
+  "copper": [
+    "NYSE:FCX",
+    "NYSE:HBM",
+    "NYSE:RIO",
+    "NYSE:SCCO",
+    "NYSE:TECK"
+  ],
+  "cybersecurity": [
+    "NASDAQ:CRWD",
+    "NASDAQ:CYBR",
+    "NASDAQ:FTNT",
+    "NASDAQ:PANW",
+    "NYSE:S",
+    "NASDAQ:ZS"
+  ],
+  "department stores": [
+    "NYSE:CBD"
+  ],
+  "diagnostics \u0026 research": [
+    "NASDAQ:APDN",
+    "NASDAQ:BEAT",
+    "NASDAQ:BNGO",
+    "NASDAQ:DXCM",
+    "NASDAQ:LNTH",
+    "NASDAQ:MEDP",
+    "AMEX:SENS",
+    "NASDAQ:TWST"
+  ],
+  "drug manufacturers - general": [
+    "NASDAQ:BIIB",
+    "NASDAQ:HCM",
+    "NYSE:LLY",
+    "NYSE:MRK",
+    "NYSE:PFE"
+  ],
+  "drug manufacturers - specialty \u0026 generic": [
+    "NASDAQ:RLMD",
+    "NASDAQ:VERU"
+  ],
+  "e-commerce": [
+    "NASDAQ:AMZN",
+    "NYSE:ATHM",
+    "NYSE:BABA",
+    "NASDAQ:BZUN",
+    "NYSE:CHWY",
+    "NASDAQ:DADA",
+    "NASDAQ:GLBE",
+    "NYSE:IS",
+    "NASDAQ:JD",
+    "NASDAQ:MELI",
+    "NASDAQ:PDD",
+    "NYSE:SE",
+    "NYSE:SHOP",
+    "NASDAQ:TTD",
+    "NYSE:VIPS"
+  ],
+  "education \u0026 training services": [
+    "NASDAQ:DUOL",
+    "NYSE:EDU",
+    "NYSE:GOTU",
+    "NASDAQ:GSUN",
+    "NYSE:TAL"
+  ],
+  "electronic gaming \u0026 multimedia": [
+    "NASDAQ:BILI",
+    "NASDAQ:NTES"
+  ],
+  "energy storage": [
+    "NASDAQ:ENVX",
+    "NASDAQ:FCEL",
+    "NYSE:FREY",
+    "NASDAQ:MULN",
+    "NASDAQ:PLUG",
+    "NYSE:QS"
+  ],
+  "engineering \u0026 construction": [
+    "NYSE:MTZ",
+    "NYSE:PWR"
+  ],
+  "ethanol": [
+    "NASDAQ:GPRE"
+  ],
+  "farm products": [
+    "NYSE:ADM"
+  ],
+  "finance": [
+    "NASDAQ:ACGL",
+    "NYSE:AFG",
+    "NYSE:AFL",
+    "NYSE:AMP",
+    "NYSE:CB",
+    "NASDAQ:ERIE",
+    "NYSE:FICO",
+    "NYSE:GL",
+    "NYSE:GS",
+    "NYSE:HIG",
+    "NASDAQ:IBKR",
+    "NYSE:JPM",
+    "NYSE:MET",
+    "NASDAQ:PFG",
+    "NYSE:PGR",
+    "NYSE:RE",
+    "NYSE:RJF",
+    "NYSE:SCHW",
+    "NYSE:TRV",
+    "NYSE:WRB"
+  ],
+  "financial data \u0026 stock exchanges": [
+    "NYSE:SPGI"
+  ],
+  "fintech": [
+    "NASDAQ:AFRM",
+    "NYSE:AMTD",
+    "NYSE:BILL",
+    "NASDAQ:DLO",
+    "NASDAQ:EXFY",
+    "NASDAQ:FUTU",
+    "NYSE:HKD",
+    "NASDAQ:HOOD",
+    "NASDAQ:IMXI",
+    "NYSE:LC",
+    "NYSE:LU",
+    "NASDAQ:MQ",
+    "NYSE:PAGS",
+    "NASDAQ:QFIN",
+    "NYSE:SQ",
+    "NASDAQ:TIGR",
+    "NASDAQ:TOP",
+    "NASDAQ:UPST"
+  ],
+  "food delivery": [
+    "NYSE:DASH"
+  ],
+  "gold": [
+    "NYSE:AGI",
+    "NYSE:AUY",
+    "NYSE:CDE",
+    "NYSE:EGO",
+    "NYSE:GFI",
+    "NYSE:HMY",
+    "NASDAQ:HYMC",
+    "NYSE:NEM"
+  ],
+  "health information services": [
+    "NYSE:DOCS",
+    "NYSE:EVH",
+    "NASDAQ:HQY",
+    "NASDAQ:PRVA",
+    "NASDAQ:SLP",
+    "NYSE:TDOC"
+  ],
+  "healthcare": [
+    "NYSE:ABC",
+    "NASDAQ:ACHC",
+    "NASDAQ:AKRO",
+    "NASDAQ:ALNY",
+    "NASDAQ:AMGN",
+    "NASDAQ:AMLX",
+    "NASDAQ:ARGX",
+    "NYSE:BHVN",
+    "NASDAQ:BIIB",
+    "NYSE:BLCO",
+    "NASDAQ:BLUE",
+    "NYSE:BMY",
+    "NYSE:CAH",
+    "NASDAQ:CCRN",
+    "NYSE:CI",
+    "NASDAQ:CPRX",
+    "NASDAQ:DXCM",
+    "NYSE:ELV",
+    "NASDAQ:FDMT",
+    "NASDAQ:FNGR",
+    "NASDAQ:GILD",
+    "NASDAQ:HALO",
+    "NASDAQ:HRMY",
+    "NYSE:HUM",
+    "NASDAQ:HURN",
+    "NASDAQ:HZNP",
+    "NASDAQ:IMCR",
+    "NASDAQ:IMVT",
+    "NASDAQ:INBX",
+    "NYSE:JNJ",
+    "NYSE:MCK",
+    "NYSE:MRK",
+    "NASDAQ:NBIX",
+    "NASDAQ:PCVX",
+    "NASDAQ:PODD",
+    "NASDAQ:PRVB",
+    "NASDAQ:REGN",
+    "NASDAQ:RXDX",
+    "NASDAQ:RYTM",
+    "NASDAQ:SRPT",
+    "NASDAQ:SWAV",
+    "NYSE:UNH",
+    "NASDAQ:UTHR",
+    "NASDAQ:VRTX"
+  ],
+  "healthcare plans": [
+    "NYSE:CI",
+    "NYSE:ELV",
+    "NYSE:HUM"
+  ],
+  "household \u0026 personal products": [
+    "NYSE:ELF",
+    "NYSE:HIMS"
+  ],
+  "industrials": [
+    "NYSE:BAH",
+    "NYSE:CAT",
+    "NYSE:DE",
+    "NYSE:GWW",
+    "NYSE:HUBB",
+    "NASDAQ:PCAR",
+    "NYSE:TTC"
+  ],
+  "information technology services": [
+    "NASDAQ:CD",
+    "NASDAQ:GDS"
+  ],
+  "insurance - diversified": [
+    "NASDAQ:ACGL",
+    "NYSE:BRK A",
+    "NYSE:HIG",
+    "NASDAQ:PFG"
+  ],
+  "insurance - life": [
+    "NYSE:AFL",
+    "NYSE:GL",
+    "NYSE:MET"
+  ],
+  "insurance - property \u0026 casualty": [
+    "NYSE:AFG",
+    "NYSE:CB",
+    "NYSE:PGR",
+    "NYSE:TRV",
+    "NYSE:WRB"
+  ],
+  "insurance - reinsurance": [
+    "NYSE:RE",
+    "NYSE:RNR"
+  ],
+  "insurance brokers": [
+    "NASDAQ:BRP",
+    "NASDAQ:ERIE"
+  ],
+  "integrated freight \u0026 logistics": [
+    "NASDAQ:FWRD",
+    "NYSE:XPO"
+  ],
+  "internet content \u0026 information": [
+    "NASDAQ:BIDU",
+    "NASDAQ:BZ",
+    "NASDAQ:IQ",
+    "NYSE:TME"
+  ],
+  "internet retail": [
+    "NASDAQ:PDD"
+  ],
+  "ipo": [
+    "NASDAQ:ACDC",
+    "NASDAQ:ALGM",
+    "NASDAQ:AMLX",
+    "NASDAQ:ARRY",
+    "NASDAQ:ASO",
+    "NYSE:BROS",
+    "NASDAQ:CEG",
+    "NYSE:CPNG",
+    "NYSE:CRBG",
+    "NYSE:CWAN",
+    "NASDAQ:DNUT",
+    "NYSE:DOCS",
+    "NYSE:EE",
+    "NYSE:ESAB",
+    "NASDAQ:FDMT",
+    "NASDAQ:FLNC",
+    "NYSE:FOUR",
+    "NASDAQ:GFS",
+    "NASDAQ:HRMY",
+    "NASDAQ:INBX",
+    "NASDAQ:MAXN",
+    "NASDAQ:NUVL",
+    "NASDAQ:PCVX",
+    "NASDAQ:SHLS",
+    "NYSE:VAL",
+    "NYSE:VSCO",
+    "NYSE:YOU"
+  ],
+  "kell": [
+    "NASDAQ:ASO",
+    "NYSE:DECK",
+    "NYSE:DHI",
+    "NASDAQ:LULU",
+    "NASDAQ:MEDP",
+    "NASDAQ:MSFT",
+    "NASDAQ:NVDA",
+    "NASDAQ:ON",
+    "NASDAQ:PODD",
+    "NASDAQ:QQQ",
+    "NASDAQ:TMDX",
+    "NASDAQ:TSLA",
+    "ARCA:UUP"
+  ],
+  "l/f": [
+    "AMEX:ENSV",
+    "AMEX:HUSA",
+    "NASDAQ:IMPP",
+    "AMEX:INDO",
+    "NASDAQ:MARPS",
+    "NYSE:NINE",
+    "NASDAQ:USEG"
+  ],
+  "liquefied natural gas": [
+    "NYSE:EQT",
+    "NYSE:FLNG",
+    "NASDAQ:GLNG",
+    "AMEX:LNG",
+    "NASDAQ:SLNG",
+    "AMEX:TELL"
+  ],
+  "lithium": [
+    "NYSE:ALB",
+    "NYSE:LAC",
+    "NASDAQ:LITM",
+    "NYSE:LTHM",
+    "NASDAQ:PLL",
+    "NASDAQ:SGML",
+    "AMEX:SLI",
+    "NYSE:SQM"
+  ],
+  "marine shipping": [
+    "NYSE:CMRE",
+    "NYSE:GNK",
+    "NASDAQ:GOGL",
+    "NASDAQ:GRIN",
+    "NYSE:NAT",
+    "NASDAQ:SBLK",
+    "NASDAQ:USEA",
+    "NYSE:ZIM"
+  ],
+  "medical care facilities": [
+    "NASDAQ:ACHC",
+    "NASDAQ:OPCH",
+    "NYSE:OSH",
+    "NYSE:SEM"
+  ],
+  "medical devices": [
+    "NASDAQ:AXNX",
+    "NYSE:BFLY",
+    "NASDAQ:CTKB",
+    "NASDAQ:INMD",
+    "NASDAQ:SWAV",
+    "NASDAQ:TMDX"
+  ],
+  "medical distribution": [
+    "NYSE:ABC",
+    "NYSE:CAH",
+    "NYSE:HLF",
+    "NYSE:MCK"
+  ],
+  "medical instruments \u0026 supplies": [
+    "NYSE:BLCO",
+    "NASDAQ:STAA"
+  ],
+  "mexico": [
+    "AMEX:EWW"
+  ],
+  "mining": [
+    "NASDAQ:APLD",
+    "NASDAQ:BITF",
+    "NASDAQ:BTBT",
+    "NYSE:BTCM",
+    "NASDAQ:HIVE",
+    "NASDAQ:HUT",
+    "NASDAQ:MARA",
+    "NASDAQ:RIOT",
+    "NASDAQ:SDIG",
+    "NASDAQ:TYDE"
+  ],
+  "natural gas liquids": [
+    "NYSE:AR",
+    "NASDAQ:CHK",
+    "NYSE:COP",
+    "NYSE:HES",
+    "NYSE:RRC",
+    "NYSE:SBOW",
+    "NYSE:SWN"
+  ],
+  "new leaders": [
+    "ARCA:CWEB",
+    "ARCA:FNGU",
+    "NASDAQ:FUTU",
+    "ARCA:GDXU",
+    "NYSE:MNSO",
+    "NASDAQ:PDD",
+    "NYSE:TME",
+    "NYSE:YUMC"
+  ],
+  "oil \u0026 gas": [
+    "NASDAQ:CHX",
+    "NYSE:CVX",
+    "NYSE:FTI",
+    "NYSE:MNRL",
+    "NYSE:OII",
+    "NYSE:XOM"
+  ],
+  "oil \u0026 gas drilling": [
+    "NYSE:BORR",
+    "NYSE:HP",
+    "NYSE:NBR",
+    "NASDAQ:PTEN",
+    "NYSE:RIG",
+    "NYSE:VAL"
+  ],
+  "oil \u0026 gas e\u0026p": [
+    "NYSE:BSM",
+    "NYSE:CPG",
+    "NYSE:CRK",
+    "NYSE:DVN",
+    "NYSE:EGY",
+    "NYSE:EOG",
+    "NYSE:ERF",
+    "NASDAQ:FANG",
+    "NASDAQ:KLXE",
+    "NYSE:KOS",
+    "NYSE:LPI",
+    "NYSE:MNRL",
+    "NYSE:MRO",
+    "NYSE:MUR",
+    "NASDAQ:NEXT",
+    "AMEX:OBE",
+    "NYSE:OXY",
+    "NYSE:PBT",
+    "NYSE:PR",
+    "NYSE:PXD",
+    "NASDAQ:ROCC",
+    "NYSE:SD",
+    "NYSE:TALO",
+    "NYSE:TPL",
+    "NYSE:VET",
+    "NYSE:VIST",
+    "NYSE:WTI"
+  ],
+  "oil \u0026 gas equipment \u0026 services": [
+    "NASDAQ:ACDC",
+    "NYSE:ARIS",
+    "NASDAQ:BKR",
+    "NASDAQ:CHX",
+    "NYSE:DRQ",
+    "NYSE:FTI",
+    "NYSE:HAL",
+    "NYSE:HLX",
+    "NASDAQ:KLXE",
+    "NYSE:NEX",
+    "NYSE:NINE",
+    "NYSE:NOV",
+    "NYSE:PR",
+    "NYSE:PUMP",
+    "NYSE:RES",
+    "NYSE:SLB",
+    "NYSE:SLCA",
+    "NYSE:TDW",
+    "NASDAQ:TH",
+    "NYSE:TS",
+    "NASDAQ:WFRD",
+    "NYSE:XPRO"
+  ],
+  "oil \u0026 gas integrated": [
+    "NYSE:AMPY",
+    "NASDAQ:APA",
+    "NYSE:CVX",
+    "NYSE:DEN",
+    "NYSE:EQNR",
+    "NYSE:ESTE",
+    "NYSE:NOG",
+    "NYSE:PBR",
+    "NYSE:PR",
+    "NYSE:XOM"
+  ],
+  "oil \u0026 gas midstream": [
+    "NYSE:ASC",
+    "AMEX:CQP",
+    "NYSE:DHT",
+    "NYSE:ENLC",
+    "NYSE:ET",
+    "NYSE:EURN",
+    "NASDAQ:GLNG",
+    "NYSE:INSW",
+    "NYSE:NAT",
+    "NYSE:PBA",
+    "NYSE:STNG",
+    "NYSE:TNK",
+    "NASDAQ:TRMD",
+    "NYSE:WMB"
+  ],
+  "oil \u0026 gas refining \u0026 marketing": [
+    "NYSE:BPT",
+    "NYSE:CVI",
+    "NYSE:DINO",
+    "NYSE:DK",
+    "NYSE:MPC",
+    "NYSE:PBF",
+    "NYSE:PSX",
+    "NYSE:TPL",
+    "NYSE:VLO",
+    "NASDAQ:VTNR"
+  ],
+  "old leaders": [
+    "NASDAQ:AEHR",
+    "NASDAQ:AKRO",
+    "NASDAQ:AMKR",
+    "NYSE:ASC",
+    "NASDAQ:CHX",
+    "NASDAQ:CLFD",
+    "NYSE:ELF",
+    "NASDAQ:EXTR",
+    "NYSE:FICO",
+    "NASDAQ:FSLR",
+    "NYSE:GFI",
+    "NYSE:INSW",
+    "NYSE:MRK",
+    "NASDAQ:RELL",
+    "NASDAQ:RMBS",
+    "NASDAQ:RYTM",
+    "NASDAQ:SANM",
+    "NASDAQ:STLD",
+    "NYSE:TPL",
+    "NYSE:WNC",
+    "ARCA:XLE"
+  ],
+  "power generators": [
+    "NYSE:BE"
+  ],
+  "pumper leaders": [
+    "NASDAQ:FDMT",
+    "NASDAQ:GLYC",
+    "NASDAQ:GRWG",
+    "NASDAQ:IMRA",
+    "NASDAQ:KLXE",
+    "NYSE:MANU",
+    "NASDAQ:MGNI",
+    "NYSE:NINE",
+    "NYSE:OII",
+    "NASDAQ:PCVX"
+  ],
+  "real estate services": [
+    "NYSE:BEKE",
+    "NASDAQ:CSGP",
+    "NASDAQ:Z"
+  ],
+  "rental \u0026 lending services": [
+    "NASDAQ:CAR"
+  ],
+  "restaurants": [
+    "NYSE:YUMC"
+  ],
+  "retail": [
+    "NYSE:MNSO",
+    "NYSE:YSG"
+  ],
+  "rideshare": [
+    "NASDAQ:LYFT",
+    "NYSE:UBER"
+  ],
+  "semiconductor equipment \u0026 materials": [
+    "NASDAQ:ACLS",
+    "NASDAQ:AEHR",
+    "NASDAQ:AMAT",
+    "NASDAQ:AMBA",
+    "NASDAQ:KLAC",
+    "NASDAQ:KLIC",
+    "NASDAQ:LRCX",
+    "NASDAQ:PLAB"
+  ],
+  "semiconductors": [
+    "NASDAQ:ALGM",
+    "NASDAQ:AMD",
+    "NASDAQ:AMKR",
+    "NASDAQ:AOSL",
+    "NASDAQ:AVGO",
+    "NASDAQ:GFS",
+    "NASDAQ:MPWR",
+    "NASDAQ:MRVL",
+    "NASDAQ:MU",
+    "NASDAQ:NVDA",
+    "NASDAQ:ON",
+    "NASDAQ:QCOM",
+    "NASDAQ:RMBS",
+    "NASDAQ:SLAB",
+    "NYSE:TSM",
+    "NYSE:WOLF"
+  ],
+  "social media": [
+    "NASDAQ:BMBL",
+    "NYSE:KIND",
+    "NYSE:PINS",
+    "NYSE:SNAP",
+    "NASDAQ:SPT"
+  ],
+  "solar": [
+    "NYSE:AMRC",
+    "NASDAQ:ARRY",
+    "NASDAQ:CSIQ",
+    "NYSE:DQ",
+    "NASDAQ:ENPH",
+    "NASDAQ:FSLR",
+    "NASDAQ:FTCI",
+    "NYSE:JKS",
+    "NASDAQ:MAXN",
+    "NYSE:NOVA",
+    "NASDAQ:PEGY",
+    "NASDAQ:RUN",
+    "NASDAQ:SEDG",
+    "NASDAQ:SHLS",
+    "NASDAQ:SPWR",
+    "NASDAQ:SUNW"
+  ],
+  "specialty materials": [
+    "NYSE:ATI",
+    "NASDAQ:GSM",
+    "NYSE:MP",
+    "NYSE:MTRN"
+  ],
+  "specialty retail": [
+    "NYSE:MNSO"
+  ],
+  "staffing \u0026 employment services": [
+    "NASDAQ:CCRN"
+  ],
+  "steel": [
+    "NYSE:CLF",
+    "NYSE:CMC",
+    "NYSE:GGB",
+    "NYSE:NUE",
+    "NYSE:RS",
+    "NASDAQ:STLD",
+    "NYSE:TMST",
+    "NYSE:VALE",
+    "NYSE:X",
+    "NASDAQ:ZEUS"
+  ],
+  "streaming entertainment services": [
+    "NYSE:FUBO",
+    "NASDAQ:NFLX",
+    "NASDAQ:ROKU",
+    "NYSE:SPOT"
+  ],
+  "technology": [
+    "NASDAQ:ACLS",
+    "NASDAQ:ASML",
+    "NASDAQ:AZPN",
+    "NYSE:CALX",
+    "NASDAQ:COIN",
+    "NYSE:CPNG",
+    "NASDAQ:DGII",
+    "NASDAQ:HLIT",
+    "NASDAQ:KLAC",
+    "NASDAQ:MMAT",
+    "NASDAQ:MSTR",
+    "NASDAQ:PI",
+    "NYSE:SI",
+    "NASDAQ:SMCI",
+    "NYSE:SQ"
+  ],
+  "telecom services": [
+    "NYSE:AMX"
+  ],
+  "thermal coal": [
+    "NYSE:ARCH",
+    "NASDAQ:ARLP",
+    "NYSE:BTU",
+    "NYSE:CEIX"
+  ],
+  "travel services": [
+    "NASDAQ:ABNB",
+    "NASDAQ:HTHT",
+    "NASDAQ:TCOM",
+    "NASDAQ:TOUR"
+  ],
+  "trucking": [
+    "NASDAQ:ARCB",
+    "NASDAQ:CVLG",
+    "NASDAQ:MRTN",
+    "NASDAQ:ODFL",
+    "NASDAQ:TSP",
+    "NASDAQ:ULH",
+    "NASDAQ:YELL",
+    "NYSE:YMM"
+  ],
+  "uranium": [
+    "NYSE:CCJ",
+    "AMEX:DNN",
+    "AMEX:LEU",
+    "NYSE:NXE",
+    "AMEX:UEC",
+    "AMEX:UUUU"
+  ],
+  "utilities": [
+    "NASDAQ:CLNE",
+    "NYSE:EE",
+    "NASDAQ:FLNC",
+    "NASDAQ:NFE",
+    "NYSE:PCG"
+  ],
+  "utilities - regulated electric": [
+    "NYSE:CIG",
+    "NYSE:EBR"
+  ],
+  "utilities - regulated gas": [
+    "NASDAQ:CLNE",
+    "NASDAQ:NFE"
+  ],
+  "utilities - regulated water": [
+    "NYSE:SBS"
+  ],
+  "utilities - renewable": [
+    "NYSE:AMPS",
+    "NASDAQ:CEG",
+    "NYSE:CWEN",
+    "NASDAQ:FLNC",
+    "NASDAQ:MNTK",
+    "NYSE:NEE",
+    "NYSE:NEP"
+  ],
+  "virtual reality": [
+    "NASDAQ:META",
+    "NYSE:RBLX",
+    "NYSE:U",
+    "NASDAQ:VRAR",
+    "NASDAQ:VUZI"
+  ],
+  "wind energy": [
+    "NASDAQ:TPIC"
+  ]
+}

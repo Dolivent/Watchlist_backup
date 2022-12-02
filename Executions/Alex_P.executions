@@ -1,0 +1,1860 @@
+{
+  "Trades": [
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CEIX",
+              "Time": "2022-09-06T09:30:20",
+              "Quantity": 9,
+              "Price": 76.32,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CEIX",
+              "Time": "2022-09-06T09:54:20",
+              "Quantity": -9,
+              "Price": 74.93,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SARK",
+              "Time": "2022-09-06T10:01:20",
+              "Quantity": 10,
+              "Price": 60.31,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SARK",
+              "Time": "2022-09-06T12:03:20",
+              "Quantity": -10,
+              "Price": 58.7,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "random",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:30:20",
+              "Quantity": 50,
+              "Price": 27.25,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:45:20",
+              "Quantity": -50,
+              "Price": 27.04,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:32:20",
+              "Quantity": 75,
+              "Price": 27.31,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:45:20",
+              "Quantity": -75,
+              "Price": 27.06,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:35:20",
+              "Quantity": 35,
+              "Price": 27.44,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SCO",
+              "Time": "2022-09-07T09:36:20",
+              "Quantity": -35,
+              "Price": 27.94,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-09T09:35:20",
+              "Quantity": 250,
+              "Price": 9.81,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-09T09:36:20",
+              "Quantity": -250,
+              "Price": 9.86,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:GASS",
+              "Time": "2022-09-09T09:37:20",
+              "Quantity": 187,
+              "Price": 3.08,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:GASS",
+              "Time": "2022-09-09T09:39:20",
+              "Quantity": -187,
+              "Price": 3.08,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "random",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-12T09:30:20",
+              "Quantity": 68,
+              "Price": 10,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-12T09:31:20",
+              "Quantity": -68,
+              "Price": 9.95,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-09-12T09:30:20",
+              "Quantity": 80,
+              "Price": 13.12,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-09-12T09:42:20",
+              "Quantity": -80,
+              "Price": 13.03,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-09-12T09:31:20",
+              "Quantity": 50,
+              "Price": 13.4,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-09-12T09:42:20",
+              "Quantity": -50,
+              "Price": 12.98,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-09-12T09:35:20",
+              "Quantity": 20,
+              "Price": 69.99,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-09-12T09:36:20",
+              "Quantity": -20,
+              "Price": 70.39,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-09-12T09:35:20",
+              "Quantity": 26,
+              "Price": 69.9,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-09-12T09:43:20",
+              "Quantity": -26,
+              "Price": 69.32,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:NRGU",
+              "Time": "2022-09-12T09:51:20",
+              "Quantity": 4,
+              "Price": 477.72,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:NRGU",
+              "Time": "2022-09-12T12:26:20",
+              "Quantity": -4,
+              "Price": 479.58,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AR",
+              "Time": "2022-09-13T10:28:20",
+              "Quantity": 15,
+              "Price": 41.37,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AR",
+              "Time": "2022-09-13T12:31:20",
+              "Quantity": -15,
+              "Price": 40.41,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "random",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:SWN",
+              "Time": "2022-09-14T09:30:20",
+              "Quantity": 130,
+              "Price": 7.94,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:SWN",
+              "Time": "2022-09-14T09:31:20",
+              "Quantity": -130,
+              "Price": 7.8,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-14T09:38:20",
+              "Quantity": 46,
+              "Price": 10.39,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:ASC",
+              "Time": "2022-09-14T14:00:20",
+              "Quantity": -46,
+              "Price": 10.04,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "chase",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PLUG",
+              "Time": "2022-09-15T09:41:20",
+              "Quantity": 100,
+              "Price": 30.04,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PLUG",
+              "Time": "2022-09-15T09:57:20",
+              "Quantity": -100,
+              "Price": 29.78,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:RUN",
+              "Time": "2022-09-15T10:12:20",
+              "Quantity": 25,
+              "Price": 38.89,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:RUN",
+              "Time": "2022-09-15T10:27:20",
+              "Quantity": -25,
+              "Price": 38.31,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:INSW",
+              "Time": "2022-10-03T09:30:20",
+              "Quantity": 20,
+              "Price": 36.38,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:INSW",
+              "Time": "2022-10-03T09:58:20",
+              "Quantity": -20,
+              "Price": 35.65,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "chase",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:20",
+              "Quantity": 8,
+              "Price": 140.31,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:31:20",
+              "Quantity": -8,
+              "Price": 140.45,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-10-04T09:32:20",
+              "Quantity": 35,
+              "Price": 15.61,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FREY",
+              "Time": "2022-10-04T09:33:20",
+              "Quantity": -35,
+              "Price": 15.57,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "chase",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:42:20",
+              "Quantity": 8,
+              "Price": 142.55,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-05T09:39:20",
+              "Quantity": -8,
+              "Price": 139.88,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "chase",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-06T09:30:20",
+              "Quantity": 13,
+              "Price": 173.56,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-06T10:02:20",
+              "Quantity": -13,
+              "Price": 172.22,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-06T09:36:20",
+              "Quantity": 8,
+              "Price": 174.37,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-06T10:02:20",
+              "Quantity": -8,
+              "Price": 172.25,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-13T09:30:20",
+              "Quantity": 15,
+              "Price": 40.47,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-13T11:35:20",
+              "Quantity": -15,
+              "Price": 39.46,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-13T09:30:20",
+              "Quantity": 19,
+              "Price": 40.75,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-13T11:20:20",
+              "Quantity": -19,
+              "Price": 39.48,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-13T09:49:20",
+              "Quantity": 5,
+              "Price": 172.89,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "AMEX:LNG",
+              "Time": "2022-10-14T12:13:20",
+              "Quantity": -5,
+              "Price": 170,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "in range",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:CECE",
+              "Time": "2022-10-14T09:35:00",
+              "Quantity": 44,
+              "Price": 10.06,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:CECE",
+              "Time": "2022-10-17T15:59:00",
+              "Quantity": -44,
+              "Price": 9.68,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-14T09:38:20",
+              "Quantity": 10,
+              "Price": 68.56,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-14T10:11:20",
+              "Quantity": -10,
+              "Price": 67.02,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "random",
+      "BuyMistake": "in range",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SBUX",
+              "Time": "2022-10-18T09:30:20",
+              "Quantity": 10,
+              "Price": 90.38,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SBUX",
+              "Time": "2022-10-18T09:46:20",
+              "Quantity": -10,
+              "Price": 89.7,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": "in range",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:OILU",
+              "Time": "2022-10-18T09:39:20",
+              "Quantity": 15,
+              "Price": 51.51,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:OILU",
+              "Time": "2022-10-18T09:45:20",
+              "Quantity": -15,
+              "Price": 50.42,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:OILU",
+              "Time": "2022-10-18T09:42:20",
+              "Quantity": 11,
+              "Price": 51.72,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:OILU",
+              "Time": "2022-10-18T09:45:20",
+              "Quantity": -11,
+              "Price": 50.42,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:XOM",
+              "Time": "2022-10-19T09:33:20",
+              "Quantity": 20,
+              "Price": 102.54,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:XOM",
+              "Time": "2022-10-19T09:34:20",
+              "Quantity": -20,
+              "Price": 108.37,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2022-10-19T09:36:20",
+              "Quantity": 18,
+              "Price": 165.74,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2022-10-19T09:37:20",
+              "Quantity": -18,
+              "Price": 175.97,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-10-19T09:36:20",
+              "Quantity": 10,
+              "Price": 70.9,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-10-19T09:49:20",
+              "Quantity": -10,
+              "Price": 69.87,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-10-19T09:36:20",
+              "Quantity": 15,
+              "Price": 70.7,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:DVN",
+              "Time": "2022-10-19T09:37:20",
+              "Quantity": -15,
+              "Price": 74.28,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:CHRD",
+              "Time": "2022-10-19T09:38:20",
+              "Quantity": 10,
+              "Price": 150.85,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:CHRD",
+              "Time": "2022-10-19T09:39:20",
+              "Quantity": -10,
+              "Price": 151.26,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-20T09:30:20",
+              "Quantity": 22,
+              "Price": 69.64,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-20T13:24:20",
+              "Quantity": -22,
+              "Price": 68.8,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:APA",
+              "Time": "2022-10-20T09:45:20",
+              "Quantity": 21,
+              "Price": 42.46,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:APA",
+              "Time": "2022-10-20T12:47:20",
+              "Quantity": -21,
+              "Price": 41.77,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-20T09:55:20",
+              "Quantity": 15,
+              "Price": 69.8,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:OXY",
+              "Time": "2022-10-20T13:24:20",
+              "Quantity": -15,
+              "Price": 68.8,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-21T09:30:20",
+              "Quantity": 20,
+              "Price": 39.15,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-21T09:53:20",
+              "Quantity": -20,
+              "Price": 38.96,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-21T09:31:20",
+              "Quantity": 20,
+              "Price": 39.23,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:BITI",
+              "Time": "2022-10-21T09:53:20",
+              "Quantity": -20,
+              "Price": 38.96,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:30:20",
+              "Quantity": 3,
+              "Price": 154.37,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:35:20",
+              "Quantity": -3,
+              "Price": 149.44,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:30:20",
+              "Quantity": 6,
+              "Price": 152.36,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:31:20",
+              "Quantity": -6,
+              "Price": 154.05,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PDCE",
+              "Time": "2022-10-26T09:32:20",
+              "Quantity": 15,
+              "Price": 71.63,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PDCE",
+              "Time": "2022-10-28T10:09:20",
+              "Quantity": -15,
+              "Price": 70.16,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PDCE",
+              "Time": "2022-10-26T09:32:20",
+              "Quantity": 25,
+              "Price": 71.52,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PDCE",
+              "Time": "2022-10-26T09:33:20",
+              "Quantity": -25,
+              "Price": 71.51,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:33:20",
+              "Quantity": 3,
+              "Price": 156.55,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:WING",
+              "Time": "2022-10-26T09:35:20",
+              "Quantity": -3,
+              "Price": 149.44,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-26T09:35:00",
+              "Quantity": 4,
+              "Price": 112,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-26T09:36:20",
+              "Quantity": -4,
+              "Price": 107.52,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-26T09:35:00",
+              "Quantity": 8,
+              "Price": 110.34,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-26T09:36:20",
+              "Quantity": -8,
+              "Price": 107.52,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:SM",
+              "Time": "2022-10-26T09:38:20",
+              "Quantity": 20,
+              "Price": 45.03,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:SM",
+              "Time": "2022-10-26T09:49:20",
+              "Quantity": -20,
+              "Price": 44.42,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-27T09:30:20",
+              "Quantity": 15,
+              "Price": 109.3,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PI",
+              "Time": "2022-10-27T09:46:20",
+              "Quantity": -15,
+              "Price": 107.77,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CF",
+              "Time": "2022-10-28T09:32:20",
+              "Quantity": 10,
+              "Price": 109.04,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CF",
+              "Time": "2022-10-28T10:04:20",
+              "Quantity": -10,
+              "Price": 106.88,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:DAIO",
+              "Time": "2022-10-28T09:39:20",
+              "Quantity": 85,
+              "Price": 3.74,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:DAIO",
+              "Time": "2022-10-28T09:40:20",
+              "Quantity": -85,
+              "Price": 3.78,
+              "Fee": 0,
+              "Id": null,
+              "OrderId": null
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    }
+  ],
+  "Executions": []
+}

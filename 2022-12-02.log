@@ -1,0 +1,303 @@
+CancelAsync
+→ \u0000\u0000\u0000\u000C25·1·181015·
+← 181015·366·No historical data query found for ticker id:181015·
+InvalidOperationException No historical data query found for ticker id:181015
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
+CancelAsync
+→ \u0000\u0000\u0000\u000C25·1·181136·
+← 181136·366·No historical data query found for ticker id:181136·
+InvalidOperationException No historical data query found for ticker id:181136
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
+CancelAsync
+→ \u0000\u0000\u0000\u000C25·1·181121·
+← 181121·366·No historical data query found for ticker id:181121·
+InvalidOperationException No historical data query found for ticker id:181121
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
+FirstDayAsync
+→ \u0000\u0000\u0000\u003887·180916·0·LGIQ·STK··0···SMART·PINK·USD···0·0·TRADES·2·
+← 180916·162·Historical Market Data Service error message:Historical data request pacing violation·
+UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 131
+FirstDayAsync
+→ \u0000\u0000\u0000\u003887·181353·0·MFON·STK··0···SMART·PINK·USD···0·0·TRADES·2·
+← 181353·162·Historical Market Data Service error message:Historical data request pacing violation·
+UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 131
+↓ 32·KPT·
+InvalidOperationException No MarketData builder exists for requestId: 187721.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·187721·32·KPT·
+InvalidOperationException No MarketData builder exists for requestId: 187721.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 2·45.66·100·1·
+InvalidOperationException No MarketData builder exists for requestId: 188667.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188667·2·45.66·100·1·
+InvalidOperationException No MarketData builder exists for requestId: 188667.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 84·T·
+InvalidOperationException No MarketData builder exists for requestId: 188745.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188745·84·T·
+InvalidOperationException No MarketData builder exists for requestId: 188745.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 5·300·
+InvalidOperationException No MarketData builder exists for requestId: 188745.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188745·5·300·
+InvalidOperationException No MarketData builder exists for requestId: 188745.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 45·1669991256·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188738·45·1669991256·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 84·U·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188738·84·U·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 4·22.38·300·0·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188738·4·22.38·300·0·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 45·1669991256·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188759·45·1669991256·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 84·D·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188759·84·D·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 5·300·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188759·5·300·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 1·32.96·800·1·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188757·1·32.96·800·1·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 2·33.01·500·1·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188757·2·33.01·500·1·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 0·800·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188757·0·800·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 3·500·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188757·3·500·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 32·KPTZ·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188757·32·KPTZ·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 33·PT·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188757·33·PT·
+InvalidOperationException No MarketData builder exists for requestId: 188757.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 3·2200·
+InvalidOperationException No MarketData builder exists for requestId: 188736.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188736·3·2200·
+InvalidOperationException No MarketData builder exists for requestId: 188736.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 33·KPQZ·
+InvalidOperationException No MarketData builder exists for requestId: 188736.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188736·33·KPQZ·
+InvalidOperationException No MarketData builder exists for requestId: 188736.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 1·22.39·1200·1·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188738·1·22.39·1200·1·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 2·22.40·47700·1·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 1·6·188738·2·22.40·47700·1·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 0·1200·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188738·0·1200·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 3·47700·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188738·3·47700·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 32·QX·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188738·32·QX·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 33·CJKPQVXYZNU·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188738·33·CJKPQVXYZNU·
+InvalidOperationException No MarketData builder exists for requestId: 188738.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 0·100·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188759·0·100·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 3·26500·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 2·6·188759·3·26500·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 32·Q·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188759·32·Q·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+↓ 33·ABCJKPQXYZNU·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 46·6·188759·33·ABCJKPQXYZNU·
+InvalidOperationException No MarketData builder exists for requestId: 188759.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+← 20·3·188764·50·0·332794741·NIO·STK··0··SMART·USD·NIO·NIO·NIO·····1·73340487·SOXL·STK··0··SMART·USD·SOXL·SOXL·SOXL·····2·3691937·AMZN·STK··0··SMART·USD·AMZN·NMS·NMS·····3·72539702·TQQQ·STK··0··SMART·USD·TQQQ·NMS·NMS·····4·76792991·TSLA·STK··0··SMART·USD·TSLA·NMS·NMS·····5·4521593·AZN·STK··0··SMART·USD·AZN·NMS·NMS·····6·320227571·QQQ·STK··0··SMART·USD·QQQ·NMS·NMS·····7·587501752·TOPS·STK··0··SMART·USD·TOPS·SCM·SCM·····8·537765515·SQQQ·STK··0··SMART·USD·SQQQ·NMS·NMS·····9·756733·SPY·STK··0··SMART·USD·SPY·SPY·SPY·····10·4391·AMD·STK··0··SMART·USD·AMD·NMS·NMS·····11·88385302·PLUG·STK··0··SMART·USD·PLUG·SCM·SCM·····12·4815747·NVDA·STK··0··SMART·USD·NVDA·NMS·NMS·····13·483311199·PATH·STK··0··SMART·USD·PATH·PATH·PATH·····14·249850033·NTNX·STK··0··SMART·USD·NTNX·NMS·NMS·····15·209007500·AVXL·STK··0··SMART·USD·AVXL·NMS·NMS·····16·416854744·DUST·STK··0··SMART·USD·DUST·DUST·DUST·····17·483492393·MRVL·STK··0··SMART·USD·MRVL·NMS·NMS·····18·208813719·GOOGL·STK··0··SMART·USD·GOOGL·NMS·NMS·····19·229726316·GDX·STK··0··SMART·USD·GDX·GDX·GDX·····20·464392051·SPXU·STK··0··SMART·USD·SPXU·SPXU·SPXU·····21·266630·BBBY·STK··0··SMART·USD·BBBY·NMS·NMS·····22·490791488·UVXY·STK··0··SMART·USD·UVXY·UVXY·UVXY·····23·208813720·GOOG·STK··0··SMART·USD·GOOG·NMS·NMS·····24·586264441·RUM·STK··0··SMART·USD·RUM·NMS·NMS·····25·441828902·XPEV·STK··0··SMART·USD·XPEV·XPEV·XPEV·····26·554208351·WBD·STK··0··SMART·USD·WBD·NMS·NMS·····27·144463724·VOD·STK··0··SMART·USD·VOD·NMS·NMS·····28·265598·AAPL·STK··0··SMART·USD·AAPL·NMS·NMS·····29·546185322·SOXS·STK··0··SMART·USD·SOXS·SOXS·SOXS·····30·212671971·SQ·STK··0··SMART·USD·SQ·SQ·SQ·····31·267748·CMCSA·STK··0··SMART·USD·CMCSA·NMS·NMS·····32·467911567·SHLS·STK··0··SMART·USD·SHLS·NMS·NMS·····33·29624264·CRM·STK··0··SMART·USD·CRM·CRM·CRM·····34·587797604·RMED·STK··0··SMART·USD·RMED·RMED·RMED·····35·459329484·SPXS·STK··0··SMART·USD·SPXS·SPXS·SPXS·····36·416180806·BOIL·STK··0··SMART·USD·BOIL·BOIL·BOIL·····37·79498203·UAL·STK··0··SMART·USD·UAL·NMS·NMS·····38·13435351·CS·STK··0··SMART·USD·CS·CS·CS·····39·107113386·META·STK··0··SMART·USD·META·NMS·NMS·····40·268084·CSCO·STK··0··SMART·USD·CSCO·NMS·NMS·····41·15435308·SNY·STK··0··SMART·USD·SNY·NMS·NMS·····42·370757467·CRWD·STK··0··SMART·USD·CRWD·NMS·NMS·····43·55679435·TNA·STK··0··SMART·USD·TNA·TNA·TNA·····44·9541698·NTES·STK··0··SMART·USD·NTES·NMS·NMS·····45·268060148·SNAP·STK··0··SMART·USD·SNAP·SNAP·SNAP·····46·9063285·ISRG·STK··0··SMART·USD·ISRG·NMS·NMS·····47·140070600·AMC·STK··0··SMART·USD·AMC·AMC·AMC·····48·270639·INTC·STK··0··SMART·USD·INTC·NMS·NMS·····49·11000·EXC·STK··0··SMART·USD·EXC·NMS·NMS·····
+ArgumentException SetException for request 188764 failed, request does not exist. (Parameter 'id')
+   at Snappy.InteractiveBrokers.Client.Responses.SetException(Int32 id, Exception exception, ResponseBytes bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Responses.cs:line 93
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+ InvalidOperationException No MarketScanResults builder exists for requestId: 188764.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+← 20·3·189139·0·
+ArgumentException SetException for request 189139 failed, request does not exist. (Parameter 'id')
+   at Snappy.InteractiveBrokers.Client.Responses.SetException(Int32 id, Exception exception, ResponseBytes bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Responses.cs:line 93
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+   at Snappy.InteractiveBrokers.Client.<ConnectAsync>g__Run|49_0()
+ InvalidOperationException No MarketScanResults builder exists for requestId: 189139.
+   at Snappy.InteractiveBrokers.Client.ResponseBuilders.Get[T](Int32 requestId) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseBuilders.cs:line 39
+   at Snappy.InteractiveBrokers.Client.ResponseHandler.SetValue(ReadOnlySpan`1 bytes) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.ResponseHandler.cs:line 390
+FirstDayAsync
+→ \u0000\u0000\u0000\u003887·192573·0·UNIR·STK··0···SMART·PINK·USD···0·0·TRADES·2·
+← 192573·162·Historical Market Data Service error message:Historical data request pacing violation·
+UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
+FirstDayAsync
+→ \u0000\u0000\u0000\u003887·192576·0·MEEC·STK··0···SMART·PINK·USD···0·0·TRADES·2·
+← 192576·162·Historical Market Data Service error message:Historical data request pacing violation·
+UnknownMessageException code: 162 Historical Market Data Service error message:Historical data request pacing violation
+   at Snappy.InteractiveBrokers.Client.Socket.SendAsync[T](Request request, ICancelResponse`1 response, String caller) in C:\Users\pc_mo\source\repos\JohanLarsson\Snappy\Snappy\InteractiveBrokers\Client.Socket.cs:line 143
