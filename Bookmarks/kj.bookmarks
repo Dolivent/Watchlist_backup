@@ -1,5602 +1,926 @@
 [
-{ "Symbol": "NASDAQ:TRMD", "Time": "2022-05-25" },
-{ "Symbol": "NYSE:VET", "Time": "2022-05-25" },
-{
-"Symbol": "NYSE:VLO",
-"Time": "2022-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AAOI",
-"Time": "2015-05-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AAOI",
-"Time": "2016-08-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AAOI",
-"Time": "2017-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AAOI",
-"Time": "2017-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AAOI",
-"Time": "2018-05-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABEO",
-"Time": "2016-09-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABEO",
-"Time": "2016-10-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABEO",
-"Time": "2017-09-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ABML",
-"Time": "2021-01-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABUS",
-"Time": "2019-12-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABUS",
-"Time": "2020-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ABUS",
-"Time": "2014-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACAD",
-"Time": "2011-01-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACAD",
-"Time": "2013-06-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACB",
-"Time": "2017-12-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ACFN",
-"Time": "2012-03-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACLS",
-"Time": "2017-04-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACMR",
-"Time": "2020-06-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACMR",
-"Time": "2016-04-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACRS",
-"Time": "2020-09-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ACRS",
-"Time": "2021-01-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ACTX",
-"Time": "2016-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ADTN",
-"Time": "2002-12-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ADUS",
-"Time": "2013-05-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ADVM",
-"Time": "2019-07-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ADXS",
-"Time": "2013-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ADXS",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ADXS",
-"Time": "2015-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AEHR",
-"Time": "2021-08-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AEHR",
-"Time": "2022-08-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AEIS",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AEZS",
-"Time": "2020-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AEZS",
-"Time": "2010-05-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AG",
-"Time": "2019-07-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AG",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AGEN",
-"Time": "2015-04-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AGFY",
-"Time": "2021-08-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AGIO",
-"Time": "2015-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:AIM",
-"Time": "2009-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:AIM",
-"Time": "2009-07-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AIMC",
-"Time": "2020-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AIRG",
-"Time": "2020-07-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AJRD",
-"Time": "2009-09-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKAM",
-"Time": "2003-11-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKAM",
-"Time": "2003-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKAM",
-"Time": "2003-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKRO",
-"Time": "2022-09-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKTS",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AKTX",
-"Time": "2021-02-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ALB",
-"Time": "2020-05-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALBO",
-"Time": "2013-07-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALDX",
-"Time": "2022-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALIM",
-"Time": "2014-01-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALIM",
-"Time": "2013-12-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALOT",
-"Time": "2021-04-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALPP",
-"Time": "2018-10-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALPP",
-"Time": "2021-01-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALT",
-"Time": "2020-06-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALTO",
-"Time": "2020-07-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALTO",
-"Time": "2020-09-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALTO",
-"Time": "2010-01-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALTO",
-"Time": "2013-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALTO",
-"Time": "2014-02-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ALYA",
-"Time": "1997-09-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMAT",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMAT",
-"Time": "2021-03-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMBA",
-"Time": "2021-10-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMBA",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMBA",
-"Time": "2015-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMBA",
-"Time": "2013-12-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMC",
-"Time": "2020-05-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMC",
-"Time": "2021-03-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMC",
-"Time": "2021-05-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMCX",
-"Time": "2012-11-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMCX",
-"Time": "2020-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMCX",
-"Time": "2021-02-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMD",
-"Time": "2016-04-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMD",
-"Time": "2018-07-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMD",
-"Time": "2019-12-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMEH",
-"Time": "2021-04-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMEH",
-"Time": "2021-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMGN",
-"Time": "1991-01-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMKR",
-"Time": "2002-11-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:AMLM",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:AMPE",
-"Time": "2015-03-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:AMPE",
-"Time": "2017-12-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMPY",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMPY",
-"Time": "2020-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMR",
-"Time": "2022-04-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMR",
-"Time": "2021-10-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMRC",
-"Time": "2020-12-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRK",
-"Time": "2020-09-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRK",
-"Time": "2021-09-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRN",
-"Time": "2010-11-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRN",
-"Time": "2012-06-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRN",
-"Time": "2018-09-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRS",
-"Time": "2010-12-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMRS",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMRX",
-"Time": "2003-05-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMSC",
-"Time": "2007-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMSC",
-"Time": "2016-04-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMSC",
-"Time": "2020-09-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMSC",
-"Time": "2020-12-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMSC",
-"Time": "2003-07-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AMTD",
-"Time": "2022-08-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMTX",
-"Time": "2020-09-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMTX",
-"Time": "2020-10-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMTX",
-"Time": "2015-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMZN",
-"Time": "1997-09-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMZN",
-"Time": "1998-06-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMZN",
-"Time": "1998-12-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AMZN",
-"Time": "2009-10-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AN",
-"Time": "1995-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ANAB",
-"Time": "2017-11-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ANDR",
-"Time": "1997-09-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ANF",
-"Time": "2000-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ANGI",
-"Time": "2013-12-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ANTE",
-"Time": "2015-05-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ANTE",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ANVS",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ANVS",
-"Time": "2021-03-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ANVS",
-"Time": "2021-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APA",
-"Time": "2009-04-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APDN",
-"Time": "2017-08-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APDN",
-"Time": "2012-09-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APPH",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APPN",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APPS",
-"Time": "2019-06-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APPS",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APPS",
-"Time": "2020-09-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:APT",
-"Time": "2020-02-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:APT",
-"Time": "2020-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APYX",
-"Time": "2020-11-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:APYX",
-"Time": "2021-10-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AQMS",
-"Time": "2020-12-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ARAY",
-"Time": "2012-01-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ARAY",
-"Time": "2015-03-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ARCB",
-"Time": "2021-05-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ARCO",
-"Time": "2018-11-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ARRY",
-"Time": "2022-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ARVN",
-"Time": "2020-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ATHE",
-"Time": "2013-08-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:ATNM",
-"Time": "2020-07-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ATXI",
-"Time": "2022-09-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ATY",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:AUY",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVDL",
-"Time": "2003-08-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVDL",
-"Time": "2022-08-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVEO",
-"Time": "2017-06-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVEO",
-"Time": "2018-09-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVGR",
-"Time": "2019-03-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVID",
-"Time": "2003-05-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVID",
-"Time": "2014-11-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVID",
-"Time": "2021-05-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AVTX",
-"Time": "2018-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2001-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2003-07-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2003-09-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2003-11-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2004-01-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2004-02-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2004-03-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2004-11-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXON",
-"Time": "2007-05-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXSM",
-"Time": "2022-08-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:AXSM",
-"Time": "2019-04-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BBBY",
-"Time": "2022-08-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BBBY",
-"Time": "2020-05-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BBBY",
-"Time": "2021-01-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BBIO",
-"Time": "2020-11-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BBWI",
-"Time": "1999-03-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BCAB",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BCLI",
-"Time": "2020-05-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BCRX",
-"Time": "2003-08-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BCRX",
-"Time": "2005-08-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BCRX",
-"Time": "2014-02-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BEAT",
-"Time": "2022-09-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BEAT",
-"Time": "2022-10-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BEEM",
-"Time": "2020-12-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BFLY",
-"Time": "2019-12-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BIG",
-"Time": "2020-04-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BIIB",
-"Time": "1999-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BILI",
-"Time": "2020-06-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BIOC",
-"Time": "2017-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BJRI",
-"Time": "2002-06-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:BKTI",
-"Time": "2006-01-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLDP",
-"Time": "2000-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLDP",
-"Time": "2006-02-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLDP",
-"Time": "2014-02-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLDP",
-"Time": "2020-06-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLFS",
-"Time": "2015-09-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLFS",
-"Time": "2018-05-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLFS",
-"Time": "2018-08-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLFS",
-"Time": "2020-11-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLIN",
-"Time": "2021-07-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLNK",
-"Time": "2020-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLNK",
-"Time": "2020-12-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BLNK",
-"Time": "2020-11-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BNED",
-"Time": "2021-01-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BNFT",
-"Time": "2014-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BNGO",
-"Time": "2021-02-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BNTX",
-"Time": "2021-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BNTX",
-"Time": "2021-07-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "ARCA:BOIL",
-"Time": "2021-08-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BOOM",
-"Time": "2005-05-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BOOM",
-"Time": "2009-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BORR",
-"Time": "2022-04-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BORR",
-"Time": "2020-11-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BORR",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:BPT",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BTAI",
-"Time": "2020-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BTBT",
-"Time": "2020-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:BUDZ",
-"Time": "2017-12-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BWEN",
-"Time": "2020-06-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BYND",
-"Time": "2019-07-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:BYSI",
-"Time": "2016-05-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CALA",
-"Time": "2016-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CALA",
-"Time": "2017-07-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CALX",
-"Time": "2020-12-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CAMP",
-"Time": "1999-08-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CANG",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CANN",
-"Time": "2014-02-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CCOI",
-"Time": "2004-12-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CDAK",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CDE",
-"Time": "2016-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CDE",
-"Time": "2003-11-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CDMO",
-"Time": "2012-08-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CDMO",
-"Time": "2018-08-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CDNA",
-"Time": "2017-09-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CECE",
-"Time": "2022-07-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CELH",
-"Time": "2020-06-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CELH",
-"Time": "2020-11-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CENX",
-"Time": "2006-03-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CENX",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CGC",
-"Time": "2016-10-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CGRN",
-"Time": "2008-05-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CGRN",
-"Time": "2011-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CGRN",
-"Time": "2011-03-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CHPT",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CLF",
-"Time": "2016-04-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CLF",
-"Time": "2003-11-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLFD",
-"Time": "2013-05-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLMT",
-"Time": "2020-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLNE",
-"Time": "2020-12-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLNE",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLPS",
-"Time": "2019-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CLPT",
-"Time": "2020-11-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CLRD",
-"Time": "2000-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CLRD",
-"Time": "2003-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CLRD",
-"Time": "2007-10-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CMBM",
-"Time": "2020-09-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CMBM",
-"Time": "2020-10-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CMBM",
-"Time": "2021-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:CMCL",
-"Time": "2019-10-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CMCM",
-"Time": "2016-05-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:CMT",
-"Time": "2020-05-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CNBX",
-"Time": "2017-01-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNCE",
-"Time": "2020-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNCE",
-"Time": "2022-07-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNET",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNET",
-"Time": "1999-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNET",
-"Time": "1999-04-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CNXN",
-"Time": "2000-05-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CODX",
-"Time": "2020-02-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CODX",
-"Time": "2020-05-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CODX",
-"Time": "2020-07-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:COE",
-"Time": "2020-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CONN",
-"Time": "2020-08-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:COUP",
-"Time": "2018-05-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:COUP",
-"Time": "2020-06-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CPE",
-"Time": "2021-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CPE",
-"Time": "2010-03-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CPG",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CPRX",
-"Time": "2022-09-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CPSH",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CPSS",
-"Time": "2014-01-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CRIS",
-"Time": "2003-06-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CRIS",
-"Time": "2020-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CRK",
-"Time": "2017-12-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CRK",
-"Time": "2016-10-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CRMD",
-"Time": "2018-09-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CRMD",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CRUS",
-"Time": "2020-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CTIC",
-"Time": "2000-02-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CTIC",
-"Time": "2009-05-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CTRM",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CTRN",
-"Time": "2020-11-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CTRN",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CVGI",
-"Time": "2020-12-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CVGI",
-"Time": "2009-09-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CVI",
-"Time": "2009-05-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CVI",
-"Time": "2022-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:CVM",
-"Time": "2009-09-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:CVNA",
-"Time": "2020-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CVSI",
-"Time": "2018-05-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CVSI",
-"Time": "2018-07-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:CVU",
-"Time": "2020-04-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:CYDY",
-"Time": "2020-06-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CYRX",
-"Time": "2017-07-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:CYRX",
-"Time": "2020-08-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DAC",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DARE",
-"Time": "2017-03-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DCGO",
-"Time": "2022-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DCTH",
-"Time": "2009-10-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DDOG",
-"Time": "2020-06-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DHI",
-"Time": "2020-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DINO",
-"Time": "2017-10-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DISH",
-"Time": "1999-03-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DISH",
-"Time": "2000-02-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DKL",
-"Time": "2020-05-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DLTH",
-"Time": "2020-08-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DNLI",
-"Time": "2020-12-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DNMR",
-"Time": "2021-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:DNN",
-"Time": "2010-11-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DO",
-"Time": "2004-01-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DOCU",
-"Time": "2020-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DOCU",
-"Time": "2020-05-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DOMO",
-"Time": "2020-04-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DOMO",
-"Time": "2020-04-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:DPLS",
-"Time": "2021-06-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DRRX",
-"Time": "2019-08-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:DSGT",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DSGX",
-"Time": "2000-02-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DVAX",
-"Time": "2009-05-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DVN",
-"Time": "2020-12-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:DVN",
-"Time": "2016-04-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DXYN",
-"Time": "2020-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DYAI",
-"Time": "2019-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:DZSI",
-"Time": "2013-09-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EAST",
-"Time": "2021-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EAT",
-"Time": "2017-12-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EBAY",
-"Time": "1998-12-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EBAY",
-"Time": "2020-06-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ECTM",
-"Time": "2022-05-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EDAP",
-"Time": "2006-02-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EDIT",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EDN",
-"Time": "2013-11-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EDU",
-"Time": "2022-07-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EDUC",
-"Time": "2018-03-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:EDXC",
-"Time": "2019-04-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EGAN",
-"Time": "2018-06-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EGHT",
-"Time": "2003-10-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EGLX",
-"Time": "2021-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EGRX",
-"Time": "2015-02-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EGY",
-"Time": "2022-02-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EH",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ELTP",
-"Time": "2014-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:EMAN",
-"Time": "2021-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EMKR",
-"Time": "2000-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EMKR",
-"Time": "1999-01-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:EMMS",
-"Time": "2012-06-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ENDO",
-"Time": "2006-07-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ENPH",
-"Time": "2017-11-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ENTG",
-"Time": "2009-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ENTG",
-"Time": "2009-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ENVX",
-"Time": "2021-10-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ENZN",
-"Time": "1998-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EOSE",
-"Time": "2020-12-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EQIX",
-"Time": "2000-12-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ERBB",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ERES",
-"Time": "2003-08-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:ERF",
-"Time": "2016-04-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ESPR",
-"Time": "2014-12-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ESPR",
-"Time": "2014-12-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ESPR",
-"Time": "2017-12-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ESTA",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ETHE",
-"Time": "2020-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:ETHE",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ETSY",
-"Time": "2020-06-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ETSY",
-"Time": "2020-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:EVI",
-"Time": "2017-04-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EVOK",
-"Time": "2020-08-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EVOL",
-"Time": "2003-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EVOL",
-"Time": "2003-09-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EXK",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EXK",
-"Time": "2010-11-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EXPI",
-"Time": "2020-07-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:EXTN",
-"Time": "2017-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EYPT",
-"Time": "2013-05-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EYPT",
-"Time": "2013-05-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:EZPW",
-"Time": "2005-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FANH",
-"Time": "2017-01-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FARO",
-"Time": "2013-12-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FATE",
-"Time": "2018-02-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FCEL",
-"Time": "2020-12-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FCEL",
-"Time": "2019-12-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FCEL",
-"Time": "2020-12-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FCEL",
-"Time": "2021-01-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FCX",
-"Time": "2020-06-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FGEN",
-"Time": "2015-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FINV",
-"Time": "2021-02-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FIVN",
-"Time": "2015-12-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FIVR",
-"Time": "2020-06-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "ARCA:FNGU",
-"Time": "2018-05-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FNKO",
-"Time": "2018-06-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FNKO",
-"Time": "2018-06-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FOCS",
-"Time": "2020-06-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FOLD",
-"Time": "2015-06-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FOLD",
-"Time": "2014-08-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FOLD",
-"Time": "2015-07-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FOSL",
-"Time": "2007-04-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FPAY",
-"Time": "2021-01-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:FRD",
-"Time": "2005-01-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FRSX",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FSLR",
-"Time": "2022-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FSLY",
-"Time": "2020-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FSLY",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FTHM",
-"Time": "2020-12-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FTK",
-"Time": "2010-10-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FUTU",
-"Time": "2020-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:FUTU",
-"Time": "2020-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:FVRR",
-"Time": "2020-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GAIA",
-"Time": "2018-05-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GALT",
-"Time": "2013-09-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GATO",
-"Time": "2020-12-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GBTC",
-"Time": "2017-04-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GBTC",
-"Time": "2017-08-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GBTC",
-"Time": "2017-10-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GBTC",
-"Time": "2019-06-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GDEN",
-"Time": "2017-06-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GEO",
-"Time": "1996-04-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GERN",
-"Time": "2000-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GERN",
-"Time": "2003-06-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GERN",
-"Time": "2022-08-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GES",
-"Time": "1999-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GILT",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GKOS",
-"Time": "2016-07-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GME",
-"Time": "2020-11-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GME",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GME",
-"Time": "2021-01-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GME",
-"Time": "2021-03-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GME",
-"Time": "2021-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GNSS",
-"Time": "2010-11-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GNUS",
-"Time": "2020-05-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GOL",
-"Time": "2009-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GOL",
-"Time": "2014-04-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GOL",
-"Time": "2016-09-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GORO",
-"Time": "2009-09-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GORO",
-"Time": "2009-01-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GORO",
-"Time": "2016-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GORO",
-"Time": "2016-09-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GOTU",
-"Time": "2020-07-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GP",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GREE",
-"Time": "2021-07-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GREE",
-"Time": "2021-08-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GROW",
-"Time": "2006-11-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GROW",
-"Time": "2021-04-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GROW",
-"Time": "2020-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GRVY",
-"Time": "2017-02-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GRVY",
-"Time": "2019-05-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GSAT",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GSHD",
-"Time": "2018-08-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GSHD",
-"Time": "2020-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GSL",
-"Time": "2021-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GTBP",
-"Time": "2021-04-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GTE",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:GTE",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:GTHX",
-"Time": "2018-05-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GTII",
-"Time": "2021-03-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GTII",
-"Time": "2022-09-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:GTII",
-"Time": "2022-09-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:GTLS",
-"Time": "2010-01-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HAIN",
-"Time": "1997-09-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HEAR",
-"Time": "2018-06-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HEAR",
-"Time": "2018-07-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HEAR",
-"Time": "2020-07-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HEAR",
-"Time": "2020-05-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:HEMP",
-"Time": "2014-01-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HEXO",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HIBB",
-"Time": "2020-08-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HIBB",
-"Time": "2020-10-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HIMX",
-"Time": "2013-02-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HIMX",
-"Time": "2017-03-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HKD",
-"Time": "2022-07-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "PINK:HMBL",
-"Time": "2021-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2002-02-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2003-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2012-10-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2012-12-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2019-09-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2020-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HOV",
-"Time": "2021-03-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HP",
-"Time": "1997-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HPK",
-"Time": "2022-02-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HRTX",
-"Time": "2015-05-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HSKA",
-"Time": "2016-08-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HTHT",
-"Time": "2013-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HUT",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HUT",
-"Time": "2021-08-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HUT",
-"Time": "2021-10-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:HYLN",
-"Time": "2020-08-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:HZNP",
-"Time": "2013-12-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IAG",
-"Time": "2017-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:IBIO",
-"Time": "2020-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IBRX",
-"Time": "2017-06-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ICPT",
-"Time": "2014-02-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IDCC",
-"Time": "1995-01-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IDCC",
-"Time": "1999-12-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IDT",
-"Time": "2021-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IEA",
-"Time": "2020-12-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IGMS",
-"Time": "2020-02-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IGMS",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IHRT",
-"Time": "2021-05-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IIIN",
-"Time": "2004-08-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IIIV",
-"Time": "2020-04-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IIPR",
-"Time": "2020-07-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IIPR",
-"Time": "2019-06-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ILMN",
-"Time": "2004-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMBI",
-"Time": "2016-03-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMGN",
-"Time": "2015-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMGN",
-"Time": "2000-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMGN",
-"Time": "2000-10-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMGN",
-"Time": "2000-08-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IMGN",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:INDO",
-"Time": "2022-02-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INDP",
-"Time": "2000-02-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INDP",
-"Time": "2001-11-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:INFY",
-"Time": "1999-07-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:INFY",
-"Time": "1999-11-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:INFY",
-"Time": "2000-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2017-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2017-03-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2017-09-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2017-12-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2017-12-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INM",
-"Time": "2019-01-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INMB",
-"Time": "2021-06-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INNV",
-"Time": "2016-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INO",
-"Time": "2020-04-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INO",
-"Time": "2020-06-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INO",
-"Time": "2020-04-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INOD",
-"Time": "2020-09-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INOD",
-"Time": "2020-11-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INSG",
-"Time": "2016-12-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INSG",
-"Time": "2019-12-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INSM",
-"Time": "2003-05-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:INSP",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:INTT",
-"Time": "2021-05-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:INVE",
-"Time": "2021-04-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IONQ",
-"Time": "2021-11-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IOVA",
-"Time": "2020-11-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IPI",
-"Time": "2022-04-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:IPI",
-"Time": "2020-12-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:IQ",
-"Time": "2018-05-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ISEE",
-"Time": "2012-12-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:JILL",
-"Time": "2021-05-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:JMIA",
-"Time": "2020-07-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:JMIA",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:JNPR",
-"Time": "2000-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "ARCA:JNUG",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:JWN",
-"Time": "2021-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIDS",
-"Time": "2018-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIRK",
-"Time": "2009-06-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIRK",
-"Time": "2009-12-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIRK",
-"Time": "2020-07-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIRK",
-"Time": "2020-10-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KIRK",
-"Time": "2020-11-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:KMX",
-"Time": "2001-04-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:KMX",
-"Time": "2003-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KNDI",
-"Time": "2013-12-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KNDI",
-"Time": "2009-11-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KOPN",
-"Time": "2021-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KOPN",
-"Time": "2020-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KOPN",
-"Time": "2020-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KRTX",
-"Time": "2020-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KSPN",
-"Time": "2021-01-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:KYMR",
-"Time": "2020-11-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:LAC",
-"Time": "2017-10-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:LAC",
-"Time": "2021-10-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LAZY",
-"Time": "2020-10-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LCID",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:LCTX",
-"Time": "2020-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LEDS",
-"Time": "2021-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LEXX",
-"Time": "2017-12-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LEXX",
-"Time": "2018-06-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LFVN",
-"Time": "2017-10-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LGIH",
-"Time": "2020-07-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LGO",
-"Time": "2018-09-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LIND",
-"Time": "2020-04-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LIND",
-"Time": "2020-05-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LIVE",
-"Time": "2021-05-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LIVE",
-"Time": "2021-05-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:LMND",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LMPX",
-"Time": "2020-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:LNG",
-"Time": "2005-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:LPG",
-"Time": "2017-01-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:LRN",
-"Time": "2020-08-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LUCY",
-"Time": "2020-11-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWAY",
-"Time": "2004-04-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWAY",
-"Time": "2020-09-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWLG",
-"Time": "2012-01-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWLG",
-"Time": "2021-01-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWLG",
-"Time": "2021-06-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LWLG",
-"Time": "2021-05-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:LXRX",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:MAG",
-"Time": "2010-10-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MARA",
-"Time": "2014-12-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MARA",
-"Time": "2020-06-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MARA",
-"Time": "2020-11-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MARA",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MAXR",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MAXR",
-"Time": "2020-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MBOT",
-"Time": "2000-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MBOT",
-"Time": "2004-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MDWD",
-"Time": "2020-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MELI",
-"Time": "2007-12-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MELI",
-"Time": "2019-02-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MEOH",
-"Time": "2001-03-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MEOH",
-"Time": "2002-02-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MEOH",
-"Time": "2009-04-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MEOH",
-"Time": "2009-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MESA",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:METC",
-"Time": "2021-09-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MFIN",
-"Time": "2016-12-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MFIN",
-"Time": "2018-01-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MGNI",
-"Time": "2020-12-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MGTX",
-"Time": "2019-06-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MMAT",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MNKD",
-"Time": "2009-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MNKD",
-"Time": "2011-01-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MNKD",
-"Time": "2013-03-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MOGO",
-"Time": "2020-11-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MOGU",
-"Time": "2020-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MOMO",
-"Time": "2018-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MOTS",
-"Time": "2018-06-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2020-04-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2021-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2021-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2021-07-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNA",
-"Time": "2021-09-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNS",
-"Time": "2017-09-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRNS",
-"Time": "2020-02-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MRTX",
-"Time": "2017-09-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MSGE",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MSTR",
-"Time": "2001-11-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MSTR",
-"Time": "2020-12-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MTDR",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MTH",
-"Time": "2002-04-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:MTMT",
-"Time": "2021-09-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MUR",
-"Time": "2016-04-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MUX",
-"Time": "2014-03-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MVIS",
-"Time": "2020-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MVIS",
-"Time": "2021-02-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MVIS",
-"Time": "2007-08-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MVIS",
-"Time": "2018-01-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MVIS",
-"Time": "2008-05-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:MVO",
-"Time": "2021-06-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:MYGN",
-"Time": "1999-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NEPH",
-"Time": "2009-08-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NERV",
-"Time": "2022-08-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NFLX",
-"Time": "2015-04-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:NG",
-"Time": "2009-01-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NHTC",
-"Time": "2015-06-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:NHWK",
-"Time": "2020-07-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NINE",
-"Time": "2020-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NIO",
-"Time": "2020-08-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NIO",
-"Time": "2020-08-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NIO",
-"Time": "2020-09-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NIU",
-"Time": "2020-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NIU",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NKLA",
-"Time": "2020-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NLS",
-"Time": "2020-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NLS",
-"Time": "2020-08-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NM",
-"Time": "2021-03-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NMG",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NMG",
-"Time": "2020-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NNDM",
-"Time": "2020-10-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NNDM",
-"Time": "2020-11-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NNDM",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NOG",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NOG",
-"Time": "2017-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NOVN",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "ARCA:NRGU",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NTAP",
-"Time": "2000-07-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NTES",
-"Time": "2002-12-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "ARCA:NUGT",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVAX",
-"Time": "2020-02-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVAX",
-"Time": "2020-04-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVAX",
-"Time": "2020-06-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVAX",
-"Time": "2021-01-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVDA",
-"Time": "2000-05-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVDA",
-"Time": "2001-12-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:NVDA",
-"Time": "2003-05-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:NXE",
-"Time": "2017-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OCUL",
-"Time": "2005-02-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OCUP",
-"Time": "2010-04-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OCUP",
-"Time": "2017-03-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:OI",
-"Time": "2001-01-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:OII",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:OII",
-"Time": "2021-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OKTA",
-"Time": "2018-04-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OMER",
-"Time": "2022-07-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ONCY",
-"Time": "2019-12-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ONVO",
-"Time": "2013-10-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ONVO",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OPEN",
-"Time": "2020-12-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OPNT",
-"Time": "2017-08-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OPRA",
-"Time": "2020-06-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ORMP",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OSPN",
-"Time": "2007-02-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OSTK",
-"Time": "2017-12-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OSTK",
-"Time": "2017-12-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OSTK",
-"Time": "2020-05-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:OSTK",
-"Time": "2020-06-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:OXY",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAAS",
-"Time": "2003-12-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAAS",
-"Time": "2016-04-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAAS",
-"Time": "2018-08-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAAS",
-"Time": "2020-12-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAAS",
-"Time": "2020-05-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PACB",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PAM",
-"Time": "2014-04-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PAM",
-"Time": "2017-03-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PAYS",
-"Time": "2019-06-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PBT",
-"Time": "2008-04-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PBYI",
-"Time": "2013-12-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PCG",
-"Time": "2018-02-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PCG",
-"Time": "2019-12-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PDD",
-"Time": "2020-05-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PDS",
-"Time": "2020-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PDSB",
-"Time": "2020-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PEN",
-"Time": "2022-09-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PHM",
-"Time": "2012-08-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:PLG",
-"Time": "2016-03-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PLTR",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PLUG",
-"Time": "2014-02-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PLUG",
-"Time": "2020-06-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PLUG",
-"Time": "2020-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:PLX",
-"Time": "2017-03-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:POET",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:POWW",
-"Time": "2020-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PPSI",
-"Time": "2021-01-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PRLD",
-"Time": "2020-12-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PRPL",
-"Time": "2020-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PRTA",
-"Time": "2022-09-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PRTS",
-"Time": "2020-07-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PTEN",
-"Time": "2020-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:PTN",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:PVL",
-"Time": "2022-05-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PXLW",
-"Time": "2000-06-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PXLW",
-"Time": "2009-08-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:PYCR",
-"Time": "2021-08-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:QCOM",
-"Time": "1993-06-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:QCOM",
-"Time": "1999-12-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:QCOM",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:QS",
-"Time": "2020-12-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:QUOT",
-"Time": "2021-02-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:QURE",
-"Time": "2017-09-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RAPT",
-"Time": "2020-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RBBN",
-"Time": "2003-05-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RCMT",
-"Time": "2021-01-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:REKR",
-"Time": "2019-07-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RIOT",
-"Time": "2017-12-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RIOT",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RLMD",
-"Time": "2019-11-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RMTI",
-"Time": "2015-07-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RMTI",
-"Time": "2013-09-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RNWK",
-"Time": "1999-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RNWK",
-"Time": "2021-03-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ROCC",
-"Time": "2020-05-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RUN",
-"Time": "2020-07-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RUN",
-"Time": "2018-05-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RVLP",
-"Time": "2022-08-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:RVP",
-"Time": "2020-05-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RYTM",
-"Time": "2022-07-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:RYTM",
-"Time": "2022-08-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SA",
-"Time": "2007-10-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SAH",
-"Time": "2020-06-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SAH",
-"Time": "2009-05-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SAH",
-"Time": "2001-05-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SAVA",
-"Time": "2019-12-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SAVA",
-"Time": "2021-02-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SAVA",
-"Time": "2003-05-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SBGI",
-"Time": "2019-04-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SBLK",
-"Time": "2021-04-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SBOW",
-"Time": "2021-05-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SCHN",
-"Time": "2003-11-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SCTL",
-"Time": "2019-12-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SEAC",
-"Time": "2000-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:SENS",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SFE",
-"Time": "1995-08-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SGBX",
-"Time": "2020-12-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SHAK",
-"Time": "2017-11-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SHAK",
-"Time": "2018-05-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SHYF",
-"Time": "1991-08-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SI",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SI",
-"Time": "2021-11-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SID",
-"Time": "2016-04-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SID",
-"Time": "2020-11-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SIEB",
-"Time": "1999-02-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:SKYH",
-"Time": "2017-03-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SLAB",
-"Time": "2009-08-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SLCA",
-"Time": "2021-01-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SM",
-"Time": "2020-01-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SMED",
-"Time": "2021-04-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SMMT",
-"Time": "2020-04-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SMMT",
-"Time": "2021-01-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SMSI",
-"Time": "2012-02-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SMSI",
-"Time": "2006-03-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SNAP",
-"Time": "2020-10-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SNAP",
-"Time": "2020-11-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SNBR",
-"Time": "2020-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SNDL",
-"Time": "2021-02-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SOHU",
-"Time": "2010-10-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SOHU",
-"Time": "2003-04-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SOL",
-"Time": "2020-11-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SOL",
-"Time": "2008-05-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SPB",
-"Time": "2020-04-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SPCE",
-"Time": "2021-06-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SPOT",
-"Time": "2020-06-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SPR",
-"Time": "2017-08-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SQ",
-"Time": "2017-07-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SQ",
-"Time": "2017-04-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SQ",
-"Time": "2017-09-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SQ",
-"Time": "2020-07-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:SQM",
-"Time": "2008-05-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SRNE",
-"Time": "2020-06-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SRNE",
-"Time": "2020-07-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SRNE",
-"Time": "2018-01-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SRNE",
-"Time": "2018-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SRNE",
-"Time": "2018-05-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSTI",
-"Time": "1999-11-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSTI",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSYS",
-"Time": "2021-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSYS",
-"Time": "2003-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSYS",
-"Time": "1999-02-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SSYS",
-"Time": "2000-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SUNW",
-"Time": "2020-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SVVC",
-"Time": "2012-03-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SWAV",
-"Time": "2022-08-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:SWIR",
-"Time": "2003-07-09",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TAL",
-"Time": "2017-07-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TCON",
-"Time": "2020-11-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TCRT",
-"Time": "2015-02-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TCS",
-"Time": "2020-10-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TEAM",
-"Time": "2021-08-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TECK",
-"Time": "2016-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TECK",
-"Time": "2009-07-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TELL",
-"Time": "2022-03-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TELL",
-"Time": "2021-01-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TELL",
-"Time": "2019-01-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TEN",
-"Time": "2009-06-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TER",
-"Time": "1998-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TGB",
-"Time": "2006-03-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TGB",
-"Time": "2006-05-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TLRY",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TLRY",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TNDM",
-"Time": "2018-03-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TNDM",
-"Time": "2018-03-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TPL",
-"Time": "2021-02-02",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TPL",
-"Time": "2016-09-26",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TPL",
-"Time": "2014-07-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TRT",
-"Time": "2020-12-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:TRT",
-"Time": "2020-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSL",
-"Time": "2007-04-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSLA",
-"Time": "2020-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSLA",
-"Time": "2013-06-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSLA",
-"Time": "2020-08-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSLA",
-"Time": "2020-11-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TSP",
-"Time": "2012-06-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TTCF",
-"Time": "2020-08-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TTD",
-"Time": "2018-05-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TTD",
-"Time": "2020-07-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TTD",
-"Time": "2021-11-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TTSH",
-"Time": "2012-09-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TUP",
-"Time": "2020-08-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:TWLO",
-"Time": "2016-09-21",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TWOU",
-"Time": "2015-03-30",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TZOO",
-"Time": "2004-08-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:TZOO",
-"Time": "2004-12-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:UAN",
-"Time": "2021-03-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:UAVS",
-"Time": "2021-01-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:UAVS",
-"Time": "2020-04-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ULH",
-"Time": "2022-07-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:UPST",
-"Time": "2021-12-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:USAU",
-"Time": "2020-12-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:USWS",
-"Time": "2021-02-08",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:UUUU",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:VAPO",
-"Time": "2020-04-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:VAPO",
-"Time": "2020-06-03",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VFF",
-"Time": "2019-02-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VIRX",
-"Time": "2020-12-31",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VIRX",
-"Time": "2017-12-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:VLO",
-"Time": "2022-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:VOC",
-"Time": "2022-02-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VRNS",
-"Time": "2020-07-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VSAT",
-"Time": "2000-01-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VUZI",
-"Time": "2021-01-20",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VXRT",
-"Time": "2020-10-23",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VXRT",
-"Time": "2020-04-15",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VXRT",
-"Time": "2020-07-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:VXRT",
-"Time": "2021-01-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WB",
-"Time": "2016-05-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WIX",
-"Time": "2020-06-17",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WIX",
-"Time": "2018-06-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WKHS",
-"Time": "2019-06-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WKHS",
-"Time": "2020-09-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:WOLF",
-"Time": "1995-08-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:WOLF",
-"Time": "1999-10-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WW",
-"Time": "2015-11-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:WYNN",
-"Time": "2007-09-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:WYY",
-"Time": "2021-01-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:X",
-"Time": "2021-01-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XENE",
-"Time": "2020-01-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XNET",
-"Time": "2017-10-16",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XOMA",
-"Time": "2003-08-18",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XOMA",
-"Time": "2017-09-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XOMA",
-"Time": "1999-07-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:XPEV",
-"Time": "2020-12-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:XPOF",
-"Time": "2021-10-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XXII",
-"Time": "2021-02-04",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XXII",
-"Time": "2021-01-06",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:XXII",
-"Time": "2017-11-27",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:XYF",
-"Time": "2021-06-24",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:YELL",
-"Time": "2021-01-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:YETI",
-"Time": "2019-02-14",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:YETI",
-"Time": "2019-03-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NYSE:YEXT",
-"Time": "2018-07-25",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:YGMZ",
-"Time": "2021-01-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:YI",
-"Time": "2021-02-05",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:YY",
-"Time": "2017-07-12",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:Z",
-"Time": "2020-12-07",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:ZDGE",
-"Time": "2021-01-13",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZLAB",
-"Time": "2019-01-10",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZM",
-"Time": "2020-11-19",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "AMEX:ZOM",
-"Time": "2021-02-01",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZS",
-"Time": "2020-05-29",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZS",
-"Time": "2020-12-11",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZTEK",
-"Time": "2020-12-22",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZTEK",
-"Time": "2021-10-28",
-"Tags": [],
-"Comment": null
-},
-{
-"Symbol": "NASDAQ:ZTEK",
-"Time": "2021-09-22",
-"Tags": [],
-"Comment": null
-}
+  { "Symbol": "NASDAQ:AMGN", "Time": "1991-01-16" },
+  { "Symbol": "NASDAQ:SHYF", "Time": "1991-08-13" },
+  { "Symbol": "NASDAQ:QCOM", "Time": "1993-06-10" },
+  { "Symbol": "NASDAQ:IDCC", "Time": "1995-01-30" },
+  { "Symbol": "NYSE:AN", "Time": "1995-07-14" },
+  { "Symbol": "NYSE:WOLF", "Time": "1995-08-07" },
+  { "Symbol": "NYSE:SFE", "Time": "1995-08-09" },
+  { "Symbol": "NYSE:GEO", "Time": "1996-04-23" },
+  { "Symbol": "NYSE:HP", "Time": "1997-07-01" },
+  { "Symbol": "NASDAQ:ALYA", "Time": "1997-09-03" },
+  { "Symbol": "NASDAQ:AMZN", "Time": "1997-09-03" },
+  { "Symbol": "PINK:ANDR", "Time": "1997-09-12" },
+  { "Symbol": "NASDAQ:HAIN", "Time": "1997-09-24" },
+  { "Symbol": "NASDAQ:AMZN", "Time": "1998-06-08" },
+  { "Symbol": "NASDAQ:AMZN", "Time": "1998-12-08" },
+  { "Symbol": "NASDAQ:EBAY", "Time": "1998-12-25" },
+  { "Symbol": "PINK:ENZN", "Time": "1998-12-31" },
+  { "Symbol": "NASDAQ:TER", "Time": "1998-12-31" },
+  { "Symbol": "NASDAQ:EMKR", "Time": "1999-01-08" },
+  { "Symbol": "NASDAQ:SIEB", "Time": "1999-02-01" },
+  { "Symbol": "NASDAQ:SSYS", "Time": "1999-02-01" },
+  { "Symbol": "NASDAQ:CNET", "Time": "1999-03-01" },
+  { "Symbol": "NASDAQ:RNWK", "Time": "1999-03-01" },
+  { "Symbol": "NASDAQ:DISH", "Time": "1999-03-04" },
+  { "Symbol": "NYSE:BBWI", "Time": "1999-03-29" },
+  { "Symbol": "NASDAQ:CNET", "Time": "1999-04-05" },
+  { "Symbol": "NYSE:GES", "Time": "1999-06-02" },
+  { "Symbol": "NASDAQ:XOMA", "Time": "1999-07-07" },
+  { "Symbol": "NYSE:INFY", "Time": "1999-07-08" },
+  { "Symbol": "NASDAQ:CAMP", "Time": "1999-08-16" },
+  { "Symbol": "NYSE:WOLF", "Time": "1999-10-29" },
+  { "Symbol": "NASDAQ:SSTI", "Time": "1999-11-02" },
+  { "Symbol": "NYSE:INFY", "Time": "1999-11-08" },
+  { "Symbol": "NASDAQ:IDCC", "Time": "1999-12-10" },
+  { "Symbol": "NASDAQ:QCOM", "Time": "1999-12-13" },
+  { "Symbol": "NASDAQ:BIIB", "Time": "1999-12-21" },
+  { "Symbol": "NASDAQ:MYGN", "Time": "1999-12-21" },
+  { "Symbol": "NASDAQ:IMGN", "Time": "2000-01-07" },
+  { "Symbol": "NASDAQ:VSAT", "Time": "2000-01-19" },
+  { "Symbol": "NYSE:JNPR", "Time": "2000-02-03" },
+  { "Symbol": "NYSE:INFY", "Time": "2000-02-04" },
+  { "Symbol": "NASDAQ:MBOT", "Time": "2000-02-04" },
+  { "Symbol": "PINK:CLRD", "Time": "2000-02-08" },
+  { "Symbol": "NASDAQ:CTIC", "Time": "2000-02-11" },
+  { "Symbol": "NASDAQ:BLDP", "Time": "2000-02-14" },
+  { "Symbol": "NASDAQ:EMKR", "Time": "2000-02-14" },
+  { "Symbol": "NASDAQ:GERN", "Time": "2000-02-14" },
+  { "Symbol": "NASDAQ:SSYS", "Time": "2000-02-14" },
+  { "Symbol": "NASDAQ:DISH", "Time": "2000-02-17" },
+  { "Symbol": "NASDAQ:INDP", "Time": "2000-02-18" },
+  { "Symbol": "NASDAQ:DSGX", "Time": "2000-02-22" },
+  { "Symbol": "NASDAQ:SEAC", "Time": "2000-03-01" },
+  { "Symbol": "NASDAQ:NVDA", "Time": "2000-05-16" },
+  { "Symbol": "NASDAQ:CNXN", "Time": "2000-05-30" },
+  { "Symbol": "NASDAQ:PXLW", "Time": "2000-06-30" },
+  { "Symbol": "NASDAQ:NTAP", "Time": "2000-07-12" },
+  { "Symbol": "NYSE:ANF", "Time": "2000-07-28" },
+  { "Symbol": "NASDAQ:IMGN", "Time": "2000-08-25" },
+  { "Symbol": "NASDAQ:IMGN", "Time": "2000-10-19" },
+  { "Symbol": "NASDAQ:EQIX", "Time": "2000-12-22" },
+  { "Symbol": "NYSE:OI", "Time": "2001-01-29" },
+  { "Symbol": "NASDAQ:MEOH", "Time": "2001-03-02" },
+  { "Symbol": "NYSE:KMX", "Time": "2001-04-12" },
+  { "Symbol": "NYSE:SAH", "Time": "2001-05-10" },
+  { "Symbol": "NASDAQ:MSTR", "Time": "2001-11-15" },
+  { "Symbol": "NASDAQ:INDP", "Time": "2001-11-23" },
+  { "Symbol": "NASDAQ:NVDA", "Time": "2001-12-04" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2001-12-31" },
+  { "Symbol": "NASDAQ:MEOH", "Time": "2002-02-19" },
+  { "Symbol": "NYSE:HOV", "Time": "2002-02-25" },
+  { "Symbol": "NYSE:MTH", "Time": "2002-04-03" },
+  { "Symbol": "NASDAQ:BJRI", "Time": "2002-06-17" },
+  { "Symbol": "NASDAQ:AMKR", "Time": "2002-11-21" },
+  { "Symbol": "NASDAQ:NTES", "Time": "2002-12-16" },
+  { "Symbol": "NASDAQ:ADTN", "Time": "2002-12-27" },
+  { "Symbol": "NASDAQ:AKAM", "Time": "2003-01-06" },
+  { "Symbol": "NYSE:HOV", "Time": "2003-02-03" },
+  { "Symbol": "NASDAQ:SOHU", "Time": "2003-04-15" },
+  { "Symbol": "NASDAQ:SAVA", "Time": "2003-05-06" },
+  { "Symbol": "PINK:CLRD", "Time": "2003-05-07" },
+  { "Symbol": "NYSE:AMRX", "Time": "2003-05-12" },
+  { "Symbol": "NASDAQ:RBBN", "Time": "2003-05-12" },
+  { "Symbol": "NASDAQ:INSM", "Time": "2003-05-16" },
+  { "Symbol": "NASDAQ:AVID", "Time": "2003-05-22" },
+  { "Symbol": "NASDAQ:NVDA", "Time": "2003-05-27" },
+  { "Symbol": "NASDAQ:EVOL", "Time": "2003-06-03" },
+  { "Symbol": "NASDAQ:AKAM", "Time": "2003-06-04" },
+  { "Symbol": "NASDAQ:CRIS", "Time": "2003-06-05" },
+  { "Symbol": "NASDAQ:GERN", "Time": "2003-06-05" },
+  { "Symbol": "NYSE:KMX", "Time": "2003-07-07" },
+  { "Symbol": "NASDAQ:SSYS", "Time": "2003-07-07" },
+  { "Symbol": "NASDAQ:SWIR", "Time": "2003-07-09" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2003-07-22" },
+  { "Symbol": "NASDAQ:AMSC", "Time": "2003-07-24" },
+  { "Symbol": "NASDAQ:ERES", "Time": "2003-08-18" },
+  { "Symbol": "NASDAQ:XOMA", "Time": "2003-08-18" },
+  { "Symbol": "NASDAQ:AVDL", "Time": "2003-08-27" },
+  { "Symbol": "NASDAQ:BCRX", "Time": "2003-08-29" },
+  { "Symbol": "NASDAQ:EVOL", "Time": "2003-09-03" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2003-09-17" },
+  { "Symbol": "NYSE:EGHT", "Time": "2003-10-30" },
+  { "Symbol": "NYSE:CDE", "Time": "2003-11-12" },
+  { "Symbol": "NASDAQ:SCHN", "Time": "2003-11-13" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2003-11-19" },
+  { "Symbol": "NASDAQ:AKAM", "Time": "2003-11-24" },
+  { "Symbol": "NYSE:CLF", "Time": "2003-11-25" },
+  { "Symbol": "NASDAQ:PAAS", "Time": "2003-12-29" },
+  { "Symbol": "NASDAQ:ILMN", "Time": "2004-01-06" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2004-01-09" },
+  { "Symbol": "NYSE:DO", "Time": "2004-01-16" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2004-02-11" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2004-03-18" },
+  { "Symbol": "NASDAQ:LWAY", "Time": "2004-04-12" },
+  { "Symbol": "NASDAQ:TZOO", "Time": "2004-08-16" },
+  { "Symbol": "NYSE:IIIN", "Time": "2004-08-19" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2004-11-04" },
+  { "Symbol": "NASDAQ:CCOI", "Time": "2004-12-06" },
+  { "Symbol": "NASDAQ:MBOT", "Time": "2004-12-23" },
+  { "Symbol": "NASDAQ:TZOO", "Time": "2004-12-23" },
+  { "Symbol": "AMEX:LNG", "Time": "2005-01-12" },
+  { "Symbol": "NASDAQ:EZPW", "Time": "2005-01-21" },
+  { "Symbol": "AMEX:FRD", "Time": "2005-01-28" },
+  { "Symbol": "NASDAQ:OCUL", "Time": "2005-02-23" },
+  { "Symbol": "NASDAQ:BOOM", "Time": "2005-05-23" },
+  { "Symbol": "NASDAQ:BCRX", "Time": "2005-08-23" },
+  { "Symbol": "AMEX:BKTI", "Time": "2006-01-30" },
+  { "Symbol": "NASDAQ:BLDP", "Time": "2006-02-21" },
+  { "Symbol": "NASDAQ:EDAP", "Time": "2006-02-27" },
+  { "Symbol": "AMEX:TGB", "Time": "2006-03-07" },
+  { "Symbol": "NASDAQ:CENX", "Time": "2006-03-22" },
+  { "Symbol": "NASDAQ:SMSI", "Time": "2006-03-22" },
+  { "Symbol": "AMEX:TGB", "Time": "2006-05-03" },
+  { "Symbol": "PINK:ENDO", "Time": "2006-07-12" },
+  { "Symbol": "NASDAQ:GROW", "Time": "2006-11-09" },
+  { "Symbol": "NASDAQ:OSPN", "Time": "2007-02-20" },
+  { "Symbol": "NASDAQ:TSL", "Time": "2007-04-03" },
+  { "Symbol": "NASDAQ:FOSL", "Time": "2007-04-09" },
+  { "Symbol": "NASDAQ:AMSC", "Time": "2007-05-18" },
+  { "Symbol": "NASDAQ:AXON", "Time": "2007-05-23" },
+  { "Symbol": "NASDAQ:MVIS", "Time": "2007-08-27" },
+  { "Symbol": "NASDAQ:WYNN", "Time": "2007-09-11" },
+  { "Symbol": "NYSE:SA", "Time": "2007-10-10" },
+  { "Symbol": "PINK:CLRD", "Time": "2007-10-22" },
+  { "Symbol": "NASDAQ:MELI", "Time": "2007-12-26" },
+  { "Symbol": "NYSE:PBT", "Time": "2008-04-03" },
+  { "Symbol": "NYSE:SOL", "Time": "2008-05-09" },
+  { "Symbol": "NASDAQ:CGRN", "Time": "2008-05-12" },
+  { "Symbol": "NASDAQ:MVIS", "Time": "2008-05-12" },
+  { "Symbol": "NYSE:SQM", "Time": "2008-05-16" },
+  { "Symbol": "AMEX:GORO", "Time": "2009-01-02" },
+  { "Symbol": "AMEX:NG", "Time": "2009-01-02" },
+  { "Symbol": "NASDAQ:APA", "Time": "2009-04-29" },
+  { "Symbol": "NASDAQ:MEOH", "Time": "2009-04-29" },
+  { "Symbol": "NASDAQ:ENTG", "Time": "2009-05-18" },
+  { "Symbol": "NYSE:SAH", "Time": "2009-05-18" },
+  { "Symbol": "NYSE:CVI", "Time": "2009-05-19" },
+  { "Symbol": "NASDAQ:DVAX", "Time": "2009-05-28" },
+  { "Symbol": "NASDAQ:CTIC", "Time": "2009-05-29" },
+  { "Symbol": "NASDAQ:BOOM", "Time": "2009-06-01" },
+  { "Symbol": "AMEX:AIM", "Time": "2009-06-02" },
+  { "Symbol": "NYSE:GOL", "Time": "2009-06-02" },
+  { "Symbol": "NASDAQ:MNKD", "Time": "2009-06-03" },
+  { "Symbol": "NYSE:TEN", "Time": "2009-06-04" },
+  { "Symbol": "NASDAQ:KIRK", "Time": "2009-06-25" },
+  { "Symbol": "NASDAQ:MEOH", "Time": "2009-07-14" },
+  { "Symbol": "NYSE:TECK", "Time": "2009-07-14" },
+  { "Symbol": "NASDAQ:ENTG", "Time": "2009-07-15" },
+  { "Symbol": "AMEX:AIM", "Time": "2009-07-20" },
+  { "Symbol": "NASDAQ:NEPH", "Time": "2009-08-07" },
+  { "Symbol": "NASDAQ:SLAB", "Time": "2009-08-21" },
+  { "Symbol": "NASDAQ:PXLW", "Time": "2009-08-27" },
+  { "Symbol": "NYSE:AJRD", "Time": "2009-09-08" },
+  { "Symbol": "AMEX:CVM", "Time": "2009-09-10" },
+  { "Symbol": "NASDAQ:CVGI", "Time": "2009-09-11" },
+  { "Symbol": "AMEX:GORO", "Time": "2009-09-29" },
+  { "Symbol": "NASDAQ:DCTH", "Time": "2009-10-08" },
+  { "Symbol": "NASDAQ:AMZN", "Time": "2009-10-23" },
+  { "Symbol": "NASDAQ:KNDI", "Time": "2009-11-12" },
+  { "Symbol": "NASDAQ:KIRK", "Time": "2009-12-10" },
+  { "Symbol": "NYSE:GTLS", "Time": "2010-01-01" },
+  { "Symbol": "NASDAQ:ALTO", "Time": "2010-01-08" },
+  { "Symbol": "NYSE:CPE", "Time": "2010-03-03" },
+  { "Symbol": "NASDAQ:OCUP", "Time": "2010-04-05" },
+  { "Symbol": "NASDAQ:AEZS", "Time": "2010-05-06" },
+  { "Symbol": "NASDAQ:SOHU", "Time": "2010-10-21" },
+  { "Symbol": "NYSE:FTK", "Time": "2010-10-28" },
+  { "Symbol": "AMEX:MAG", "Time": "2010-10-29" },
+  { "Symbol": "NASDAQ:GNSS", "Time": "2010-11-01" },
+  { "Symbol": "AMEX:DNN", "Time": "2010-11-24" },
+  { "Symbol": "NASDAQ:AMRN", "Time": "2010-11-29" },
+  { "Symbol": "NYSE:EXK", "Time": "2010-11-30" },
+  { "Symbol": "NASDAQ:AMRS", "Time": "2010-12-29" },
+  { "Symbol": "NASDAQ:ACAD", "Time": "2011-01-10" },
+  { "Symbol": "NASDAQ:MNKD", "Time": "2011-01-10" },
+  { "Symbol": "NASDAQ:CGRN", "Time": "2011-02-02" },
+  { "Symbol": "NASDAQ:CGRN", "Time": "2011-03-04" },
+  { "Symbol": "NASDAQ:LWLG", "Time": "2012-01-17" },
+  { "Symbol": "NASDAQ:ARAY", "Time": "2012-01-20" },
+  { "Symbol": "NASDAQ:SMSI", "Time": "2012-02-06" },
+  { "Symbol": "PINK:ACFN", "Time": "2012-03-07" },
+  { "Symbol": "NASDAQ:SVVC", "Time": "2012-03-12" },
+  { "Symbol": "NASDAQ:TSP", "Time": "2012-06-08" },
+  { "Symbol": "NASDAQ:AMRN", "Time": "2012-06-18" },
+  { "Symbol": "PINK:EMMS", "Time": "2012-06-28" },
+  { "Symbol": "NASDAQ:CDMO", "Time": "2012-08-08" },
+  { "Symbol": "NYSE:PHM", "Time": "2012-08-31" },
+  { "Symbol": "NASDAQ:TTSH", "Time": "2012-09-12" },
+  { "Symbol": "NASDAQ:APDN", "Time": "2012-09-17" },
+  { "Symbol": "NYSE:HOV", "Time": "2012-10-17" },
+  { "Symbol": "NASDAQ:AMCX", "Time": "2012-11-30" },
+  { "Symbol": "NASDAQ:ISEE", "Time": "2012-12-04" },
+  { "Symbol": "NYSE:HOV", "Time": "2012-12-17" },
+  { "Symbol": "PINK:ADXS", "Time": "2013-02-04" },
+  { "Symbol": "NASDAQ:HIMX", "Time": "2013-02-28" },
+  { "Symbol": "NASDAQ:MNKD", "Time": "2013-03-28" },
+  { "Symbol": "NASDAQ:EYPT", "Time": "2013-05-01" },
+  { "Symbol": "NASDAQ:ADUS", "Time": "2013-05-06" },
+  { "Symbol": "NASDAQ:EYPT", "Time": "2013-05-20" },
+  { "Symbol": "NASDAQ:CLFD", "Time": "2013-05-30" },
+  { "Symbol": "NASDAQ:ACAD", "Time": "2013-06-06" },
+  { "Symbol": "NASDAQ:TSLA", "Time": "2013-06-07" },
+  { "Symbol": "NASDAQ:ALBO", "Time": "2013-07-17" },
+  { "Symbol": "NASDAQ:ATHE", "Time": "2013-08-13" },
+  { "Symbol": "NASDAQ:DZSI", "Time": "2013-09-09" },
+  { "Symbol": "NASDAQ:GALT", "Time": "2013-09-09" },
+  { "Symbol": "NASDAQ:RMTI", "Time": "2013-09-27" },
+  { "Symbol": "NASDAQ:ONVO", "Time": "2013-10-17" },
+  { "Symbol": "NYSE:EDN", "Time": "2013-11-21" },
+  { "Symbol": "NASDAQ:PBYI", "Time": "2013-12-05" },
+  { "Symbol": "NASDAQ:FARO", "Time": "2013-12-16" },
+  { "Symbol": "NASDAQ:ANGI", "Time": "2013-12-18" },
+  { "Symbol": "NASDAQ:ALIM", "Time": "2013-12-19" },
+  { "Symbol": "NASDAQ:HZNP", "Time": "2013-12-19" },
+  { "Symbol": "NASDAQ:AMBA", "Time": "2013-12-20" },
+  { "Symbol": "NASDAQ:ALTO", "Time": "2013-12-23" },
+  { "Symbol": "NASDAQ:HTHT", "Time": "2013-12-23" },
+  { "Symbol": "NASDAQ:KNDI", "Time": "2013-12-24" },
+  { "Symbol": "NASDAQ:ABUS", "Time": "2014-01-03" },
+  { "Symbol": "NASDAQ:BNFT", "Time": "2014-01-07" },
+  { "Symbol": "NASDAQ:ALIM", "Time": "2014-01-10" },
+  { "Symbol": "PINK:HEMP", "Time": "2014-01-27" },
+  { "Symbol": "NASDAQ:CPSS", "Time": "2014-01-31" },
+  { "Symbol": "NASDAQ:ALTO", "Time": "2014-02-07" },
+  { "Symbol": "NASDAQ:ICPT", "Time": "2014-02-07" },
+  { "Symbol": "PINK:ELTP", "Time": "2014-02-14" },
+  { "Symbol": "PINK:CANN", "Time": "2014-02-21" },
+  { "Symbol": "NASDAQ:BLDP", "Time": "2014-02-24" },
+  { "Symbol": "NASDAQ:PLUG", "Time": "2014-02-25" },
+  { "Symbol": "NASDAQ:BCRX", "Time": "2014-02-28" },
+  { "Symbol": "NYSE:MUX", "Time": "2014-03-12" },
+  { "Symbol": "NYSE:PAM", "Time": "2014-04-22" },
+  { "Symbol": "NYSE:GOL", "Time": "2014-04-24" },
+  { "Symbol": "NYSE:TPL", "Time": "2014-07-22" },
+  { "Symbol": "NASDAQ:FOLD", "Time": "2014-08-12" },
+  { "Symbol": "NASDAQ:AVID", "Time": "2014-11-14" },
+  { "Symbol": "NASDAQ:ESPR", "Time": "2014-12-04" },
+  { "Symbol": "NASDAQ:MARA", "Time": "2014-12-04" },
+  { "Symbol": "NASDAQ:ESPR", "Time": "2014-12-30" },
+  { "Symbol": "NASDAQ:FGEN", "Time": "2015-01-05" },
+  { "Symbol": "NASDAQ:AGIO", "Time": "2015-01-07" },
+  { "Symbol": "NASDAQ:EGRX", "Time": "2015-02-12" },
+  { "Symbol": "NASDAQ:TCRT", "Time": "2015-02-12" },
+  { "Symbol": "AMEX:AMPE", "Time": "2015-03-11" },
+  { "Symbol": "NASDAQ:ARAY", "Time": "2015-03-19" },
+  { "Symbol": "NASDAQ:TWOU", "Time": "2015-03-30" },
+  { "Symbol": "NASDAQ:NFLX", "Time": "2015-04-16" },
+  { "Symbol": "NASDAQ:AGEN", "Time": "2015-04-20" },
+  { "Symbol": "NASDAQ:ANTE", "Time": "2015-05-14" },
+  { "Symbol": "PINK:ADXS", "Time": "2015-05-18" },
+  { "Symbol": "NASDAQ:AAOI", "Time": "2015-05-20" },
+  { "Symbol": "NASDAQ:HRTX", "Time": "2015-05-29" },
+  { "Symbol": "NASDAQ:NHTC", "Time": "2015-06-11" },
+  { "Symbol": "NASDAQ:FOLD", "Time": "2015-06-25" },
+  { "Symbol": "NASDAQ:FOLD", "Time": "2015-07-10" },
+  { "Symbol": "NASDAQ:RMTI", "Time": "2015-07-10" },
+  { "Symbol": "NASDAQ:IMGN", "Time": "2015-07-13" },
+  { "Symbol": "NASDAQ:AMBA", "Time": "2015-07-14" },
+  { "Symbol": "NASDAQ:AMTX", "Time": "2015-07-15" },
+  { "Symbol": "NASDAQ:BLFS", "Time": "2015-09-17" },
+  { "Symbol": "NASDAQ:WW", "Time": "2015-11-05" },
+  { "Symbol": "NASDAQ:FIVN", "Time": "2015-12-09" },
+  { "Symbol": "PINK:ACTX", "Time": "2016-01-12" },
+  { "Symbol": "NASDAQ:CALA", "Time": "2016-03-01" },
+  { "Symbol": "AMEX:PLG", "Time": "2016-03-03" },
+  { "Symbol": "NASDAQ:IMBI", "Time": "2016-03-28" },
+  { "Symbol": "NYSE:DVN", "Time": "2016-04-06" },
+  { "Symbol": "NYSE:AG", "Time": "2016-04-07" },
+  { "Symbol": "NYSE:AUY", "Time": "2016-04-07" },
+  { "Symbol": "NYSE:EXK", "Time": "2016-04-07" },
+  { "Symbol": "ARCA:JNUG", "Time": "2016-04-07" },
+  { "Symbol": "ARCA:NUGT", "Time": "2016-04-07" },
+  { "Symbol": "NASDAQ:PAAS", "Time": "2016-04-07" },
+  { "Symbol": "NYSE:ERF", "Time": "2016-04-08" },
+  { "Symbol": "NYSE:MUR", "Time": "2016-04-08" },
+  { "Symbol": "NYSE:SID", "Time": "2016-04-08" },
+  { "Symbol": "NYSE:CLF", "Time": "2016-04-11" },
+  { "Symbol": "NASDAQ:ACMR", "Time": "2016-04-19" },
+  { "Symbol": "NASDAQ:AMD", "Time": "2016-04-22" },
+  { "Symbol": "NASDAQ:AMSC", "Time": "2016-04-25" },
+  { "Symbol": "NYSE:CMCM", "Time": "2016-05-11" },
+  { "Symbol": "NASDAQ:BYSI", "Time": "2016-05-19" },
+  { "Symbol": "NASDAQ:WB", "Time": "2016-05-25" },
+  { "Symbol": "NYSE:CDE", "Time": "2016-06-03" },
+  { "Symbol": "NYSE:TECK", "Time": "2016-06-03" },
+  { "Symbol": "AMEX:GORO", "Time": "2016-07-01" },
+  { "Symbol": "NYSE:GKOS", "Time": "2016-07-12" },
+  { "Symbol": "NASDAQ:INNV", "Time": "2016-07-13" },
+  { "Symbol": "NASDAQ:HSKA", "Time": "2016-08-03" },
+  { "Symbol": "NASDAQ:AAOI", "Time": "2016-08-25" },
+  { "Symbol": "NASDAQ:ABEO", "Time": "2016-09-02" },
+  { "Symbol": "NYSE:GOL", "Time": "2016-09-02" },
+  { "Symbol": "AMEX:GORO", "Time": "2016-09-21" },
+  { "Symbol": "NYSE:TWLO", "Time": "2016-09-21" },
+  { "Symbol": "NYSE:TPL", "Time": "2016-09-26" },
+  { "Symbol": "NASDAQ:CGC", "Time": "2016-10-03" },
+  { "Symbol": "NYSE:CRK", "Time": "2016-10-10" },
+  { "Symbol": "NASDAQ:ABEO", "Time": "2016-10-18" },
+  { "Symbol": "NASDAQ:MFIN", "Time": "2016-12-09" },
+  { "Symbol": "NASDAQ:INSG", "Time": "2016-12-28" },
+  { "Symbol": "NASDAQ:FANH", "Time": "2017-01-02" },
+  { "Symbol": "NYSE:EXTN", "Time": "2017-01-03" },
+  { "Symbol": "NYSE:NXE", "Time": "2017-01-03" },
+  { "Symbol": "NASDAQ:AAOI", "Time": "2017-01-12" },
+  { "Symbol": "NASDAQ:INM", "Time": "2017-01-13" },
+  { "Symbol": "NYSE:LPG", "Time": "2017-01-18" },
+  { "Symbol": "PINK:CNBX", "Time": "2017-01-31" },
+  { "Symbol": "NASDAQ:GRVY", "Time": "2017-02-15" },
+  { "Symbol": "NASDAQ:BIOC", "Time": "2017-03-01" },
+  { "Symbol": "AMEX:SKYH", "Time": "2017-03-01" },
+  { "Symbol": "NASDAQ:HIMX", "Time": "2017-03-08" },
+  { "Symbol": "NASDAQ:OCUP", "Time": "2017-03-08" },
+  { "Symbol": "NASDAQ:DARE", "Time": "2017-03-10" },
+  { "Symbol": "AMEX:PLX", "Time": "2017-03-10" },
+  { "Symbol": "NYSE:PAM", "Time": "2017-03-15" },
+  { "Symbol": "NASDAQ:INM", "Time": "2017-03-27" },
+  { "Symbol": "AMEX:EVI", "Time": "2017-04-05" },
+  { "Symbol": "NYSE:IAG", "Time": "2017-04-07" },
+  { "Symbol": "NASDAQ:ACLS", "Time": "2017-04-19" },
+  { "Symbol": "NYSE:SQ", "Time": "2017-04-20" },
+  { "Symbol": "NASDAQ:GDEN", "Time": "2017-06-12" },
+  { "Symbol": "NASDAQ:IBRX", "Time": "2017-06-12" },
+  { "Symbol": "NASDAQ:AVEO", "Time": "2017-06-23" },
+  { "Symbol": "NASDAQ:CALA", "Time": "2017-07-03" },
+  { "Symbol": "NASDAQ:AAOI", "Time": "2017-07-07" },
+  { "Symbol": "NASDAQ:CYRX", "Time": "2017-07-11" },
+  { "Symbol": "NYSE:SQ", "Time": "2017-07-11" },
+  { "Symbol": "NASDAQ:YY", "Time": "2017-07-12" },
+  { "Symbol": "NYSE:TAL", "Time": "2017-07-20" },
+  { "Symbol": "NYSE:SPR", "Time": "2017-08-02" },
+  { "Symbol": "NASDAQ:APDN", "Time": "2017-08-14" },
+  { "Symbol": "NASDAQ:OPNT", "Time": "2017-08-29" },
+  { "Symbol": "NASDAQ:XOMA", "Time": "2017-09-05" },
+  { "Symbol": "NASDAQ:ABEO", "Time": "2017-09-15" },
+  { "Symbol": "NASDAQ:MRTX", "Time": "2017-09-15" },
+  { "Symbol": "NASDAQ:QURE", "Time": "2017-09-21" },
+  { "Symbol": "NASDAQ:CDNA", "Time": "2017-09-22" },
+  { "Symbol": "NASDAQ:MRNS", "Time": "2017-09-22" },
+  { "Symbol": "NASDAQ:INM", "Time": "2017-09-25" },
+  { "Symbol": "NYSE:SQ", "Time": "2017-09-29" },
+  { "Symbol": "NASDAQ:LFVN", "Time": "2017-10-13" },
+  { "Symbol": "NASDAQ:XNET", "Time": "2017-10-16" },
+  { "Symbol": "NYSE:LAC", "Time": "2017-10-18" },
+  { "Symbol": "NYSE:DINO", "Time": "2017-10-30" },
+  { "Symbol": "NASDAQ:ENPH", "Time": "2017-11-08" },
+  { "Symbol": "NASDAQ:ANAB", "Time": "2017-11-13" },
+  { "Symbol": "NASDAQ:XXII", "Time": "2017-11-27" },
+  { "Symbol": "NYSE:SHAK", "Time": "2017-11-28" },
+  { "Symbol": "NYSE:CRK", "Time": "2017-12-05" },
+  { "Symbol": "NASDAQ:INM", "Time": "2017-12-05" },
+  { "Symbol": "NASDAQ:LEXX", "Time": "2017-12-07" },
+  { "Symbol": "NYSE:EAT", "Time": "2017-12-08" },
+  { "Symbol": "NASDAQ:OSTK", "Time": "2017-12-11" },
+  { "Symbol": "NASDAQ:RIOT", "Time": "2017-12-11" },
+  { "Symbol": "AMEX:AMPE", "Time": "2017-12-13" },
+  { "Symbol": "NASDAQ:OSTK", "Time": "2017-12-15" },
+  { "Symbol": "NYSE:NOG", "Time": "2017-12-21" },
+  { "Symbol": "NASDAQ:ACB", "Time": "2017-12-26" },
+  { "Symbol": "PINK:BUDZ", "Time": "2017-12-26" },
+  { "Symbol": "NASDAQ:ESPR", "Time": "2017-12-26" },
+  { "Symbol": "NASDAQ:VIRX", "Time": "2017-12-27" },
+  { "Symbol": "NASDAQ:INM", "Time": "2017-12-28" },
+  { "Symbol": "NASDAQ:MFIN", "Time": "2018-01-10" },
+  { "Symbol": "NASDAQ:SRNE", "Time": "2018-01-16" },
+  { "Symbol": "NASDAQ:MVIS", "Time": "2018-01-31" },
+  { "Symbol": "NYSE:PCG", "Time": "2018-02-09" },
+  { "Symbol": "NASDAQ:AVTX", "Time": "2018-02-14" },
+  { "Symbol": "NASDAQ:SRNE", "Time": "2018-02-14" },
+  { "Symbol": "NASDAQ:FATE", "Time": "2018-02-16" },
+  { "Symbol": "NASDAQ:EDUC", "Time": "2018-03-09" },
+  { "Symbol": "NASDAQ:TNDM", "Time": "2018-03-27" },
+  { "Symbol": "NASDAQ:OKTA", "Time": "2018-04-11" },
+  { "Symbol": "NASDAQ:BLFS", "Time": "2018-05-04" },
+  { "Symbol": "NASDAQ:GTHX", "Time": "2018-05-04" },
+  { "Symbol": "NASDAQ:MOMO", "Time": "2018-05-07" },
+  { "Symbol": "NASDAQ:SRNE", "Time": "2018-05-07" },
+  { "Symbol": "NASDAQ:RUN", "Time": "2018-05-08" },
+  { "Symbol": "NASDAQ:TTD", "Time": "2018-05-11" },
+  { "Symbol": "PINK:CVSI", "Time": "2018-05-14" },
+  { "Symbol": "NASDAQ:GAIA", "Time": "2018-05-21" },
+  { "Symbol": "NASDAQ:IQ", "Time": "2018-05-22" },
+  { "Symbol": "NASDAQ:KIDS", "Time": "2018-05-25" },
+  { "Symbol": "NASDAQ:AAOI", "Time": "2018-05-28" },
+  { "Symbol": "NASDAQ:COUP", "Time": "2018-05-30" },
+  { "Symbol": "ARCA:FNGU", "Time": "2018-05-30" },
+  { "Symbol": "NYSE:SHAK", "Time": "2018-05-30" },
+  { "Symbol": "NASDAQ:WIX", "Time": "2018-06-01" },
+  { "Symbol": "NASDAQ:LEXX", "Time": "2018-06-05" },
+  { "Symbol": "NASDAQ:HEAR", "Time": "2018-06-07" },
+  { "Symbol": "NASDAQ:MOTS", "Time": "2018-06-22" },
+  { "Symbol": "NASDAQ:EGAN", "Time": "2018-06-27" },
+  { "Symbol": "NASDAQ:FNKO", "Time": "2018-06-29" },
+  { "Symbol": "NASDAQ:HEAR", "Time": "2018-07-09" },
+  { "Symbol": "PINK:CVSI", "Time": "2018-07-23" },
+  { "Symbol": "NYSE:YEXT", "Time": "2018-07-25" },
+  { "Symbol": "NASDAQ:AMD", "Time": "2018-07-26" },
+  { "Symbol": "NASDAQ:BLFS", "Time": "2018-08-20" },
+  { "Symbol": "NASDAQ:CDMO", "Time": "2018-08-24" },
+  { "Symbol": "NASDAQ:GSHD", "Time": "2018-08-29" },
+  { "Symbol": "NASDAQ:PAAS", "Time": "2018-08-29" },
+  { "Symbol": "NASDAQ:LGO", "Time": "2018-09-12" },
+  { "Symbol": "NASDAQ:CRMD", "Time": "2018-09-21" },
+  { "Symbol": "NASDAQ:AMRN", "Time": "2018-09-24" },
+  { "Symbol": "NASDAQ:AVEO", "Time": "2018-09-25" },
+  { "Symbol": "NASDAQ:ALPP", "Time": "2018-10-29" },
+  { "Symbol": "NYSE:ARCO", "Time": "2018-11-28" },
+  { "Symbol": "NASDAQ:ZLAB", "Time": "2019-01-10" },
+  { "Symbol": "NASDAQ:CLPS", "Time": "2019-01-21" },
+  { "Symbol": "AMEX:TELL", "Time": "2019-01-28" },
+  { "Symbol": "NASDAQ:INM", "Time": "2019-01-29" },
+  { "Symbol": "NYSE:YETI", "Time": "2019-02-14" },
+  { "Symbol": "NASDAQ:VFF", "Time": "2019-02-15" },
+  { "Symbol": "NASDAQ:MELI", "Time": "2019-02-27" },
+  { "Symbol": "NYSE:YETI", "Time": "2019-03-13" },
+  { "Symbol": "NASDAQ:AVGR", "Time": "2019-03-14" },
+  { "Symbol": "NASDAQ:SBGI", "Time": "2019-04-01" },
+  { "Symbol": "PINK:EDXC", "Time": "2019-04-03" },
+  { "Symbol": "NASDAQ:AXSM", "Time": "2019-04-23" },
+  { "Symbol": "NASDAQ:GRVY", "Time": "2019-05-09" },
+  { "Symbol": "NASDAQ:DYAI", "Time": "2019-06-03" },
+  { "Symbol": "NYSE:IIPR", "Time": "2019-06-05" },
+  { "Symbol": "NASDAQ:WKHS", "Time": "2019-06-05" },
+  { "Symbol": "NASDAQ:MGTX", "Time": "2019-06-25" },
+  { "Symbol": "NASDAQ:APPS", "Time": "2019-06-27" },
+  { "Symbol": "NASDAQ:PAYS", "Time": "2019-06-28" },
+  { "Symbol": "NASDAQ:ADVM", "Time": "2019-07-05" },
+  { "Symbol": "NASDAQ:BYND", "Time": "2019-07-10" },
+  { "Symbol": "NASDAQ:REKR", "Time": "2019-07-11" },
+  { "Symbol": "NYSE:AG", "Time": "2019-07-16" },
+  { "Symbol": "NASDAQ:DRRX", "Time": "2019-08-22" },
+  { "Symbol": "NYSE:HOV", "Time": "2019-09-19" },
+  { "Symbol": "AMEX:CMCL", "Time": "2019-10-23" },
+  { "Symbol": "NASDAQ:RLMD", "Time": "2019-11-21" },
+  { "Symbol": "NYSE:PCG", "Time": "2019-12-02" },
+  { "Symbol": "NASDAQ:AMD", "Time": "2019-12-12" },
+  { "Symbol": "NASDAQ:ONCY", "Time": "2019-12-16" },
+  { "Symbol": "NASDAQ:SCTL", "Time": "2019-12-19" },
+  { "Symbol": "NASDAQ:ABUS", "Time": "2019-12-20" },
+  { "Symbol": "NYSE:BFLY", "Time": "2019-12-20" },
+  { "Symbol": "NASDAQ:FCEL", "Time": "2019-12-20" },
+  { "Symbol": "NASDAQ:SAVA", "Time": "2019-12-20" },
+  { "Symbol": "NASDAQ:INSG", "Time": "2019-12-30" },
+  { "Symbol": "NASDAQ:CRUS", "Time": "2020-01-03" },
+  { "Symbol": "AMEX:LCTX", "Time": "2020-01-03" },
+  { "Symbol": "NASDAQ:PTEN", "Time": "2020-01-03" },
+  { "Symbol": "NYSE:SM", "Time": "2020-01-03" },
+  { "Symbol": "NASDAQ:ARVN", "Time": "2020-01-06" },
+  { "Symbol": "NASDAQ:CNCE", "Time": "2020-01-06" },
+  { "Symbol": "NASDAQ:LMPX", "Time": "2020-01-06" },
+  { "Symbol": "NASDAQ:POWW", "Time": "2020-01-06" },
+  { "Symbol": "NASDAQ:SUNW", "Time": "2020-01-06" },
+  { "Symbol": "NASDAQ:DXYN", "Time": "2020-01-07" },
+  { "Symbol": "NASDAQ:XENE", "Time": "2020-01-07" },
+  { "Symbol": "NYSE:COE", "Time": "2020-01-13" },
+  { "Symbol": "NASDAQ:KRTX", "Time": "2020-01-14" },
+  { "Symbol": "NASDAQ:RAPT", "Time": "2020-01-14" },
+  { "Symbol": "AMEX:TRT", "Time": "2020-01-14" },
+  { "Symbol": "NASDAQ:AEZS", "Time": "2020-02-03" },
+  { "Symbol": "NASDAQ:BTAI", "Time": "2020-02-05" },
+  { "Symbol": "NASDAQ:IGMS", "Time": "2020-02-11" },
+  { "Symbol": "NASDAQ:MRNS", "Time": "2020-02-18" },
+  { "Symbol": "AMEX:APT", "Time": "2020-02-24" },
+  { "Symbol": "NASDAQ:CODX", "Time": "2020-02-24" },
+  { "Symbol": "NASDAQ:NVAX", "Time": "2020-02-26" },
+  { "Symbol": "NASDAQ:NVAX", "Time": "2020-04-03" },
+  { "Symbol": "NASDAQ:SMMT", "Time": "2020-04-08" },
+  { "Symbol": "AMEX:CVU", "Time": "2020-04-13" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2020-04-14" },
+  { "Symbol": "NYSE:VAPO", "Time": "2020-04-15" },
+  { "Symbol": "NASDAQ:VXRT", "Time": "2020-04-15" },
+  { "Symbol": "NASDAQ:INO", "Time": "2020-04-20" },
+  { "Symbol": "AMEX:UAVS", "Time": "2020-04-23" },
+  { "Symbol": "NYSE:BIG", "Time": "2020-04-24" },
+  { "Symbol": "NASDAQ:DOMO", "Time": "2020-04-24" },
+  { "Symbol": "NASDAQ:IIIV", "Time": "2020-04-24" },
+  { "Symbol": "NASDAQ:LIND", "Time": "2020-04-27" },
+  { "Symbol": "NYSE:SPB", "Time": "2020-04-27" },
+  { "Symbol": "NASDAQ:DOCU", "Time": "2020-05-04" },
+  { "Symbol": "AMEX:RVP", "Time": "2020-05-04" },
+  { "Symbol": "NYSE:FSLY", "Time": "2020-05-07" },
+  { "Symbol": "NASDAQ:NKLA", "Time": "2020-05-07" },
+  { "Symbol": "NASDAQ:PRPL", "Time": "2020-05-07" },
+  { "Symbol": "NASDAQ:PDD", "Time": "2020-05-08" },
+  { "Symbol": "NASDAQ:CODX", "Time": "2020-05-11" },
+  { "Symbol": "NYSE:ALB", "Time": "2020-05-12" },
+  { "Symbol": "NYSE:DKL", "Time": "2020-05-15" },
+  { "Symbol": "NASDAQ:PAAS", "Time": "2020-05-15" },
+  { "Symbol": "NASDAQ:CLMT", "Time": "2020-05-18" },
+  { "Symbol": "NYSE:HOV", "Time": "2020-05-18" },
+  { "Symbol": "NASDAQ:ROCC", "Time": "2020-05-19" },
+  { "Symbol": "NASDAQ:BBBY", "Time": "2020-05-21" },
+  { "Symbol": "AMEX:CMT", "Time": "2020-05-22" },
+  { "Symbol": "NASDAQ:HEAR", "Time": "2020-05-22" },
+  { "Symbol": "NYSE:AMC", "Time": "2020-05-26" },
+  { "Symbol": "NASDAQ:GNUS", "Time": "2020-05-26" },
+  { "Symbol": "NASDAQ:LIND", "Time": "2020-05-26" },
+  { "Symbol": "NASDAQ:BCLI", "Time": "2020-05-29" },
+  { "Symbol": "NASDAQ:OSTK", "Time": "2020-05-29" },
+  { "Symbol": "NASDAQ:ZS", "Time": "2020-05-29" },
+  { "Symbol": "NYSE:NLS", "Time": "2020-06-01" },
+  { "Symbol": "NASDAQ:TSLA", "Time": "2020-06-01" },
+  { "Symbol": "NYSE:AMPY", "Time": "2020-06-02" },
+  { "Symbol": "NYSE:CVNA", "Time": "2020-06-02" },
+  { "Symbol": "NASDAQ:GSHD", "Time": "2020-06-02" },
+  { "Symbol": "NASDAQ:MARA", "Time": "2020-06-02" },
+  { "Symbol": "NASDAQ:MDWD", "Time": "2020-06-03" },
+  { "Symbol": "NYSE:PDS", "Time": "2020-06-03" },
+  { "Symbol": "NASDAQ:SNBR", "Time": "2020-06-03" },
+  { "Symbol": "NYSE:VAPO", "Time": "2020-06-03" },
+  { "Symbol": "NASDAQ:KOPN", "Time": "2020-06-04" },
+  { "Symbol": "NYSE:NINE", "Time": "2020-06-04" },
+  { "Symbol": "NASDAQ:PLUG", "Time": "2020-06-04" },
+  { "Symbol": "NASDAQ:DDOG", "Time": "2020-06-08" },
+  { "Symbol": "NASDAQ:BILI", "Time": "2020-06-15" },
+  { "Symbol": "NASDAQ:COUP", "Time": "2020-06-15" },
+  { "Symbol": "NASDAQ:ETSY", "Time": "2020-06-15" },
+  { "Symbol": "NASDAQ:FIVR", "Time": "2020-06-15" },
+  { "Symbol": "NASDAQ:NVAX", "Time": "2020-06-15" },
+  { "Symbol": "NASDAQ:OPRA", "Time": "2020-06-16" },
+  { "Symbol": "NYSE:SPOT", "Time": "2020-06-17" },
+  { "Symbol": "NASDAQ:WIX", "Time": "2020-06-17" },
+  { "Symbol": "NASDAQ:CELH", "Time": "2020-06-18" },
+  { "Symbol": "NASDAQ:BWEN", "Time": "2020-06-19" },
+  { "Symbol": "PINK:CYDY", "Time": "2020-06-19" },
+  { "Symbol": "NASDAQ:OSTK", "Time": "2020-06-19" },
+  { "Symbol": "NASDAQ:INO", "Time": "2020-06-22" },
+  { "Symbol": "NASDAQ:PLUG", "Time": "2020-06-23" },
+  { "Symbol": "NASDAQ:SRNE", "Time": "2020-06-23" },
+  { "Symbol": "NASDAQ:ALT", "Time": "2020-06-25" },
+  { "Symbol": "NASDAQ:EBAY", "Time": "2020-06-26" },
+  { "Symbol": "NASDAQ:ACMR", "Time": "2020-06-29" },
+  { "Symbol": "NASDAQ:BLDP", "Time": "2020-06-29" },
+  { "Symbol": "NYSE:SAH", "Time": "2020-06-29" },
+  { "Symbol": "NYSE:FCX", "Time": "2020-06-30" },
+  { "Symbol": "NASDAQ:FOCS", "Time": "2020-06-30" },
+  { "Symbol": "NYSE:MOGU", "Time": "2020-07-01" },
+  { "Symbol": "NASDAQ:NIU", "Time": "2020-07-01" },
+  { "Symbol": "NASDAQ:VRNS", "Time": "2020-07-01" },
+  { "Symbol": "NASDAQ:LGIH", "Time": "2020-07-06" },
+  { "Symbol": "NASDAQ:RUN", "Time": "2020-07-06" },
+  { "Symbol": "NYSE:DHI", "Time": "2020-07-07" },
+  { "Symbol": "NASDAQ:PRTS", "Time": "2020-07-08" },
+  { "Symbol": "NASDAQ:HEAR", "Time": "2020-07-09" },
+  { "Symbol": "AMEX:NHWK", "Time": "2020-07-10" },
+  { "Symbol": "NASDAQ:ABUS", "Time": "2020-07-13" },
+  { "Symbol": "NASDAQ:KOPN", "Time": "2020-07-13" },
+  { "Symbol": "NASDAQ:VXRT", "Time": "2020-07-13" },
+  { "Symbol": "NASDAQ:AIMC", "Time": "2020-07-14" },
+  { "Symbol": "NASDAQ:MVIS", "Time": "2020-07-14" },
+  { "Symbol": "NASDAQ:PDSB", "Time": "2020-07-14" },
+  { "Symbol": "AMEX:APT", "Time": "2020-07-15" },
+  { "Symbol": "NASDAQ:GROW", "Time": "2020-07-15" },
+  { "Symbol": "AMEX:IBIO", "Time": "2020-07-15" },
+  { "Symbol": "NASDAQ:AIRG", "Time": "2020-07-17" },
+  { "Symbol": "NASDAQ:ALTO", "Time": "2020-07-17" },
+  { "Symbol": "AMEX:ATNM", "Time": "2020-07-17" },
+  { "Symbol": "NASDAQ:EXPI", "Time": "2020-07-17" },
+  { "Symbol": "NYSE:JMIA", "Time": "2020-07-20" },
+  { "Symbol": "NASDAQ:KIRK", "Time": "2020-07-20" },
+  { "Symbol": "NASDAQ:CODX", "Time": "2020-07-21" },
+  { "Symbol": "NASDAQ:BLNK", "Time": "2020-07-28" },
+  { "Symbol": "NASDAQ:BTBT", "Time": "2020-07-28" },
+  { "Symbol": "NYSE:FVRR", "Time": "2020-07-28" },
+  { "Symbol": "NYSE:IIPR", "Time": "2020-07-28" },
+  { "Symbol": "NASDAQ:DOCU", "Time": "2020-07-29" },
+  { "Symbol": "NASDAQ:ETSY", "Time": "2020-07-29" },
+  { "Symbol": "NASDAQ:FUTU", "Time": "2020-07-29" },
+  { "Symbol": "NYSE:SQ", "Time": "2020-07-29" },
+  { "Symbol": "NASDAQ:APPS", "Time": "2020-07-30" },
+  { "Symbol": "NASDAQ:CENX", "Time": "2020-07-30" },
+  { "Symbol": "NYSE:FSLY", "Time": "2020-07-30" },
+  { "Symbol": "NYSE:MAXR", "Time": "2020-07-30" },
+  { "Symbol": "NASDAQ:QCOM", "Time": "2020-07-30" },
+  { "Symbol": "NASDAQ:SRNE", "Time": "2020-07-30" },
+  { "Symbol": "NYSE:GOTU", "Time": "2020-07-31" },
+  { "Symbol": "NASDAQ:TTD", "Time": "2020-07-31" },
+  { "Symbol": "NYSE:NIO", "Time": "2020-08-03" },
+  { "Symbol": "NYSE:NLS", "Time": "2020-08-03" },
+  { "Symbol": "NASDAQ:CONN", "Time": "2020-08-04" },
+  { "Symbol": "NASDAQ:EVOK", "Time": "2020-08-04" },
+  { "Symbol": "NASDAQ:DLTH", "Time": "2020-08-05" },
+  { "Symbol": "NYSE:LRN", "Time": "2020-08-05" },
+  { "Symbol": "NYSE:HYLN", "Time": "2020-08-13" },
+  { "Symbol": "NASDAQ:TSLA", "Time": "2020-08-13" },
+  { "Symbol": "NASDAQ:CYRX", "Time": "2020-08-20" },
+  { "Symbol": "NASDAQ:HIBB", "Time": "2020-08-24" },
+  { "Symbol": "NYSE:NIO", "Time": "2020-08-24" },
+  { "Symbol": "NASDAQ:TTCF", "Time": "2020-08-24" },
+  { "Symbol": "NYSE:TUP", "Time": "2020-08-27" },
+  { "Symbol": "NASDAQ:WKHS", "Time": "2020-09-04" },
+  { "Symbol": "NASDAQ:LWAY", "Time": "2020-09-08" },
+  { "Symbol": "NASDAQ:ALTO", "Time": "2020-09-09" },
+  { "Symbol": "NASDAQ:AMRK", "Time": "2020-09-11" },
+  { "Symbol": "NASDAQ:CMBM", "Time": "2020-09-14" },
+  { "Symbol": "NASDAQ:APPS", "Time": "2020-09-15" },
+  { "Symbol": "NASDAQ:AMTX", "Time": "2020-09-18" },
+  { "Symbol": "NASDAQ:AMSC", "Time": "2020-09-25" },
+  { "Symbol": "NASDAQ:ACRS", "Time": "2020-09-28" },
+  { "Symbol": "NASDAQ:INOD", "Time": "2020-09-29" },
+  { "Symbol": "NYSE:NIO", "Time": "2020-09-29" },
+  { "Symbol": "NASDAQ:HIBB", "Time": "2020-10-01" },
+  { "Symbol": "NASDAQ:KIRK", "Time": "2020-10-01" },
+  { "Symbol": "NYSE:TCS", "Time": "2020-10-01" },
+  { "Symbol": "NASDAQ:LAZY", "Time": "2020-10-06" },
+  { "Symbol": "NASDAQ:NNDM", "Time": "2020-10-09" },
+  { "Symbol": "NASDAQ:CMBM", "Time": "2020-10-15" },
+  { "Symbol": "NASDAQ:AMTX", "Time": "2020-10-16" },
+  { "Symbol": "NYSE:SNAP", "Time": "2020-10-21" },
+  { "Symbol": "NASDAQ:VXRT", "Time": "2020-10-23" },
+  { "Symbol": "NASDAQ:KYMR", "Time": "2020-11-04" },
+  { "Symbol": "NASDAQ:CTRN", "Time": "2020-11-05" },
+  { "Symbol": "NASDAQ:TCON", "Time": "2020-11-05" },
+  { "Symbol": "NASDAQ:CLPT", "Time": "2020-11-11" },
+  { "Symbol": "NASDAQ:BBIO", "Time": "2020-11-12" },
+  { "Symbol": "NASDAQ:CELH", "Time": "2020-11-12" },
+  { "Symbol": "NYSE:SOL", "Time": "2020-11-12" },
+  { "Symbol": "NYSE:BORR", "Time": "2020-11-13" },
+  { "Symbol": "NASDAQ:BLNK", "Time": "2020-11-16" },
+  { "Symbol": "NASDAQ:NNDM", "Time": "2020-11-16" },
+  { "Symbol": "NASDAQ:KIRK", "Time": "2020-11-17" },
+  { "Symbol": "NASDAQ:MARA", "Time": "2020-11-17" },
+  { "Symbol": "NASDAQ:TSLA", "Time": "2020-11-18" },
+  { "Symbol": "NYSE:GME", "Time": "2020-11-19" },
+  { "Symbol": "NYSE:SNAP", "Time": "2020-11-19" },
+  { "Symbol": "NASDAQ:ZM", "Time": "2020-11-19" },
+  { "Symbol": "NASDAQ:LUCY", "Time": "2020-11-20" },
+  { "Symbol": "NASDAQ:MOGO", "Time": "2020-11-23" },
+  { "Symbol": "NYSE:SID", "Time": "2020-11-23" },
+  { "Symbol": "NASDAQ:APYX", "Time": "2020-11-24" },
+  { "Symbol": "NASDAQ:BLFS", "Time": "2020-11-27" },
+  { "Symbol": "NASDAQ:INOD", "Time": "2020-11-27" },
+  { "Symbol": "NASDAQ:IOVA", "Time": "2020-11-27" },
+  { "Symbol": "NASDAQ:FTHM", "Time": "2020-12-01" },
+  { "Symbol": "NYSE:XPEV", "Time": "2020-12-01" },
+  { "Symbol": "NASDAQ:DNLI", "Time": "2020-12-02" },
+  { "Symbol": "NASDAQ:OPEN", "Time": "2020-12-03" },
+  { "Symbol": "NASDAQ:CVGI", "Time": "2020-12-04" },
+  { "Symbol": "NASDAQ:Z", "Time": "2020-12-07" },
+  { "Symbol": "NYSE:AMRC", "Time": "2020-12-08" },
+  { "Symbol": "NASDAQ:PRLD", "Time": "2020-12-10" },
+  { "Symbol": "NASDAQ:USAU", "Time": "2020-12-11" },
+  { "Symbol": "NASDAQ:ZS", "Time": "2020-12-11" },
+  { "Symbol": "NYSE:CALX", "Time": "2020-12-14" },
+  { "Symbol": "NASDAQ:AMSC", "Time": "2020-12-15" },
+  { "Symbol": "NASDAQ:BEEM", "Time": "2020-12-15" },
+  { "Symbol": "NASDAQ:SGBX", "Time": "2020-12-15" },
+  { "Symbol": "NASDAQ:BLNK", "Time": "2020-12-16" },
+  { "Symbol": "NASDAQ:AQMS", "Time": "2020-12-17" },
+  { "Symbol": "NASDAQ:FCEL", "Time": "2020-12-17" },
+  { "Symbol": "NYSE:QS", "Time": "2020-12-17" },
+  { "Symbol": "NASDAQ:CLNE", "Time": "2020-12-18" },
+  { "Symbol": "NASDAQ:IEA", "Time": "2020-12-18" },
+  { "Symbol": "NASDAQ:MGNI", "Time": "2020-12-18" },
+  { "Symbol": "NASDAQ:PAAS", "Time": "2020-12-18" },
+  { "Symbol": "NASDAQ:CDAK", "Time": "2020-12-21" },
+  { "Symbol": "NYSE:CHPT", "Time": "2020-12-21" },
+  { "Symbol": "PINK:DSGT", "Time": "2020-12-21" },
+  { "Symbol": "NASDAQ:EDIT", "Time": "2020-12-21" },
+  { "Symbol": "NASDAQ:EH", "Time": "2020-12-21" },
+  { "Symbol": "NASDAQ:GP", "Time": "2020-12-21" },
+  { "Symbol": "NYSE:MSGE", "Time": "2020-12-21" },
+  { "Symbol": "AMEX:TRT", "Time": "2020-12-21" },
+  { "Symbol": "NASDAQ:EOSE", "Time": "2020-12-22" },
+  { "Symbol": "NASDAQ:MSTR", "Time": "2020-12-22" },
+  { "Symbol": "NASDAQ:ZTEK", "Time": "2020-12-22" },
+  { "Symbol": "NASDAQ:AMCX", "Time": "2020-12-23" },
+  { "Symbol": "NYSE:NMG", "Time": "2020-12-23" },
+  { "Symbol": "NYSE:IPI", "Time": "2020-12-28" },
+  { "Symbol": "NYSE:DVN", "Time": "2020-12-30" },
+  { "Symbol": "NYSE:GATO", "Time": "2020-12-30" },
+  { "Symbol": "NASDAQ:CRIS", "Time": "2020-12-31" },
+  { "Symbol": "NASDAQ:FUTU", "Time": "2020-12-31" },
+  { "Symbol": "NYSE:MAXR", "Time": "2020-12-31" },
+  { "Symbol": "NASDAQ:VIRX", "Time": "2020-12-31" },
+  { "Symbol": "NYSE:SLCA", "Time": "2021-01-04" },
+  { "Symbol": "NASDAQ:AEIS", "Time": "2021-01-05" },
+  { "Symbol": "NASDAQ:AMAT", "Time": "2021-01-05" },
+  { "Symbol": "NASDAQ:AMBA", "Time": "2021-01-05" },
+  { "Symbol": "NASDAQ:APPH", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:CPG", "Time": "2021-01-05" },
+  { "Symbol": "AMEX:GTE", "Time": "2021-01-05" },
+  { "Symbol": "NASDAQ:MMAT", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:MTDR", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:NOG", "Time": "2021-01-05" },
+  { "Symbol": "ARCA:NRGU", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:OII", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:OXY", "Time": "2021-01-05" },
+  { "Symbol": "NASDAQ:TLRY", "Time": "2021-01-05" },
+  { "Symbol": "NYSE:X", "Time": "2021-01-05" },
+  { "Symbol": "AMEX:EMAN", "Time": "2021-01-06" },
+  { "Symbol": "NYSE:GSL", "Time": "2021-01-06" },
+  { "Symbol": "NYSE:JWN", "Time": "2021-01-06" },
+  { "Symbol": "NASDAQ:XXII", "Time": "2021-01-06" },
+  { "Symbol": "NASDAQ:AKTS", "Time": "2021-01-07" },
+  { "Symbol": "NYSE:LMND", "Time": "2021-01-07" },
+  { "Symbol": "NASDAQ:LXRX", "Time": "2021-01-07" },
+  { "Symbol": "NASDAQ:NIU", "Time": "2021-01-07" },
+  { "Symbol": "NASDAQ:SSTI", "Time": "2021-01-07" },
+  { "Symbol": "NASDAQ:SSYS", "Time": "2021-01-07" },
+  { "Symbol": "AMEX:TELL", "Time": "2021-01-08" },
+  { "Symbol": "NASDAQ:ACRS", "Time": "2021-01-11" },
+  { "Symbol": "NASDAQ:FPAY", "Time": "2021-01-11" },
+  { "Symbol": "NASDAQ:LWLG", "Time": "2021-01-11" },
+  { "Symbol": "AMEX:WYY", "Time": "2021-01-11" },
+  { "Symbol": "NASDAQ:CMBM", "Time": "2021-01-12" },
+  { "Symbol": "PINK:HMBL", "Time": "2021-01-12" },
+  { "Symbol": "NASDAQ:PPSI", "Time": "2021-01-12" },
+  { "Symbol": "NASDAQ:APPN", "Time": "2021-01-13" },
+  { "Symbol": "NASDAQ:FRSX", "Time": "2021-01-13" },
+  { "Symbol": "NYSE:INSP", "Time": "2021-01-13" },
+  { "Symbol": "NYSE:JMIA", "Time": "2021-01-13" },
+  { "Symbol": "NASDAQ:NNDM", "Time": "2021-01-13" },
+  { "Symbol": "AMEX:PTN", "Time": "2021-01-13" },
+  { "Symbol": "AMEX:ZDGE", "Time": "2021-01-13" },
+  { "Symbol": "NYSE:DNMR", "Time": "2021-01-14" },
+  { "Symbol": "NASDAQ:EGLX", "Time": "2021-01-14" },
+  { "Symbol": "NASDAQ:KOPN", "Time": "2021-01-14" },
+  { "Symbol": "AMEX:UAVS", "Time": "2021-01-14" },
+  { "Symbol": "PINK:ABML", "Time": "2021-01-15" },
+  { "Symbol": "NASDAQ:KSPN", "Time": "2021-01-15" },
+  { "Symbol": "NASDAQ:ALPP", "Time": "2021-01-19" },
+  { "Symbol": "NASDAQ:YGMZ", "Time": "2021-01-19" },
+  { "Symbol": "NASDAQ:VUZI", "Time": "2021-01-20" },
+  { "Symbol": "NYSE:CANG", "Time": "2021-01-21" },
+  { "Symbol": "NYSE:GME", "Time": "2021-01-21" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2021-01-21" },
+  { "Symbol": "NASDAQ:ORMP", "Time": "2021-01-21" },
+  { "Symbol": "NASDAQ:POET", "Time": "2021-01-21" },
+  { "Symbol": "NASDAQ:RCMT", "Time": "2021-01-21" },
+  { "Symbol": "PINK:AMLM", "Time": "2021-01-22" },
+  { "Symbol": "PINK:ERBB", "Time": "2021-01-22" },
+  { "Symbol": "NASDAQ:LCID", "Time": "2021-01-22" },
+  { "Symbol": "NYSE:PLTR", "Time": "2021-01-22" },
+  { "Symbol": "NYSE:SI", "Time": "2021-01-22" },
+  { "Symbol": "NASDAQ:SMMT", "Time": "2021-01-22" },
+  { "Symbol": "NASDAQ:VXRT", "Time": "2021-01-25" },
+  { "Symbol": "NASDAQ:YELL", "Time": "2021-01-25" },
+  { "Symbol": "NASDAQ:BBBY", "Time": "2021-01-26" },
+  { "Symbol": "NASDAQ:FCEL", "Time": "2021-01-26" },
+  { "Symbol": "NYSE:GME", "Time": "2021-01-26" },
+  { "Symbol": "NYSE:BNED", "Time": "2021-01-27" },
+  { "Symbol": "NASDAQ:NVAX", "Time": "2021-01-29" },
+  { "Symbol": "NYSE:FINV", "Time": "2021-02-01" },
+  { "Symbol": "NASDAQ:SAVA", "Time": "2021-02-01" },
+  { "Symbol": "AMEX:ZOM", "Time": "2021-02-01" },
+  { "Symbol": "NASDAQ:AMRS", "Time": "2021-02-02" },
+  { "Symbol": "NASDAQ:ANTE", "Time": "2021-02-02" },
+  { "Symbol": "NYSE:ANVS", "Time": "2021-02-02" },
+  { "Symbol": "NASDAQ:CPSH", "Time": "2021-02-02" },
+  { "Symbol": "NASDAQ:CRMD", "Time": "2021-02-02" },
+  { "Symbol": "NASDAQ:HEXO", "Time": "2021-02-02" },
+  { "Symbol": "NASDAQ:TLRY", "Time": "2021-02-02" },
+  { "Symbol": "NYSE:TPL", "Time": "2021-02-02" },
+  { "Symbol": "PINK:ADXS", "Time": "2021-02-03" },
+  { "Symbol": "NYSE:AMPY", "Time": "2021-02-03" },
+  { "Symbol": "NASDAQ:BCAB", "Time": "2021-02-03" },
+  { "Symbol": "NYSE:BPT", "Time": "2021-02-03" },
+  { "Symbol": "NASDAQ:GILT", "Time": "2021-02-03" },
+  { "Symbol": "NASDAQ:MESA", "Time": "2021-02-03" },
+  { "Symbol": "NASDAQ:MVIS", "Time": "2021-02-03" },
+  { "Symbol": "NASDAQ:CLNE", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:CTRN", "Time": "2021-02-04" },
+  { "Symbol": "NYSE:DAC", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:ESTA", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:IGMS", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:NOVN", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:XXII", "Time": "2021-02-04" },
+  { "Symbol": "NASDAQ:ATY", "Time": "2021-02-05" },
+  { "Symbol": "NYSE:BORR", "Time": "2021-02-05" },
+  { "Symbol": "NASDAQ:CTRM", "Time": "2021-02-05" },
+  { "Symbol": "AMEX:GSAT", "Time": "2021-02-05" },
+  { "Symbol": "NASDAQ:IMGN", "Time": "2021-02-05" },
+  { "Symbol": "AMEX:SENS", "Time": "2021-02-05" },
+  { "Symbol": "AMEX:UUUU", "Time": "2021-02-05" },
+  { "Symbol": "NASDAQ:YI", "Time": "2021-02-05" },
+  { "Symbol": "NASDAQ:CNET", "Time": "2021-02-08" },
+  { "Symbol": "AMEX:GTE", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:HUT", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:MARA", "Time": "2021-02-08" },
+  { "Symbol": "NYSE:NMG", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:ONVO", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:PACB", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:RIOT", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:USWS", "Time": "2021-02-08" },
+  { "Symbol": "NASDAQ:SNDL", "Time": "2021-02-09" },
+  { "Symbol": "NYSE:QUOT", "Time": "2021-02-10" },
+  { "Symbol": "NASDAQ:AMCX", "Time": "2021-02-12" },
+  { "Symbol": "NASDAQ:AKTX", "Time": "2021-02-16" },
+  { "Symbol": "NASDAQ:BNGO", "Time": "2021-02-26" },
+  { "Symbol": "NYSE:HOV", "Time": "2021-03-02" },
+  { "Symbol": "NYSE:AMC", "Time": "2021-03-09" },
+  { "Symbol": "NYSE:NM", "Time": "2021-03-10" },
+  { "Symbol": "NASDAQ:RNWK", "Time": "2021-03-10" },
+  { "Symbol": "NYSE:ANVS", "Time": "2021-03-11" },
+  { "Symbol": "NYSE:GME", "Time": "2021-03-15" },
+  { "Symbol": "PINK:GTII", "Time": "2021-03-23" },
+  { "Symbol": "NASDAQ:AMAT", "Time": "2021-03-26" },
+  { "Symbol": "NYSE:UAN", "Time": "2021-03-29" },
+  { "Symbol": "NASDAQ:GROW", "Time": "2021-04-05" },
+  { "Symbol": "NASDAQ:INVE", "Time": "2021-04-13" },
+  { "Symbol": "NASDAQ:SBLK", "Time": "2021-04-13" },
+  { "Symbol": "NASDAQ:ALOT", "Time": "2021-04-16" },
+  { "Symbol": "NASDAQ:SMED", "Time": "2021-04-20" },
+  { "Symbol": "NASDAQ:GTBP", "Time": "2021-04-22" },
+  { "Symbol": "NASDAQ:AMEH", "Time": "2021-04-23" },
+  { "Symbol": "NASDAQ:ARCB", "Time": "2021-05-03" },
+  { "Symbol": "NYSE:JILL", "Time": "2021-05-03" },
+  { "Symbol": "NASDAQ:LIVE", "Time": "2021-05-04" },
+  { "Symbol": "NASDAQ:IHRT", "Time": "2021-05-05" },
+  { "Symbol": "NASDAQ:AVID", "Time": "2021-05-06" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2021-05-07" },
+  { "Symbol": "NYSE:AMC", "Time": "2021-05-13" },
+  { "Symbol": "AMEX:INTT", "Time": "2021-05-20" },
+  { "Symbol": "NYSE:GME", "Time": "2021-05-25" },
+  { "Symbol": "NASDAQ:LEDS", "Time": "2021-05-25" },
+  { "Symbol": "NASDAQ:LIVE", "Time": "2021-05-26" },
+  { "Symbol": "NYSE:SBOW", "Time": "2021-05-27" },
+  { "Symbol": "NASDAQ:LWLG", "Time": "2021-05-28" },
+  { "Symbol": "NYSE:CPE", "Time": "2021-06-01" },
+  { "Symbol": "NYSE:OII", "Time": "2021-06-01" },
+  { "Symbol": "NASDAQ:BNTX", "Time": "2021-06-02" },
+  { "Symbol": "NASDAQ:AMEH", "Time": "2021-06-04" },
+  { "Symbol": "NASDAQ:INMB", "Time": "2021-06-07" },
+  { "Symbol": "NYSE:MVO", "Time": "2021-06-08" },
+  { "Symbol": "NASDAQ:LWLG", "Time": "2021-06-14" },
+  { "Symbol": "NYSE:SPCE", "Time": "2021-06-22" },
+  { "Symbol": "NYSE:XYF", "Time": "2021-06-24" },
+  { "Symbol": "PINK:DPLS", "Time": "2021-06-30" },
+  { "Symbol": "NYSE:ANVS", "Time": "2021-07-01" },
+  { "Symbol": "NYSE:IDT", "Time": "2021-07-01" },
+  { "Symbol": "NASDAQ:BLIN", "Time": "2021-07-02" },
+  { "Symbol": "NASDAQ:EAST", "Time": "2021-07-07" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2021-07-12" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2021-07-13" },
+  { "Symbol": "NASDAQ:BNTX", "Time": "2021-07-16" },
+  { "Symbol": "NASDAQ:GREE", "Time": "2021-07-21" },
+  { "Symbol": "NASDAQ:PYCR", "Time": "2021-08-05" },
+  { "Symbol": "NASDAQ:AGFY", "Time": "2021-08-06" },
+  { "Symbol": "NASDAQ:TEAM", "Time": "2021-08-20" },
+  { "Symbol": "NASDAQ:GREE", "Time": "2021-08-23" },
+  { "Symbol": "NASDAQ:AEHR", "Time": "2021-08-26" },
+  { "Symbol": "ARCA:BOIL", "Time": "2021-08-26" },
+  { "Symbol": "NASDAQ:HUT", "Time": "2021-08-27" },
+  { "Symbol": "NASDAQ:METC", "Time": "2021-09-02" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2021-09-03" },
+  { "Symbol": "AMEX:MTMT", "Time": "2021-09-22" },
+  { "Symbol": "NASDAQ:ZTEK", "Time": "2021-09-22" },
+  { "Symbol": "NASDAQ:AMRK", "Time": "2021-09-30" },
+  { "Symbol": "NYSE:AMR", "Time": "2021-10-01" },
+  { "Symbol": "NASDAQ:HUT", "Time": "2021-10-01" },
+  { "Symbol": "NYSE:LAC", "Time": "2021-10-12" },
+  { "Symbol": "NASDAQ:AMBA", "Time": "2021-10-15" },
+  { "Symbol": "NASDAQ:ENVX", "Time": "2021-10-20" },
+  { "Symbol": "NASDAQ:APYX", "Time": "2021-10-26" },
+  { "Symbol": "NASDAQ:ZTEK", "Time": "2021-10-28" },
+  { "Symbol": "NYSE:XPOF", "Time": "2021-10-29" },
+  { "Symbol": "NYSE:SI", "Time": "2021-11-01" },
+  { "Symbol": "NASDAQ:TTD", "Time": "2021-11-08" },
+  { "Symbol": "NYSE:IONQ", "Time": "2021-11-16" },
+  { "Symbol": "NASDAQ:UPST", "Time": "2021-12-10" },
+  { "Symbol": "NASDAQ:HPK", "Time": "2022-02-09" },
+  { "Symbol": "NYSE:VOC", "Time": "2022-02-11" },
+  { "Symbol": "AMEX:INDO", "Time": "2022-02-22" },
+  { "Symbol": "NYSE:EGY", "Time": "2022-02-28" },
+  { "Symbol": "AMEX:TELL", "Time": "2022-03-23" },
+  { "Symbol": "NYSE:BORR", "Time": "2022-04-01" },
+  { "Symbol": "NYSE:IPI", "Time": "2022-04-06" },
+  { "Symbol": "NYSE:AMR", "Time": "2022-04-12" },
+  { "Symbol": "PINK:ECTM", "Time": "2022-05-13" },
+  { "Symbol": "NYSE:PVL", "Time": "2022-05-16" },
+  { "Symbol": "NYSE:CVI", "Time": "2022-05-25" },
+  { "Symbol": "NASDAQ:TRMD", "Time": "2022-05-25" },
+  { "Symbol": "NYSE:VET", "Time": "2022-05-25" },
+  { "Symbol": "NYSE:VLO", "Time": "2022-05-25" },
+  { "Symbol": "NASDAQ:RYTM", "Time": "2022-07-15" },
+  { "Symbol": "NASDAQ:CECE", "Time": "2022-07-18" },
+  { "Symbol": "NYSE:EDU", "Time": "2022-07-25" },
+  { "Symbol": "NASDAQ:ULH", "Time": "2022-07-25" },
+  { "Symbol": "NASDAQ:CNCE", "Time": "2022-07-27" },
+  { "Symbol": "NYSE:HKD", "Time": "2022-07-27" },
+  { "Symbol": "NASDAQ:OMER", "Time": "2022-07-27" },
+  { "Symbol": "NASDAQ:ARRY", "Time": "2022-07-28" },
+  { "Symbol": "NASDAQ:FSLR", "Time": "2022-07-28" },
+  { "Symbol": "NASDAQ:ALDX", "Time": "2022-07-29" },
+  { "Symbol": "NASDAQ:DCGO", "Time": "2022-07-29" },
+  { "Symbol": "NASDAQ:AEHR", "Time": "2022-08-01" },
+  { "Symbol": "NYSE:AMTD", "Time": "2022-08-01" },
+  { "Symbol": "NASDAQ:RYTM", "Time": "2022-08-02" },
+  { "Symbol": "NASDAQ:AVDL", "Time": "2022-08-04" },
+  { "Symbol": "NASDAQ:SWAV", "Time": "2022-08-09" },
+  { "Symbol": "NASDAQ:BBBY", "Time": "2022-08-12" },
+  { "Symbol": "NASDAQ:AXSM", "Time": "2022-08-19" },
+  { "Symbol": "NASDAQ:NERV", "Time": "2022-08-26" },
+  { "Symbol": "NASDAQ:GERN", "Time": "2022-08-31" },
+  { "Symbol": "NASDAQ:RVLP", "Time": "2022-08-31" },
+  { "Symbol": "NASDAQ:CPRX", "Time": "2022-09-07" },
+  { "Symbol": "NYSE:PEN", "Time": "2022-09-07" },
+  { "Symbol": "NASDAQ:PRTA", "Time": "2022-09-07" },
+  { "Symbol": "NASDAQ:BEAT", "Time": "2022-09-26" },
+  { "Symbol": "PINK:GTII", "Time": "2022-09-26" },
+  { "Symbol": "NASDAQ:AKRO", "Time": "2022-09-28" },
+  { "Symbol": "PINK:GTII", "Time": "2022-09-29" },
+  { "Symbol": "NASDAQ:ATXI", "Time": "2022-09-30" },
+  { "Symbol": "NASDAQ:BEAT", "Time": "2022-10-05" },
+  { "Symbol": "NYSE:CPNG", "Time": "2022-11-21" }
 ]
