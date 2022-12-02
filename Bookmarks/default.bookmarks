@@ -3093,5 +3093,7 @@
   { "Symbol": "NYSE:IOT", "Time": "2022-12-02T09:31:40" },
   { "Symbol": "NASDAQ:IQ", "Time": "2022-12-02T10:28:22" },
   { "Symbol": "NYSE:PATH", "Time": "2022-12-02T09:31:56" },
-  { "Symbol": "NYSE:RYAM", "Time": "2022-12-02T10:31:39" }
+  { "Symbol": "NYSE:RYAM", "Time": "2022-12-02T10:31:39" },
+  { "Symbol": "NYSE:SMAR", "Time": "2022-12-02T10:38:10" },
+  { "Symbol": "NYSE:SPB", "Time": "2022-12-02T10:37:56" }
 ]
