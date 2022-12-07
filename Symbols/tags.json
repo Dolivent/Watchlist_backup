@@ -529,19 +529,16 @@
     "NYSE:YOU"
   ],
   "kell": [
+    "NASDAQ:ARRY",
     "NASDAQ:ASO",
-    "NYSE:DECK",
-    "NYSE:DHI",
-    "NASDAQ:LULU",
-    "NASDAQ:MEDP",
-    "NASDAQ:MSFT",
-    "NASDAQ:NVDA",
+    "NYSE:CPNG",
+    "NASDAQ:ENPH",
+    "NASDAQ:FIVE",
+    "NASDAQ:GFS",
     "NASDAQ:ON",
     "NASDAQ:PODD",
-    "NASDAQ:QQQ",
     "NASDAQ:TMDX",
-    "NASDAQ:TSLA",
-    "ARCA:UUP"
+    "NYSE:YOU"
   ],
   "l/f": [
     "AMEX:ENSV",
