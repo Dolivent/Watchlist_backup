@@ -9899,9 +9899,65 @@
               "OrderId": "2022-11-28_008"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:HLIT",
+              "Time": "2022-12-05",
+              "Quantity": -5,
+              "Price": 14.67,
+              "Fee": -0.01,
+              "Id": "2022-12-05_004",
+              "OrderId": "2022-12-05_004"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:HLIT",
+              "Time": "2022-12-05",
+              "Quantity": -10,
+              "Price": 14.4,
+              "Fee": -0.01,
+              "Id": "2022-12-05_005",
+              "OrderId": "2022-12-05_005"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:HLIT",
+              "Time": "2022-12-05",
+              "Quantity": -10,
+              "Price": 14.49,
+              "Fee": -0.01,
+              "Id": "2022-12-05_006",
+              "OrderId": "2022-12-05_006"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:HLIT",
+              "Time": "2022-12-05",
+              "Quantity": -10,
+              "Price": 14.54,
+              "Fee": -0.01,
+              "Id": "2022-12-05_007",
+              "OrderId": "2022-12-05_007"
+            }
+          ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -9964,7 +10020,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10060,9 +10116,23 @@
               "OrderId": "2022-12-02_004"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:PDD",
+              "Time": "2022-12-08",
+              "Quantity": -1,
+              "Price": 90,
+              "Fee": -0.01,
+              "Id": "2022-12-08_003",
+              "OrderId": "2022-12-08_003"
+            }
+          ]
         }
       ],
-      "Setup": null,
+      "Setup": "ep",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10242,9 +10312,37 @@
               "OrderId": "2022-12-01_007"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:NINE",
+              "Time": "2022-12-05",
+              "Quantity": -5,
+              "Price": 9.2,
+              "Fee": -0.01,
+              "Id": "2022-12-05_002",
+              "OrderId": "2022-12-05_002"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:NINE",
+              "Time": "2022-12-05",
+              "Quantity": -45,
+              "Price": 9.2,
+              "Fee": -0.01,
+              "Id": "2022-12-05_003",
+              "OrderId": "2022-12-05_003"
+            }
+          ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10363,7 +10461,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10426,7 +10524,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10461,7 +10559,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "ep",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10524,7 +10622,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10587,7 +10685,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10622,7 +10720,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10671,7 +10769,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -10690,9 +10788,352 @@
               "OrderId": "2022-12-02_003"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SHLS",
+              "Time": "2022-12-05",
+              "Quantity": -2,
+              "Price": 26,
+              "Fee": -0.01,
+              "Id": "2022-12-05_001",
+              "OrderId": "2022-12-05_001"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SHLS",
+              "Time": "2022-12-06",
+              "Quantity": -2,
+              "Price": 23.95,
+              "Fee": -0.01,
+              "Id": "2022-12-06_001",
+              "OrderId": "2022-12-06_001"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SHLS",
+              "Time": "2022-12-06",
+              "Quantity": -16,
+              "Price": 23.95,
+              "Fee": -0.01,
+              "Id": "2022-12-06_002",
+              "OrderId": "2022-12-06_002"
+            }
+          ]
         }
       ],
-      "Setup": null,
+      "Setup": "random",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FSM",
+              "Time": "2022-12-07",
+              "Quantity": 100,
+              "Price": 3.94,
+              "Fee": -0,
+              "Id": "2022-12-07_004",
+              "OrderId": "2022-12-07_004"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FSM",
+              "Time": "2022-12-09",
+              "Quantity": -10,
+              "Price": 3.8,
+              "Fee": -0.01,
+              "Id": "2022-12-09_004",
+              "OrderId": "2022-12-09_004"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:FSM",
+              "Time": "2022-12-09",
+              "Quantity": -10,
+              "Price": 3.8,
+              "Fee": -0.01,
+              "Id": "2022-12-09_005",
+              "OrderId": "2022-12-09_005"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:HMY",
+              "Time": "2022-12-07T09:30:15",
+              "Quantity": 125,
+              "Price": 3.6,
+              "Fee": -0,
+              "Id": "2022-12-07_001",
+              "OrderId": "2022-12-07_001"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:HMY",
+              "Time": "2022-12-09T15:34:15",
+              "Quantity": -12,
+              "Price": 3.48,
+              "Fee": -0.01,
+              "Id": "2022-12-09_001",
+              "OrderId": "2022-12-09_001"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:HMY",
+              "Time": "2022-12-09T15:34:17",
+              "Quantity": -13,
+              "Price": 3.49,
+              "Fee": -0.01,
+              "Id": "2022-12-09_002",
+              "OrderId": "2022-12-09_002"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:HMY",
+              "Time": "2022-12-09T15:34:19",
+              "Quantity": -100,
+              "Price": 3.48,
+              "Fee": -0.01,
+              "Id": "2022-12-09_003",
+              "OrderId": "2022-12-09_003"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:GFI",
+              "Time": "2022-12-07T09:46:15",
+              "Quantity": 70,
+              "Price": 11.3,
+              "Fee": -0,
+              "Id": "2022-12-07_002",
+              "OrderId": "2022-12-07_002"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:GFI",
+              "Time": "2022-12-07T11:00:15",
+              "Quantity": -70,
+              "Price": 11.1,
+              "Fee": -0.02,
+              "Id": "2022-12-07_003",
+              "OrderId": "2022-12-07_003"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AMAT",
+              "Time": "2022-12-08",
+              "Quantity": 12,
+              "Price": 107.65,
+              "Fee": -0,
+              "Id": "2022-12-08_005",
+              "OrderId": "2022-12-08_005"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AMAT",
+              "Time": "2022-12-08",
+              "Quantity": -2,
+              "Price": 108.81,
+              "Fee": -0.01,
+              "Id": "2022-12-08_006",
+              "OrderId": "2022-12-08_006"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CIEN",
+              "Time": "2022-12-08T09:34:15",
+              "Quantity": 4,
+              "Price": 52.03,
+              "Fee": -0,
+              "Id": "2022-12-08_004",
+              "OrderId": "2022-12-08_004"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CIEN",
+              "Time": "2022-12-09T11:35:15",
+              "Quantity": -1,
+              "Price": 50.22,
+              "Fee": -0.01,
+              "Id": "2022-12-09_006",
+              "OrderId": "2022-12-09_006"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CIEN",
+              "Time": "2022-12-09T11:35:17",
+              "Quantity": -3,
+              "Price": 50.22,
+              "Fee": -0.01,
+              "Id": "2022-12-09_007",
+              "OrderId": "2022-12-09_007"
+            }
+          ]
+        }
+      ],
+      "Setup": "ep",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SARK",
+              "Time": "2022-12-08T09:35:15",
+              "Quantity": 16,
+              "Price": 63.19,
+              "Fee": -0,
+              "Id": "2022-12-08_001",
+              "OrderId": "2022-12-08_001"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SARK",
+              "Time": "2022-12-08T09:50:15",
+              "Quantity": -16,
+              "Price": 62.22,
+              "Fee": -0.03,
+              "Id": "2022-12-08_002",
+              "OrderId": "2022-12-08_002"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:ASML",
+              "Time": "2022-12-09T09:40:15",
+              "Quantity": 1,
+              "Price": 606.72,
+              "Fee": -0,
+              "Id": "2022-12-09_008",
+              "OrderId": "2022-12-09_008"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:ASML",
+              "Time": "2022-12-09T15:54:15",
+              "Quantity": -1,
+              "Price": 596.77,
+              "Fee": -0.02,
+              "Id": "2022-12-09_009",
+              "OrderId": "2022-12-09_009"
+            }
+          ]
+        }
+      ],
+      "Setup": "breakout",
       "BuyMistake": null,
       "SellMistake": null
     }
