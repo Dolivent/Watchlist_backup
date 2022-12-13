@@ -3159,6 +3159,7 @@
   { "Symbol": "NYSE:ELF", "Time": "2022-12-13T09:35:14" },
   { "Symbol": "NASDAQ:KLAC", "Time": "2022-12-13T09:35:14" },
   { "Symbol": "NASDAQ:LRCX", "Time": "2022-12-13T09:35:14" },
+  { "Symbol": "NASDAQ:MRNA", "Time": "2022-12-13T11:32:12" },
   { "Symbol": "NASDAQ:RELL", "Time": "2022-12-13T09:35:14" },
   { "Symbol": "NASDAQ:RMBS", "Time": "2022-12-13T09:35:14" },
   { "Symbol": "ARCA:SOXL", "Time": "2022-12-13T09:35:14" },
