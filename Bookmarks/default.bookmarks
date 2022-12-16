@@ -3170,6 +3170,7 @@
   { "Symbol": "NASDAQ:FLNC", "Time": "2022-12-13" },
   { "Symbol": "NYSE:FLR", "Time": "2022-12-13" },
   { "Symbol": "NASDAQ:FSLR", "Time": "2022-12-13" },
+  { "Symbol": "NASDAQ:GRTS", "Time": "2022-12-13" },
   { "Symbol": "NASDAQ:KLAC", "Time": "2022-12-13" },
   { "Symbol": "NASDAQ:LRCX", "Time": "2022-12-13" },
   { "Symbol": "NASDAQ:LSCC", "Time": "2022-12-13" },
@@ -3185,6 +3186,8 @@
   { "Symbol": "NYSE:YETI", "Time": "2022-12-13" },
   { "Symbol": "NASDAQ:CYTK", "Time": "2022-12-14T09:35:43" },
   { "Symbol": "NASDAQ:HLIT", "Time": "2022-12-14T09:33:01" },
+  { "Symbol": "NYSE:NINE", "Time": "2022-12-14" },
   { "Symbol": "NYSE:REVG", "Time": "2022-12-14T10:01:11" },
-  { "Symbol": "NASDAQ:RNA", "Time": "2022-12-14T10:38:29" }
+  { "Symbol": "NASDAQ:RNA", "Time": "2022-12-14T10:38:29" },
+  { "Symbol": "NASDAQ:MOMO", "Time": "2022-12-16T09:30:30" }
 ]
