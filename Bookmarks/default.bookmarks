@@ -3189,5 +3189,6 @@
   { "Symbol": "NYSE:NINE", "Time": "2022-12-14" },
   { "Symbol": "NYSE:REVG", "Time": "2022-12-14T10:01:11" },
   { "Symbol": "NASDAQ:RNA", "Time": "2022-12-14T10:38:29" },
+  { "Symbol": "NASDAQ:AKRO", "Time": "2022-12-16" },
   { "Symbol": "NASDAQ:MOMO", "Time": "2022-12-16T09:30:30" }
 ]

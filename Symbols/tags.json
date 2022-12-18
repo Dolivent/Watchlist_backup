@@ -18,6 +18,22 @@
     "NYSE:NTR",
     "NYSE:UAN"
   ],
+  "ai": [
+    "NASDAQ:AHI",
+    "NYSE:AI",
+    "NASDAQ:AMST",
+    "NASDAQ:BEAT",
+    "NASDAQ:CDLX",
+    "NASDAQ:CYN",
+    "NASDAQ:HCAT",
+    "NASDAQ:IFBD",
+    "NYSE:IOT",
+    "NASDAQ:MBLY",
+    "NASDAQ:MCLD",
+    "NASDAQ:MNTV",
+    "NYSE:PERF",
+    "NASDAQ:SOUN"
+  ],
   "airlines": [
     "NYSE:AZUL",
     "NYSE:GOL",
@@ -31,7 +47,6 @@
   ],
   "argentina": [
     "NYSE:ARCO",
-    "AMEX:ARGT",
     "NYSE:BMA",
     "NASDAQ:GGAL",
     "NASDAQ:MELI",
@@ -144,7 +159,6 @@
     "NASDAQ:ZLAB"
   ],
   "brazil": [
-    "AMEX:EWZ",
     "NYSE:GGB",
     "NYSE:VALE"
   ],
@@ -163,9 +177,7 @@
     "NASDAQ:EVGO",
     "NYSE:WBX"
   ],
-  "chile": [
-    "AMEX:ECH"
-  ],
+  "chile": [],
   "china": [
     "NYSE:BABA",
     "NASDAQ:HTHT",
