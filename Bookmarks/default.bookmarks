@@ -3252,6 +3252,7 @@
   { "Symbol": "NASDAQ:MRNA", "Time": "2022-12-21" },
   { "Symbol": "ARCA:NRGU", "Time": "2022-12-21" },
   { "Symbol": "ARCA:OIH", "Time": "2022-12-21" },
+  { "Symbol": "NASDAQ:PCVX", "Time": "2022-12-21" },
   { "Symbol": "NASDAQ:PRDO", "Time": "2022-12-21" },
   { "Symbol": "NASDAQ:PTEN", "Time": "2022-12-21" },
   { "Symbol": "NASDAQ:QFIN", "Time": "2022-12-21" },
