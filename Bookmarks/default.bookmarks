@@ -3207,7 +3207,6 @@
   { "Symbol": "ARCA:CEF", "Time": "2022-12-20" },
   { "Symbol": "NYSE:CEIX", "Time": "2022-12-20" },
   { "Symbol": "NASDAQ:CPRX", "Time": "2022-12-20" },
-  { "Symbol": "NASDAQ:CROX", "Time": "2022-12-20" },
   { "Symbol": "NYSE:DDL", "Time": "2022-12-20" },
   { "Symbol": "NYSE:FSM", "Time": "2022-12-20" },
   { "Symbol": "NYSE:HAL", "Time": "2022-12-20" },
