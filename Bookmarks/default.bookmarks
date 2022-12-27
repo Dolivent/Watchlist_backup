@@ -3268,5 +3268,7 @@
   { "Symbol": "NYSE:APE", "Time": "2022-12-22T10:16:20" },
   { "Symbol": "NYSE:CLF", "Time": "2022-12-22T10:14:50" },
   { "Symbol": "NASDAQ:ORIC", "Time": "2022-12-22T10:19:01" },
-  { "Symbol": "NASDAQ:PRQR", "Time": "2022-12-22T10:13:23" }
+  { "Symbol": "NASDAQ:PRQR", "Time": "2022-12-22T10:13:23" },
+  { "Symbol": "NYSE:GFF", "Time": "2022-12-23" },
+  { "Symbol": "NASDAQ:ICVX", "Time": "2022-12-23" }
 ]
