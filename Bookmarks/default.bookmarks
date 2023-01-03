@@ -3320,5 +3320,6 @@
   { "Symbol": "NYSE:TDW", "Time": "2022-12-29" },
   { "Symbol": "NYSE:BORR", "Time": "2022-12-30T09:32:58" },
   { "Symbol": "NYSE:MANU", "Time": "2022-12-30T10:11:32" },
+  { "Symbol": "NASDAQ:MBLY", "Time": "2022-12-30" },
   { "Symbol": "NASDAQ:SOUN", "Time": "2022-12-30" }
 ]

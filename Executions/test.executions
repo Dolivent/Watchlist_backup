@@ -1,0 +1,305 @@
+{
+  "Trades": [
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 100,
+              "Price": 141.81,
+              "Fee": 0,
+              "Id": "0000d6a5.633c2f37.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 100,
+              "Price": 141.83,
+              "Fee": -0.5,
+              "Id": "0000d6a5.633c2f38.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 100,
+              "Price": 141.83,
+              "Fee": -0.5,
+              "Id": "0000d6a5.633c2f39.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 88,
+              "Price": 141.8362,
+              "Fee": -0.34,
+              "Id": "0000e494.633c2f6e.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 10,
+              "Price": 141.715,
+              "Fee": -0.05,
+              "Id": "00010129.633bf643.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 60,
+              "Price": 141.85,
+              "Fee": -0.3,
+              "Id": "00010129.633bf644.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 30,
+              "Price": 141.85,
+              "Fee": -1,
+              "Id": "00010129.633bf645.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 50,
+              "Price": 141.8,
+              "Fee": 0,
+              "Id": "00010129.633bf646.01.01",
+              "OrderId": "256247276"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T09:30:43",
+              "Quantity": 50,
+              "Price": 141.81,
+              "Fee": -0.25,
+              "Id": "00010129.633bf647.01.01",
+              "OrderId": "256247276"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -88,
+              "Price": 141.79,
+              "Fee": -0.737175208,
+              "Id": "0000d6a5.633c6833.01.01",
+              "OrderId": "256309944"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -100,
+              "Price": 141.78,
+              "Fee": -0.8376762,
+              "Id": "0000da28.633c3763.01.01",
+              "OrderId": "256309944"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -100,
+              "Price": 141.79,
+              "Fee": -0.8376991,
+              "Id": "0000f6f6.633c351a.01.01",
+              "OrderId": "256309944"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -100,
+              "Price": 141.8,
+              "Fee": -0.337722,
+              "Id": "00010129.633c2f94.01.01",
+              "OrderId": "256309944"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -100,
+              "Price": 141.7954,
+              "Fee": -0.837711466,
+              "Id": "0001506d.633c4df1.01.01",
+              "OrderId": "256309944"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:FSLR",
+              "Time": "2022-10-04T13:17:41",
+              "Quantity": -100,
+              "Price": 141.79,
+              "Fee": -1.3376991,
+              "Id": "00018d2d.633c2d99.01.01",
+              "OrderId": "256309944"
+            }
+          ]
+        }
+      ],
+      "Setup": "bo",
+      "BuyMistake": "extended",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 300,
+              "Price": 15.52,
+              "Fee": -1.5,
+              "Id": "0000ddc2.633c2acb.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 300,
+              "Price": 15.53,
+              "Fee": -1.5,
+              "Id": "0000ddc2.633c2acd.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 100,
+              "Price": 15.53,
+              "Fee": -0.5,
+              "Id": "0000ddc2.633c2acf.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 66,
+              "Price": 15.5362,
+              "Fee": -0.33,
+              "Id": "0000e494.633c31d5.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 200,
+              "Price": 15.5295,
+              "Fee": -0.5,
+              "Id": "0000e628.633c30f9.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 100,
+              "Price": 15.54,
+              "Fee": -1,
+              "Id": "000103bf.633be35e.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:32",
+              "Quantity": 200,
+              "Price": 15.54,
+              "Fee": -1,
+              "Id": "00015e71.633c2917.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:33",
+              "Quantity": 100,
+              "Price": 15.59,
+              "Fee": -0.5,
+              "Id": "0000d322.633c2aa4.01.01",
+              "OrderId": "256250708"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:35:33",
+              "Quantity": 300,
+              "Price": 15.58,
+              "Fee": -1.5,
+              "Id": "0000ddc2.633c2adb.01.01",
+              "OrderId": "256250708"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:53:18",
+              "Quantity": -1200,
+              "Price": 15.08,
+              "Fee": -6.0703984,
+              "Id": "0000d322.633c30dd.01.01",
+              "OrderId": "256261033"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:53:18",
+              "Quantity": -366,
+              "Price": 15.08,
+              "Fee": -2.003971512,
+              "Id": "0000db5b.633c2a54.01.01",
+              "OrderId": "256261033"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:AEHR",
+              "Time": "2022-10-04T09:53:18",
+              "Quantity": -100,
+              "Price": 15.08,
+              "Fee": -1.0475332,
+              "Id": "0000febb.633c0838.01.01",
+              "OrderId": "256261033"
+            }
+          ]
+        }
+      ],
+      "Setup": "bo",
+      "BuyMistake": "not tight",
+      "SellMistake": null
+    }
+  ],
+  "Executions": []
+}
