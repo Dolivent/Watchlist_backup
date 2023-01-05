@@ -3377,9 +3377,12 @@
   { "Symbol": "NYSE:YMM", "Time": "2023-01-03" },
   { "Symbol": "NASDAQ:ZEUS", "Time": "2023-01-03" },
   { "Symbol": "NASDAQ:ACLX", "Time": "2023-01-04" },
+  { "Symbol": "NYSE:BKE", "Time": "2023-01-04" },
   { "Symbol": "ARCA:DFEN", "Time": "2023-01-04T09:55:00" },
   { "Symbol": "NASDAQ:GERN", "Time": "2023-01-04T09:47:43" },
   { "Symbol": "NASDAQ:HTHT", "Time": "2023-01-04" },
+  { "Symbol": "NASDAQ:JD", "Time": "2023-01-04" },
   { "Symbol": "NYSE:MOD", "Time": "2023-01-04T09:41:02" },
+  { "Symbol": "NASDAQ:NFLX", "Time": "2023-01-04" },
   { "Symbol": "NYSE:RLX", "Time": "2023-01-04" }
 ]
