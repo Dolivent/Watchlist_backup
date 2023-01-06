@@ -472,6 +472,11 @@
     "NASDAQ:CD",
     "NASDAQ:GDS"
   ],
+  "infra bill": [
+    "NYSE:CAT",
+    "NASDAQ:TH",
+    "NASDAQ:TITN"
+  ],
   "insurance - diversified": [
     "NASDAQ:ACGL",
     "NYSE:BRK A",

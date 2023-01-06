@@ -3395,6 +3395,7 @@
   { "Symbol": "NASDAQ:ABVC", "Time": "2023-01-05T09:52:18" },
   { "Symbol": "NASDAQ:ACLS", "Time": "2023-01-05" },
   { "Symbol": "NASDAQ:BLPH", "Time": "2023-01-05T10:14:49" },
+  { "Symbol": "ARCA:COPX", "Time": "2023-01-05" },
   { "Symbol": "NASDAQ:FGEN", "Time": "2023-01-05T09:38:46" },
   { "Symbol": "ARCA:FNGD", "Time": "2023-01-05" },
   { "Symbol": "NYSE:HKD", "Time": "2023-01-05" },
@@ -3406,5 +3407,12 @@
   { "Symbol": "NASDAQ:SQQQ", "Time": "2023-01-05" },
   { "Symbol": "ARCA:TECS", "Time": "2023-01-05" },
   { "Symbol": "NASDAQ:VYNT", "Time": "2023-01-05" },
-  { "Symbol": "NASDAQ:ZLAB", "Time": "2023-01-05" }
+  { "Symbol": "NASDAQ:ZLAB", "Time": "2023-01-05" },
+  { "Symbol": "NASDAQ:CTMX", "Time": "2023-01-06T09:32:17" },
+  { "Symbol": "ARCA:DFEN", "Time": "2023-01-06T10:00:00" },
+  { "Symbol": "NASDAQ:MGAM", "Time": "2023-01-06" },
+  { "Symbol": "ARCA:NRGU", "Time": "2023-01-06T09:41:43" },
+  { "Symbol": "ARCA:OIH", "Time": "2023-01-06" },
+  { "Symbol": "AMEX:TGB", "Time": "2023-01-06" },
+  { "Symbol": "NASDAQ:TITN", "Time": "2023-01-06T09:32:46" }
 ]
