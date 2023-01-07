@@ -3420,6 +3420,7 @@
   { "Symbol": "ARCA:GDX", "Time": "2023-01-06T11:14:44" },
   { "Symbol": "NYSE:HRI", "Time": "2023-01-06" },
   { "Symbol": "ARCA:IYM", "Time": "2023-01-06T10:52:31" },
+  { "Symbol": "NASDAQ:LYTS", "Time": "2023-01-06T13:13:35" },
   { "Symbol": "NYSE:MCK", "Time": "2023-01-06T10:11:17" },
   { "Symbol": "NASDAQ:MGAM", "Time": "2023-01-06" },
   { "Symbol": "NYSE:MNSO", "Time": "2023-01-06T10:11:17" },
