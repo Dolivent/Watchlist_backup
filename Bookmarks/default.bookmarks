@@ -3509,5 +3509,11 @@
   { "Symbol": "NASDAQ:TSLL", "Time": "2023-01-09T12:01:26" },
   { "Symbol": "NASDAQ:TXG", "Time": "2023-01-09" },
   { "Symbol": "NASDAQ:Z", "Time": "2023-01-09" },
-  { "Symbol": "NASDAQ:ZG", "Time": "2023-01-09" }
+  { "Symbol": "NASDAQ:ZG", "Time": "2023-01-09" },
+  { "Symbol": "NASDAQ:DADA", "Time": "2023-01-10T09:21:20" },
+  { "Symbol": "NYSE:DQ", "Time": "2023-01-10T09:42:50" },
+  { "Symbol": "NYSE:FRO", "Time": "2023-01-10T09:35:58" },
+  { "Symbol": "NASDAQ:MEDP", "Time": "2023-01-10T09:44:20" },
+  { "Symbol": "NYSE:OSH", "Time": "2023-01-10T09:35:58" },
+  { "Symbol": "NASDAQ:VKTX", "Time": "2023-01-10T11:10:49" }
 ]

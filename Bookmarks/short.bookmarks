@@ -133,5 +133,9 @@
   { "Symbol": "NYSE:RTX", "Time": "2023-01-09" },
   { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-09" },
   { "Symbol": "NASDAQ:UTHR", "Time": "2023-01-09" },
-  { "Symbol": "NASDAQ:VRDN", "Time": "2023-01-09" }
+  { "Symbol": "NASDAQ:VRDN", "Time": "2023-01-09" },
+  { "Symbol": "NYSE:ELF", "Time": "2023-01-10T09:44:20" },
+  { "Symbol": "NYSE:EURN", "Time": "2023-01-10T09:42:50" },
+  { "Symbol": "NYSE:RYAM", "Time": "2023-01-10T09:49:32" },
+  { "Symbol": "NASDAQ:SMCI", "Time": "2023-01-10T09:42:13" }
 ]
