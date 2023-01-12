@@ -3408,6 +3408,7 @@
   { "Symbol": "NYSE:FCX", "Time": "2023-01-05" },
   { "Symbol": "NASDAQ:FGEN", "Time": "2023-01-05T09:38:46" },
   { "Symbol": "ARCA:FNGD", "Time": "2023-01-05" },
+  { "Symbol": "NASDAQ:GGAL", "Time": "2023-01-05" },
   { "Symbol": "NYSE:HKD", "Time": "2023-01-05" },
   { "Symbol": "NYSE:LW", "Time": "2023-01-05T10:00:00" },
   { "Symbol": "NYSE:MOD", "Time": "2023-01-05" },
@@ -3523,7 +3524,14 @@
   { "Symbol": "NASDAQ:SHC", "Time": "2023-01-10" },
   { "Symbol": "NASDAQ:TH", "Time": "2023-01-10" },
   { "Symbol": "NASDAQ:VKTX", "Time": "2023-01-10" },
+  { "Symbol": "NASDAQ:AMV", "Time": "2023-01-11" },
+  { "Symbol": "NASDAQ:AQMS", "Time": "2023-01-11T10:00:00" },
   { "Symbol": "NASDAQ:BWEN", "Time": "2023-01-11T09:50:34" },
+  { "Symbol": "NYSE:CVNA", "Time": "2023-01-11T10:12:35" },
+  { "Symbol": "NASDAQ:EXAS", "Time": "2023-01-11" },
+  { "Symbol": "NYSE:GEO", "Time": "2023-01-11T10:00:00" },
   { "Symbol": "NASDAQ:IQ", "Time": "2023-01-11T09:50:34" },
-  { "Symbol": "NASDAQ:LIPO", "Time": "2023-01-11T09:50:06" }
+  { "Symbol": "NASDAQ:LIPO", "Time": "2023-01-11T09:50:06" },
+  { "Symbol": "NYSE:LTHM", "Time": "2023-01-11T10:12:13" },
+  { "Symbol": "ARCA:YINN", "Time": "2023-01-11" }
 ]

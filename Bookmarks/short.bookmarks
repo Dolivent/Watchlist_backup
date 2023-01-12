@@ -147,11 +147,15 @@
   { "Symbol": "NASDAQ:SMCI", "Time": "2023-01-10T09:42:13" },
   { "Symbol": "BATS:UVXY", "Time": "2023-01-10" },
   { "Symbol": "NYSE:VET", "Time": "2023-01-10" },
+  { "Symbol": "ARCA:AGQ", "Time": "2023-01-11T10:12:13" },
   { "Symbol": "NASDAQ:BWEN", "Time": "2023-01-11T09:37:38" },
   { "Symbol": "ARCA:DRV", "Time": "2023-01-11T09:42:30" },
   { "Symbol": "NASDAQ:GDS", "Time": "2023-01-11T09:42:30" },
   { "Symbol": "NASDAQ:IMVT", "Time": "2023-01-11T09:42:30" },
+  { "Symbol": "NASDAQ:JD", "Time": "2023-01-11T10:12:35" },
   { "Symbol": "NASDAQ:KC", "Time": "2023-01-11T09:42:30" },
   { "Symbol": "NASDAQ:PCVX", "Time": "2023-01-11T09:42:30" },
-  { "Symbol": "NASDAQ:SABR", "Time": "2023-01-11T09:42:30" }
+  { "Symbol": "NASDAQ:SABR", "Time": "2023-01-11T09:42:30" },
+  { "Symbol": "NASDAQ:TGTX", "Time": "2023-01-11T10:12:35" },
+  { "Symbol": "NYSE:TME", "Time": "2023-01-11T10:12:35" }
 ]
