@@ -3383,7 +3383,6 @@
   { "Symbol": "NASDAQ:ACLX", "Time": "2023-01-04" },
   { "Symbol": "NYSE:BKE", "Time": "2023-01-04" },
   { "Symbol": "NASDAQ:BLPH", "Time": "2023-01-04" },
-  { "Symbol": "ARCA:DFEN", "Time": "2023-01-04T09:55:00" },
   { "Symbol": "ARCA:DRV", "Time": "2023-01-04" },
   { "Symbol": "NASDAQ:GERN", "Time": "2023-01-04T09:47:43" },
   { "Symbol": "NYSE:GFI", "Time": "2023-01-04" },
@@ -3437,7 +3436,6 @@
   { "Symbol": "ARCA:SOXL", "Time": "2023-01-06" },
   { "Symbol": "ARCA:UDOW", "Time": "2023-01-06" },
   { "Symbol": "ARCA:URA", "Time": "2023-01-06T11:14:54" },
-  { "Symbol": "ARCA:URNM", "Time": "2023-01-06T11:14:54" },
   { "Symbol": "NYSE:VRT", "Time": "2023-01-06" },
   { "Symbol": "NYSE:WWE", "Time": "2023-01-06" },
   { "Symbol": "NYSE:X", "Time": "2023-01-06" },
@@ -3531,5 +3529,12 @@
   { "Symbol": "NASDAQ:IQ", "Time": "2023-01-13T09:54:14" },
   { "Symbol": "NASDAQ:JD", "Time": "2023-01-13T09:47:50" },
   { "Symbol": "ARCA:LABU", "Time": "2023-01-13" },
-  { "Symbol": "NASDAQ:RXDX", "Time": "2023-01-13" }
+  { "Symbol": "NASDAQ:MGOL", "Time": "2023-01-13T11:02:30" },
+  { "Symbol": "NASDAQ:NATI", "Time": "2023-01-13T10:28:31" },
+  { "Symbol": "NASDAQ:PDD", "Time": "2023-01-13T09:37:04" },
+  { "Symbol": "NASDAQ:PGJ", "Time": "2023-01-13T09:36:48" },
+  { "Symbol": "NASDAQ:RXDX", "Time": "2023-01-13" },
+  { "Symbol": "NYSE:TME", "Time": "2023-01-13T09:38:23" },
+  { "Symbol": "NASDAQ:VKTX", "Time": "2023-01-13T10:29:25" },
+  { "Symbol": "ARCA:YINN", "Time": "2023-01-13T09:38:11" }
 ]
