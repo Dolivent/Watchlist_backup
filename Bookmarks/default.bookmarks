@@ -3527,6 +3527,7 @@
   { "Symbol": "NASDAQ:CBAY", "Time": "2023-01-13" },
   { "Symbol": "ARCA:CWEB", "Time": "2023-01-13T09:38:10" },
   { "Symbol": "NASDAQ:DADA", "Time": "2023-01-13T09:38:30" },
+  { "Symbol": "NYSE:EDU", "Time": "2023-01-13" },
   { "Symbol": "NASDAQ:EH", "Time": "2023-01-13T10:25:12" },
   { "Symbol": "NYSE:FICO", "Time": "2023-01-13" },
   { "Symbol": "NYSE:GOTU", "Time": "2023-01-13T10:28:31" },
