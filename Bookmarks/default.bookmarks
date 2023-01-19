@@ -3565,5 +3565,6 @@
   { "Symbol": "NASDAQ:MDGL", "Time": "2023-01-18T09:59:07" },
   { "Symbol": "NASDAQ:MRNA", "Time": "2023-01-18T09:55:58" },
   { "Symbol": "NASDAQ:ORIC", "Time": "2023-01-18" },
-  { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-18" }
+  { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-18" },
+  { "Symbol": "NYSE:EDU", "Time": "2023-01-19" }
 ]
