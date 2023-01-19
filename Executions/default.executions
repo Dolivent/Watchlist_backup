@@ -78436,6 +78436,326 @@
       "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 550,
+              "Price": 178.88,
+              "Fee": -2.25,
+              "Id": "0000d323.63c6a32e.01.01",
+              "OrderId": "265836756"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 800,
+              "Price": 178.878,
+              "Fee": -4,
+              "Id": "0000d5d6.63c6ad84.01.01",
+              "OrderId": "265836756"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 44,
+              "Price": 178.82,
+              "Fee": -0.22,
+              "Id": "000100df.63c684a9.01.01",
+              "OrderId": "265836756"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 56,
+              "Price": 178.82,
+              "Fee": -0.28,
+              "Id": "000100df.63c684aa.01.01",
+              "OrderId": "265836756"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 94,
+              "Price": 178.87,
+              "Fee": -0.47,
+              "Id": "000100df.63c684ab.01.01",
+              "OrderId": "265836756"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:20",
+              "Quantity": 100,
+              "Price": 178.85,
+              "Fee": -1,
+              "Id": "00016247.63c69b9d.01.01",
+              "OrderId": "265836756"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 300,
+              "Price": 178.95,
+              "Fee": -1,
+              "Id": "0000dc24.63c6a325.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 21,
+              "Price": 178.955,
+              "Fee": -0.105,
+              "Id": "0000e95f.63c6af3d.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 100,
+              "Price": 178.92,
+              "Fee": -0.5,
+              "Id": "000100df.63c68543.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 100,
+              "Price": 178.95,
+              "Fee": -0.5,
+              "Id": "000100df.63c68544.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 100,
+              "Price": 178.96,
+              "Fee": -0.5,
+              "Id": "000100df.63c68545.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 100,
+              "Price": 178.94,
+              "Fee": -0.5,
+              "Id": "00015036.63c6a35f.01.01",
+              "OrderId": "265837027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-17T09:30:56",
+              "Quantity": 100,
+              "Price": 178.935,
+              "Fee": -1,
+              "Id": "00022618.63c6aaab.01.01",
+              "OrderId": "265837027"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:31:14",
+              "Quantity": 172,
+              "Price": 127.14,
+              "Fee": -1,
+              "Id": "0000d97f.63c6a319.01.01",
+              "OrderId": "265837997"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:31:14",
+              "Quantity": 250,
+              "Price": 127.14,
+              "Fee": -1.11,
+              "Id": "0000d97f.63c6a31b.01.01",
+              "OrderId": "265837997"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -32,
+              "Price": 125.03,
+              "Fee": -0.256261984,
+              "Id": "0000f592.63c67ecb.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -2,
+              "Price": 125.04,
+              "Fee": -0.006016832,
+              "Id": "00010196.63c69a23.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -19,
+              "Price": 125.03,
+              "Fee": -0.057155553,
+              "Id": "00010196.63c69a24.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -12,
+              "Price": 125.03,
+              "Fee": -0.036098244,
+              "Id": "00010196.63c69a25.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -11,
+              "Price": 125.03,
+              "Fee": -0.088090057,
+              "Id": "00010196.63c69a26.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -10,
+              "Price": 125.03,
+              "Fee": -0.08008187,
+              "Id": "00010196.63c69a27.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -22,
+              "Price": 125.0232,
+              "Fee": -0.066176688,
+              "Id": "0001506d.63c6a1ba.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -100,
+              "Price": 125.03,
+              "Fee": -0.8008187,
+              "Id": "00015965.63c6a8cb.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -100,
+              "Price": 125.04,
+              "Fee": -0.6458416,
+              "Id": "00015965.63c6a8cd.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -100,
+              "Price": 125.02,
+              "Fee": -0.3007958,
+              "Id": "00016247.63c69f89.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -4,
+              "Price": 125.03,
+              "Fee": -1.012032748,
+              "Id": "00019763.63c662a8.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -3,
+              "Price": 125.03,
+              "Fee": -0.009024561,
+              "Id": "00019763.63c662a9.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -4,
+              "Price": 125.03,
+              "Fee": -0.012032748,
+              "Id": "00019763.63c662aa.01.01",
+              "OrderId": "265844798"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:TSLA",
+              "Time": "2023-01-17T09:39:13",
+              "Quantity": -3,
+              "Price": 125.03,
+              "Fee": -0.009024561,
+              "Id": "00019763.63c662ab.01.01",
+              "OrderId": "265844798"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
     }
   ],
   "Executions": []
