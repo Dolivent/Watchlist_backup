@@ -3566,5 +3566,16 @@
   { "Symbol": "NASDAQ:MRNA", "Time": "2023-01-18T09:55:58" },
   { "Symbol": "NASDAQ:ORIC", "Time": "2023-01-18" },
   { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-18" },
-  { "Symbol": "NYSE:EDU", "Time": "2023-01-19" }
+  { "Symbol": "NASDAQ:ACIW", "Time": "2023-01-19" },
+  { "Symbol": "NYSE:EDU", "Time": "2023-01-19" },
+  { "Symbol": "NYSE:ALLY", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:ANF", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:BABA", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:COSM", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:DADA", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:GOOG", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:TOUR", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:W", "Time": "2023-01-20" },
+  { "Symbol": "ARCA:YINN", "Time": "2023-01-20" }
 ]

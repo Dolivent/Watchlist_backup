@@ -78576,6 +78576,130 @@
               "OrderId": "265837027"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -200,
+              "Price": 178.872,
+              "Fee": -1.84823376,
+              "Id": "0000d5d6.63c85094.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -100,
+              "Price": 178.872,
+              "Fee": -0.92411688,
+              "Id": "0000d5d6.63c85095.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -300,
+              "Price": 178.88,
+              "Fee": -2.7724056,
+              "Id": "0000dc24.63c806d7.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -317,
+              "Price": 178.8738,
+              "Fee": -2.929463576,
+              "Id": "0000e494.63c835e0.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -300,
+              "Price": 178.8738,
+              "Fee": -2.772363006,
+              "Id": "0000e494.63c835e1.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -100,
+              "Price": 178.8728,
+              "Fee": -0.924118712,
+              "Id": "0000e628.63c81d65.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -50,
+              "Price": 178.88,
+              "Fee": -0.4620676,
+              "Id": "000103bf.63c7d43b.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -50,
+              "Price": 178.87,
+              "Fee": -0.46205615,
+              "Id": "000103bf.63c7d43c.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -800,
+              "Price": 178.8772,
+              "Fee": -7.393030304,
+              "Id": "0001506d.63c81280.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -100,
+              "Price": 178.87,
+              "Fee": -0.9241123,
+              "Id": "00016247.63c80a4f.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -102,
+              "Price": 178.871,
+              "Fee": -0.942596882,
+              "Id": "0001c38a.63c82ba7.01.01",
+              "OrderId": "266028784"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CVX",
+              "Time": "2023-01-18T12:15:12",
+              "Quantity": -46,
+              "Price": 178.87,
+              "Fee": -0.425091658,
+              "Id": "0001c38a.63c82ba8.01.01",
+              "OrderId": "266028784"
+            }
+          ]
         }
       ],
       "Setup": null,
@@ -78749,6 +78873,111 @@
               "Fee": -0.009024561,
               "Id": "00019763.63c662ab.01.01",
               "OrderId": "265844798"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:31:02",
+              "Quantity": 3127,
+              "Price": 32.805,
+              "Fee": -15.085,
+              "Id": "0000e95f.63c7fd20.01.01",
+              "OrderId": "265969780"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:31:02",
+              "Quantity": 10,
+              "Price": 32.808,
+              "Fee": -0.05,
+              "Id": "0000e95f.63c7fd21.01.01",
+              "OrderId": "265969780"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:31:02",
+              "Quantity": 90,
+              "Price": 32.8,
+              "Fee": -1,
+              "Id": "000103bf.63c7afe5.01.01",
+              "OrderId": "265969780"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -1900,
+              "Price": 32.47,
+              "Fee": -11.1882697,
+              "Id": "0000d322.63c7f868.01.01",
+              "OrderId": "265976189"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -327,
+              "Price": 32.4938,
+              "Fee": -1.425738323,
+              "Id": "0000e494.63c80028.01.01",
+              "OrderId": "265976189"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -100,
+              "Price": 32.49,
+              "Fee": -0.5889021,
+              "Id": "0000e95f.63c80331.01.01",
+              "OrderId": "265976189"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -700,
+              "Price": 32.49,
+              "Fee": -4.1223147,
+              "Id": "0000e95f.63c80332.01.01",
+              "OrderId": "265976189"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -100,
+              "Price": 32.47,
+              "Fee": -0.5888563,
+              "Id": "0000febb.63c7c673.01.01",
+              "OrderId": "265976189"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:AGQ",
+              "Time": "2023-01-18T09:37:46",
+              "Quantity": -100,
+              "Price": 32.47,
+              "Fee": -1.0888563,
+              "Id": "0000febb.63c7c674.01.01",
+              "OrderId": "265976189"
             }
           ]
         }
