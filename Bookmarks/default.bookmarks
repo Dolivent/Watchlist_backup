@@ -3593,4 +3593,16 @@
   { "Symbol": "NASDAQ:QCOM", "Time": "2023-01-23T09:41:12" },
   { "Symbol": "NASDAQ:TSLL", "Time": "2023-01-23T09:41:01" },
   { "Symbol": "NASDAQ:VERB", "Time": "2023-01-23T09:43:49" }
+  { "Symbol": "NASDAQ:ACIW", "Time": "2023-01-19" },
+  { "Symbol": "NYSE:EDU", "Time": "2023-01-19" },
+  { "Symbol": "NYSE:ALLY", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:ANF", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:BABA", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:COSM", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:DADA", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:GOOG", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:RVNC", "Time": "2023-01-20" },
+  { "Symbol": "NASDAQ:TOUR", "Time": "2023-01-20" },
+  { "Symbol": "NYSE:W", "Time": "2023-01-20" },
+  { "Symbol": "ARCA:YINN", "Time": "2023-01-20" }
 ]
