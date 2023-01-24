@@ -3592,7 +3592,7 @@
   { "Symbol": "NASDAQ:LI", "Time": "2023-01-23T09:34:18" },
   { "Symbol": "NASDAQ:QCOM", "Time": "2023-01-23T09:41:12" },
   { "Symbol": "NASDAQ:TSLL", "Time": "2023-01-23T09:41:01" },
-  { "Symbol": "NASDAQ:VERB", "Time": "2023-01-23T09:43:49" }
+  { "Symbol": "NASDAQ:VERB", "Time": "2023-01-23T09:43:49" },
   { "Symbol": "NASDAQ:ACIW", "Time": "2023-01-19" },
   { "Symbol": "NYSE:EDU", "Time": "2023-01-19" },
   { "Symbol": "NYSE:ALLY", "Time": "2023-01-20" },
