@@ -168,5 +168,16 @@
   { "Symbol": "NASDAQ:SMMT", "Time": "2023-01-12T09:35:11" },
   { "Symbol": "ARCA:TMV", "Time": "2023-01-12" },
   { "Symbol": "BATS:VXX", "Time": "2023-01-12" },
-  { "Symbol": "NASDAQ:WMG", "Time": "2023-01-12" }
+  { "Symbol": "NASDAQ:WMG", "Time": "2023-01-12" },
+  { "Symbol": "NASDAQ:SAVA", "Time": "2023-01-24" },
+  { "Symbol": "NASDAQ:AMZN", "Time": "2023-01-25T10:03:55" },
+  { "Symbol": "NASDAQ:EHTH", "Time": "2023-01-25T10:05:06" },
+  { "Symbol": "NASDAQ:EXTR", "Time": "2023-01-25T09:45:08" },
+  { "Symbol": "NYSE:FREY", "Time": "2023-01-25T10:03:55" },
+  { "Symbol": "NYSE:FSM", "Time": "2023-01-25T09:55:32" },
+  { "Symbol": "NASDAQ:MOMO", "Time": "2023-01-25T09:48:07" },
+  { "Symbol": "NYSE:PM", "Time": "2023-01-25T10:06:30" },
+  { "Symbol": "NASDAQ:RDFN", "Time": "2023-01-25T09:56:39" },
+  { "Symbol": "NYSE:STEM", "Time": "2023-01-25T10:03:25" },
+  { "Symbol": "NASDAQ:VRNA", "Time": "2023-01-25T09:53:45" }
 ]
