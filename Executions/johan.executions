@@ -35543,7 +35543,7 @@
           ]
         }
       ],
-      "Setup": "30 min",
+      "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -36531,7 +36531,7 @@
           ]
         }
       ],
-      "Setup": "30 min",
+      "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -37465,7 +37465,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "30 min",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -38082,7 +38082,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "sniff",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -39773,6 +39773,2465 @@
               "Fee": -1.715133877,
               "Id": "0000d62f.63c6c41f.01.01",
               "OrderId": "416293478"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:ALLY",
+              "Currency": "USD",
+              "Time": "2023-01-20T10:15:37",
+              "Quantity": 159,
+              "Price": 29.747,
+              "Fee": -0.588709027,
+              "Id": "0002258e.63caa69d.01.01",
+              "OrderId": "417770085"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:ALLY",
+              "Currency": "USD",
+              "Time": "2023-01-20T11:59:06",
+              "Quantity": -159,
+              "Price": 30.91,
+              "Fee": -0.883310428,
+              "Id": "000126e2.63ca5549.01.01",
+              "OrderId": "417849163"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BTB",
+              "Currency": "USD",
+              "Time": "2023-01-20T11:43:12",
+              "Quantity": 1826,
+              "Price": 2.43,
+              "Fee": -12.238897385,
+              "Id": "0000d7a7.63ca7a54.01.01",
+              "OrderId": "417840390"
+            },
+            {
+              "Symbol": "NASDAQ:BTB",
+              "Currency": "USD",
+              "Time": "2023-01-20T11:43:12",
+              "Quantity": 130,
+              "Price": 2.43,
+              "Fee": -0.871334425,
+              "Id": "0000eb81.63ca6d5a.01.01",
+              "OrderId": "417840390"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BTB",
+              "Currency": "USD",
+              "Time": "2023-01-20T11:46:11",
+              "Quantity": -856,
+              "Price": 2.35,
+              "Fee": -5.9075877,
+              "Id": "0000eb81.63ca6daa.01.01",
+              "OrderId": "417842222"
+            },
+            {
+              "Symbol": "NASDAQ:BTB",
+              "Currency": "USD",
+              "Time": "2023-01-20T11:46:11",
+              "Quantity": -1100,
+              "Price": 2.35,
+              "Fee": -7.48152625,
+              "Id": "0001c38b.63caa1b4.01.01",
+              "OrderId": "417842222"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:IQ",
+              "Currency": "USD",
+              "Time": "2023-01-20T13:46:24",
+              "Quantity": 817,
+              "Price": 5.775,
+              "Fee": -3.025001733,
+              "Id": "0002264f.63cae83c.01.01",
+              "OrderId": "417904260"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:IQ",
+              "Currency": "USD",
+              "Time": "2023-01-20T15:28:13",
+              "Quantity": -167,
+              "Price": 5.712,
+              "Fee": -0.664389009,
+              "Id": "0000d5d6.63cb00ab.01.01",
+              "OrderId": "417967548"
+            },
+            {
+              "Symbol": "NASDAQ:IQ",
+              "Currency": "USD",
+              "Time": "2023-01-20T15:28:13",
+              "Quantity": -300,
+              "Price": 5.71,
+              "Fee": -0.71349945,
+              "Id": "0000d8dc.63caa648.01.01",
+              "OrderId": "417967548"
+            },
+            {
+              "Symbol": "NASDAQ:IQ",
+              "Currency": "USD",
+              "Time": "2023-01-20T15:28:13",
+              "Quantity": -150,
+              "Price": 5.71,
+              "Fee": -0.566749725,
+              "Id": "00010a77.63ca7b41.01.01",
+              "OrderId": "417967548"
+            },
+            {
+              "Symbol": "NASDAQ:IQ",
+              "Currency": "USD",
+              "Time": "2023-01-20T15:28:13",
+              "Quantity": -200,
+              "Price": 5.71,
+              "Fee": -0.7556663,
+              "Id": "00010a77.63ca7b42.01.01",
+              "OrderId": "417967548"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:PLRX",
+              "Currency": "USD",
+              "Time": "2023-01-23T10:21:57",
+              "Quantity": 100,
+              "Price": 36.39,
+              "Fee": -0.121574602,
+              "Id": "00022650.63ce9a7f.01.01",
+              "OrderId": "418400928"
+            },
+            {
+              "Symbol": "NASDAQ:PLRX",
+              "Currency": "USD",
+              "Time": "2023-01-23T10:21:57",
+              "Quantity": 29,
+              "Price": 36.39,
+              "Fee": -0.44305725,
+              "Id": "00022b5d.63ce57bf.01.01",
+              "OrderId": "418400928"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:PLRX",
+              "Currency": "USD",
+              "Time": "2023-01-23T10:25:34",
+              "Quantity": -21,
+              "Price": 35.74,
+              "Fee": -0.374689616,
+              "Id": "0000d884.63ce91a2.01.01",
+              "OrderId": "418405205"
+            },
+            {
+              "Symbol": "NASDAQ:PLRX",
+              "Currency": "USD",
+              "Time": "2023-01-23T10:25:34",
+              "Quantity": -108,
+              "Price": 35.72,
+              "Fee": -0.227177307,
+              "Id": "0000d884.63ce91a4.01.01",
+              "OrderId": "418405205"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:W",
+              "Currency": "USD",
+              "Time": "2023-01-23T11:24:19",
+              "Quantity": 81,
+              "Price": 57.682,
+              "Fee": -0.36645725,
+              "Id": "0002258e.63cea6d1.01.01",
+              "OrderId": "418460479"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:W",
+              "Currency": "USD",
+              "Time": "2023-01-23T12:13:51",
+              "Quantity": -81,
+              "Price": 58.135,
+              "Fee": -0.486036862,
+              "Id": "0002264f.63cedeb1.01.01",
+              "OrderId": "418493744"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SI",
+              "Currency": "USD",
+              "Time": "2023-01-23T11:50:13",
+              "Quantity": 306,
+              "Price": 15.37,
+              "Fee": -1.132987185,
+              "Id": "0000d958.63ce9fb3.01.01",
+              "OrderId": "418481785"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:34:46",
+              "Quantity": -106,
+              "Price": 16.1338,
+              "Fee": -0.447005871,
+              "Id": "0000e494.63ced7a9.01.01",
+              "OrderId": "418541615"
+            },
+            {
+              "Symbol": "NYSE:SI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:34:46",
+              "Quantity": -100,
+              "Price": 16.1338,
+              "Fee": -0.421703652,
+              "Id": "0000e494.63ced7aa.01.01",
+              "OrderId": "418541615"
+            },
+            {
+              "Symbol": "NYSE:SI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:34:46",
+              "Quantity": -100,
+              "Price": 16.1301,
+              "Fee": -0.421695179,
+              "Id": "00014729.63cea98f.01.01",
+              "OrderId": "418541615"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:06:50",
+              "Quantity": 600,
+              "Price": 2.3,
+              "Fee": -2.2215435,
+              "Id": "0000d323.63ce9cd8.01.01",
+              "OrderId": "418525988"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:06:50",
+              "Quantity": 100,
+              "Price": 2.295,
+              "Fee": -0.37025725,
+              "Id": "0000dc24.63ce98d1.01.01",
+              "OrderId": "418525988"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:06:50",
+              "Quantity": 858,
+              "Price": 2.2962,
+              "Fee": -3.176807205,
+              "Id": "0000e494.63ced27b.01.01",
+              "OrderId": "418525988"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:06:50",
+              "Quantity": 500,
+              "Price": 2.3,
+              "Fee": -1.85128625,
+              "Id": "00015e46.63ce8f68.01.01",
+              "OrderId": "418525988"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:28:13",
+              "Quantity": -100,
+              "Price": 2.25,
+              "Fee": -0.38990975,
+              "Id": "0000dc24.63ce9958.01.01",
+              "OrderId": "418537268"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:28:13",
+              "Quantity": -1700,
+              "Price": 2.2538,
+              "Fee": -6.628613684,
+              "Id": "0000e494.63ced672.01.01",
+              "OrderId": "418537268"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:28:13",
+              "Quantity": -200,
+              "Price": 2.2538,
+              "Fee": -0.779836904,
+              "Id": "0000e494.63ced674.01.01",
+              "OrderId": "418537268"
+            },
+            {
+              "Symbol": "AMEX:CEI",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:28:13",
+              "Quantity": -58,
+              "Price": 2.25,
+              "Fee": -0.400147655,
+              "Id": "00013d04.63ceafe7.01.01",
+              "OrderId": "418537268"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 100,
+              "Price": 4.32,
+              "Fee": -0.37025725,
+              "Id": "0000d5ff.63ce9564.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 200,
+              "Price": 4.32,
+              "Fee": -0.7405145,
+              "Id": "0000fed1.63ce9f83.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 186,
+              "Price": 4.32,
+              "Fee": -1.246678485,
+              "Id": "00013911.63ced743.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 300,
+              "Price": 4.3182,
+              "Fee": -1.11077175,
+              "Id": "0001506d.63ceaf95.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 100,
+              "Price": 4.32,
+              "Fee": -0.37025725,
+              "Id": "00015962.63ce98e5.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 100,
+              "Price": 4.32,
+              "Fee": -0.37025725,
+              "Id": "00015962.63ce98e7.01.01",
+              "OrderId": "418534295"
+            },
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:23:50",
+              "Quantity": 100,
+              "Price": 4.3175,
+              "Fee": -0.37025725,
+              "Id": "00022618.63cea819.01.01",
+              "OrderId": "418534295"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "AMEX:GNS",
+              "Currency": "USD",
+              "Time": "2023-01-23T13:37:26",
+              "Quantity": -1086,
+              "Price": 4.58,
+              "Fee": -4.292365587,
+              "Id": "0000fed1.63cea0c6.01.01",
+              "OrderId": "418543497"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:CBAY",
+              "Currency": "USD",
+              "Time": "2023-01-24T11:00:14",
+              "Quantity": 642,
+              "Price": 7.445,
+              "Fee": -2.377051545,
+              "Id": "0002264f.63d00a96.01.01",
+              "OrderId": "418987908"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:CBAY",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:01:33",
+              "Quantity": -642,
+              "Price": 7.715,
+              "Fee": -2.583565932,
+              "Id": "0002264f.63d025ad.01.01",
+              "OrderId": "419089756"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T11:51:16",
+              "Quantity": 651,
+              "Price": 7.34,
+              "Fee": -4.298274698,
+              "Id": "0001c38b.63cfe97b.01.01",
+              "OrderId": "419021942"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T11:53:59",
+              "Quantity": -651,
+              "Price": 7.28,
+              "Fee": -2.61329921,
+              "Id": "00015e46.63cfdfbe.01.01",
+              "OrderId": "419023079"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:11:32",
+              "Quantity": 451,
+              "Price": 7.338,
+              "Fee": -1.669860198,
+              "Id": "0000d5d6.63d01dab.01.01",
+              "OrderId": "419031928"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:11:32",
+              "Quantity": 200,
+              "Price": 7.335,
+              "Fee": -0.7405145,
+              "Id": "0000e1ae.63cffb30.01.01",
+              "OrderId": "419031928"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -100,
+              "Price": 7.28,
+              "Fee": -0.40142845,
+              "Id": "0000d323.63cfe6dc.01.01",
+              "OrderId": "419042967"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -51,
+              "Price": 7.28,
+              "Fee": -0.204728509,
+              "Id": "0000d323.63cfe6de.01.01",
+              "OrderId": "419042967"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -100,
+              "Price": 7.282,
+              "Fee": -0.40143303,
+              "Id": "0000d5d6.63d0211b.01.01",
+              "OrderId": "419042967"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -100,
+              "Price": 7.2838,
+              "Fee": -0.401437152,
+              "Id": "0000e494.63d01140.01.01",
+              "OrderId": "419042967"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -100,
+              "Price": 7.2801,
+              "Fee": -0.401428679,
+              "Id": "00014729.63cff28c.01.01",
+              "OrderId": "419042967"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:31:29",
+              "Quantity": -200,
+              "Price": 7.2816,
+              "Fee": -0.802864228,
+              "Id": "0001506d.63cff879.01.01",
+              "OrderId": "419042967"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 100,
+              "Price": 3.39,
+              "Fee": -0.37025725,
+              "Id": "0000d322.63cffa05.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.388,
+              "Fee": -0.7405145,
+              "Id": "0000d5d6.63d01e98.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.39,
+              "Fee": -0.7405145,
+              "Id": "0000d62f.63cfee6f.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 5,
+              "Price": 3.39,
+              "Fee": -0.018512863,
+              "Id": "0000d62f.63cfee71.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.3895,
+              "Fee": -0.7405145,
+              "Id": "0000de6f.63cfdff1.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.3893,
+              "Fee": -0.7405145,
+              "Id": "0000e628.63cfff00.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 100,
+              "Price": 3.39,
+              "Fee": -0.37025725,
+              "Id": "00013584.63cfeaca.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.3899,
+              "Fee": -0.7405145,
+              "Id": "00014729.63cff1e6.01.01",
+              "OrderId": "419033875"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:17:07",
+              "Quantity": 200,
+              "Price": 3.3886,
+              "Fee": -0.7405145,
+              "Id": "0001506d.63cff76e.01.01",
+              "OrderId": "419033875"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -200,
+              "Price": 3.36,
+              "Fee": -0.7849033,
+              "Id": "0000d62f.63cfef48.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -5,
+              "Price": 3.36,
+              "Fee": -0.019622582,
+              "Id": "0000d62f.63cfef4a.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -200,
+              "Price": 3.3607,
+              "Fee": -0.784906506,
+              "Id": "0000de6f.63cfe038.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -300,
+              "Price": 3.3607,
+              "Fee": -1.177359759,
+              "Id": "0000e628.63d000be.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -200,
+              "Price": 3.3601,
+              "Fee": -0.784903758,
+              "Id": "00014729.63cff2af.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -100,
+              "Price": 3.36,
+              "Fee": -0.39245165,
+              "Id": "00014f4f.63cff15f.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -300,
+              "Price": 3.3616,
+              "Fee": -1.177365942,
+              "Id": "0001506d.63cff8bf.01.01",
+              "OrderId": "419045142"
+            },
+            {
+              "Symbol": "NASDAQ:BBBY",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:35:49",
+              "Quantity": -100,
+              "Price": 3.3625,
+              "Fee": -0.392457375,
+              "Id": "00022618.63cffaa4.01.01",
+              "OrderId": "419045142"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:44:50",
+              "Quantity": 100,
+              "Price": 7.84,
+              "Fee": -0.67025725,
+              "Id": "0001b950.63cff75a.01.01",
+              "OrderId": "419051398"
+            },
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:44:50",
+              "Quantity": 8,
+              "Price": 7.84,
+              "Fee": -0.05362058,
+              "Id": "0001b950.63cff75b.01.01",
+              "OrderId": "419051398"
+            },
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:44:50",
+              "Quantity": 100,
+              "Price": 7.84,
+              "Fee": -0.66025725,
+              "Id": "0001c38b.63cfee7a.01.01",
+              "OrderId": "419051398"
+            },
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:44:51",
+              "Quantity": 300,
+              "Price": 7.868,
+              "Fee": -1.11077175,
+              "Id": "0000d5d6.63d02358.01.01",
+              "OrderId": "419051398"
+            },
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T12:44:51",
+              "Quantity": 100,
+              "Price": 7.87,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63cfdd75.01.01",
+              "OrderId": "419051398"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:08:55",
+              "Quantity": -8,
+              "Price": 7.862,
+              "Fee": -0.354457568,
+              "Id": "0000d5d6.63d02806.01.01",
+              "OrderId": "419062968"
+            },
+            {
+              "Symbol": "NASDAQ:ALLO",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:08:55",
+              "Quantity": -600,
+              "Price": 7.865,
+              "Fee": -2.09437193,
+              "Id": "0000e95f.63d01c65.01.01",
+              "OrderId": "419062968"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 100,
+              "Price": 3.02,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63cfe37e.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 100,
+              "Price": 3.02,
+              "Fee": -0.67025725,
+              "Id": "0000e587.63cfc1ef.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 100,
+              "Price": 3.02,
+              "Fee": -0.67025725,
+              "Id": "00013911.63d01ad5.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 1,
+              "Price": 3.02,
+              "Fee": -0.006702572,
+              "Id": "0001b950.63cffe7c.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 6,
+              "Price": 3.02,
+              "Fee": -0.039615435,
+              "Id": "0001c38b.63cff382.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 100,
+              "Price": 3.02,
+              "Fee": -0.66025725,
+              "Id": "0001c38b.63cff383.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:16",
+              "Quantity": 94,
+              "Price": 3.02,
+              "Fee": -0.620641815,
+              "Id": "0001c38b.63cff384.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:17",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.67025725,
+              "Id": "0000d7a7.63cfc9bc.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:17",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63cfe37f.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:17",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.46025725,
+              "Id": "000154a9.63cff6fe.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:17",
+              "Quantity": 1,
+              "Price": 3.03,
+              "Fee": -0.006702572,
+              "Id": "0001b950.63cffe7e.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:17",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.67025725,
+              "Id": "0001b950.63cffe7f.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:18",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.46025725,
+              "Id": "000154a9.63cff6ff.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 3,
+              "Price": 3.03,
+              "Fee": -0.006307717,
+              "Id": "0000d8dc.63cfe380.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 100,
+              "Price": 3.04,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63cfe381.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 100,
+              "Price": 3.04,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63cfe382.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 100,
+              "Price": 3.03,
+              "Fee": -0.67025725,
+              "Id": "00013911.63d01ad7.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 80,
+              "Price": 3.04,
+              "Fee": -0.5362058,
+              "Id": "00013911.63d01ad8.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 100,
+              "Price": 3.04,
+              "Fee": -0.66025725,
+              "Id": "0001c38b.63cff386.01.01",
+              "OrderId": "419080090"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:43:19",
+              "Quantity": 100,
+              "Price": 3.04,
+              "Fee": -0.66025725,
+              "Id": "0001c38b.63cff387.01.01",
+              "OrderId": "419080090"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:44:49",
+              "Quantity": -100,
+              "Price": 2.87,
+              "Fee": -0.39132955,
+              "Id": "0000d6a5.63d0163c.01.01",
+              "OrderId": "419082491"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:44:49",
+              "Quantity": -400,
+              "Price": 2.87,
+              "Fee": -2.7653182,
+              "Id": "0000d7a7.63cfc9f6.01.01",
+              "OrderId": "419082491"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:44:49",
+              "Quantity": -400,
+              "Price": 2.87,
+              "Fee": -1.5653182,
+              "Id": "0000fed1.63cfedaa.01.01",
+              "OrderId": "419082491"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:44:49",
+              "Quantity": -100,
+              "Price": 2.87,
+              "Fee": -0.69132955,
+              "Id": "00010161.63cfaade.01.01",
+              "OrderId": "419082491"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:44:49",
+              "Quantity": -2,
+              "Price": 2.87,
+              "Fee": -0.013826591,
+              "Id": "0001b950.63cffec2.01.01",
+              "OrderId": "419082491"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:45:33",
+              "Quantity": -100,
+              "Price": 2.82,
+              "Fee": -0.23121505,
+              "Id": "0000d8dc.63cfe3cf.01.01",
+              "OrderId": "419082714"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:45:33",
+              "Quantity": -383,
+              "Price": 2.82,
+              "Fee": -1.498353641,
+              "Id": "0000fed1.63cfedd2.01.01",
+              "OrderId": "419082714"
+            },
+            {
+              "Symbol": "NASDAQ:GROM",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:45:33",
+              "Quantity": -100,
+              "Price": 2.825,
+              "Fee": -0.3912265,
+              "Id": "00022618.63cffdfb.01.01",
+              "OrderId": "419082714"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:54:25",
+              "Quantity": 331,
+              "Price": 14.325,
+              "Fee": -1.225551498,
+              "Id": "0002264f.63d024c9.01.01",
+              "OrderId": "419086396"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:58:27",
+              "Quantity": -200,
+              "Price": 14.2638,
+              "Fee": -0.834842704,
+              "Id": "0000e494.63d01cb1.01.01",
+              "OrderId": "419088386"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T13:58:27",
+              "Quantity": -131,
+              "Price": 14.2638,
+              "Fee": -0.546821971,
+              "Id": "0000e494.63d01cb2.01.01",
+              "OrderId": "419088386"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 15,
+              "Price": 14.36,
+              "Fee": -0.39825725,
+              "Id": "0000e262.63cfc964.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 29,
+              "Price": 14.365,
+              "Fee": -0.0058,
+              "Id": "0000e95f.63d0242a.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 6,
+              "Price": 14.36,
+              "Fee": -0.040215435,
+              "Id": "0001035c.63cfcd30.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 10,
+              "Price": 14.36,
+              "Fee": -0.067025725,
+              "Id": "000137fd.63d0304e.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 62,
+              "Price": 14.36,
+              "Fee": -0.415559495,
+              "Id": "000137fd.63d0304f.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 28,
+              "Price": 14.36,
+              "Fee": -0.18767203,
+              "Id": "000137fd.63d03050.01.01",
+              "OrderId": "419099537"
+            },
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:28:52",
+              "Quantity": 179,
+              "Price": 14.36,
+              "Fee": -0.466616417,
+              "Id": "0001a2f2.63d001ae.01.01",
+              "OrderId": "419099537"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:TGTX",
+              "Currency": "USD",
+              "Time": "2023-01-24T14:54:14",
+              "Quantity": -329,
+              "Price": 14.605,
+              "Fee": -1.375886883,
+              "Id": "0002264f.63d02c0c.01.01",
+              "OrderId": "419110603"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:45:27",
+              "Quantity": 53,
+              "Price": 46.8,
+              "Fee": -0.51985725,
+              "Id": "00013800.63d16675.01.01",
+              "OrderId": "419625487"
+            },
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:45:27",
+              "Quantity": 200,
+              "Price": 46.8,
+              "Fee": -0.575893592,
+              "Id": "00022650.63d14764.01.01",
+              "OrderId": "419625487"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T14:01:30",
+              "Quantity": -53,
+              "Price": 46.532,
+              "Fee": -0.425018138,
+              "Id": "0000d5d6.63d1850f.01.01",
+              "OrderId": "419639954"
+            },
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T14:01:30",
+              "Quantity": -200,
+              "Price": 46.53,
+              "Fee": -0.818000992,
+              "Id": "0000e95f.63d17bf1.01.01",
+              "OrderId": "419639954"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:52:14",
+              "Quantity": 100,
+              "Price": 2.2,
+              "Fee": -0.37025725,
+              "Id": "0000d322.63d153aa.01.01",
+              "OrderId": "419629422"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:52:14",
+              "Quantity": 251,
+              "Price": 2.2,
+              "Fee": -0.929345698,
+              "Id": "0000d322.63d153ac.01.01",
+              "OrderId": "419629422"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:52:14",
+              "Quantity": 100,
+              "Price": 2.2,
+              "Fee": -0.37025725,
+              "Id": "0000d6a5.63d16f75.01.01",
+              "OrderId": "419629422"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-25T13:52:14",
+              "Quantity": 1700,
+              "Price": 2.2,
+              "Fee": -6.29437325,
+              "Id": "0000e95f.63d17ad4.01.01",
+              "OrderId": "419629422"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-25T14:21:40",
+              "Quantity": -2151,
+              "Price": 2.18,
+              "Fee": -8.38351067,
+              "Id": "00015e71.63d1454a.01.01",
+              "OrderId": "419650164"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T14:11:48",
+              "Quantity": 251,
+              "Price": 47.125,
+              "Fee": -0.929345698,
+              "Id": "0002258e.63d15437.01.01",
+              "OrderId": "419644146"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:SHOP",
+              "Currency": "USD",
+              "Time": "2023-01-25T15:02:42",
+              "Quantity": -251,
+              "Price": 47.905,
+              "Fee": -1.241093847,
+              "Id": "0002264f.63d19828.01.01",
+              "OrderId": "419670438"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-26T13:12:48",
+              "Quantity": 805,
+              "Price": 14.755,
+              "Fee": -2.980570862,
+              "Id": "0000dd95.63d28a89.01.01",
+              "OrderId": "420173560"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-26T13:55:04",
+              "Quantity": -705,
+              "Price": 14.685,
+              "Fee": -2.949620595,
+              "Id": "0000e95f.63d2ccb7.01.01",
+              "OrderId": "420198922"
+            },
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-26T13:55:04",
+              "Quantity": -40,
+              "Price": 14.68,
+              "Fee": -0.16734978,
+              "Id": "0000e95f.63d2ccb8.01.01",
+              "OrderId": "420198922"
+            },
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-26T13:55:04",
+              "Quantity": -60,
+              "Price": 14.69,
+              "Fee": -0.43103841,
+              "Id": "00022b5d.63d260dc.01.01",
+              "OrderId": "420198922"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:AXP",
+              "Currency": "USD",
+              "Time": "2023-01-27T10:46:11",
+              "Quantity": 69,
+              "Price": 171.67,
+              "Fee": -0.36405725,
+              "Id": "0000d322.63d3eae5.01.01",
+              "OrderId": "420620672"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:AXP",
+              "Currency": "USD",
+              "Time": "2023-01-27T10:48:28",
+              "Quantity": -69,
+              "Price": 170.91,
+              "Fee": -0.644117141,
+              "Id": "00014f4f.63d3dc5c.01.01",
+              "OrderId": "420623834"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:AI",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:16:01",
+              "Quantity": 280,
+              "Price": 16.848,
+              "Fee": -1.0367203,
+              "Id": "0000d5d6.63d4069c.01.01",
+              "OrderId": "420646929"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:AI",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:23:11",
+              "Quantity": -180,
+              "Price": 17.36,
+              "Fee": -0.76412097,
+              "Id": "0000d322.63d3f9da.01.01",
+              "OrderId": "420696969"
+            },
+            {
+              "Symbol": "NYSE:AI",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:23:11",
+              "Quantity": -100,
+              "Price": 17.3614,
+              "Fee": -0.424514856,
+              "Id": "0001506d.63d3f102.01.01",
+              "OrderId": "420696969"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:31:46",
+              "Quantity": 100,
+              "Price": 15.6,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63d3d6a9.01.01",
+              "OrderId": "420659209"
+            },
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:31:46",
+              "Quantity": 100,
+              "Price": 15.5962,
+              "Fee": -0.37025725,
+              "Id": "0000e494.63d403c7.01.01",
+              "OrderId": "420659209"
+            },
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:31:46",
+              "Quantity": 104,
+              "Price": 15.5984,
+              "Fee": -0.38506754,
+              "Id": "0001506d.63d3e9cb.01.01",
+              "OrderId": "420659209"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:XM",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:03:50",
+              "Quantity": -304,
+              "Price": 15.56,
+              "Fee": -1.277984536,
+              "Id": "0002264f.63d41e6e.01.01",
+              "OrderId": "420682023"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:32:19",
+              "Quantity": 1853,
+              "Price": 2.418,
+              "Fee": -6.860866842,
+              "Id": "0000d5d6.63d40c33.01.01",
+              "OrderId": "420659878"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T11:32:19",
+              "Quantity": 100,
+              "Price": 2.42,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63d3d6c5.01.01",
+              "OrderId": "420659878"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:15:20",
+              "Quantity": -100,
+              "Price": 2.56,
+              "Fee": -0.39061965,
+              "Id": "0000d6a5.63d415c3.01.01",
+              "OrderId": "420730455"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:15:20",
+              "Quantity": -400,
+              "Price": 2.5607,
+              "Fee": -1.562485012,
+              "Id": "0000e628.63d402ea.01.01",
+              "OrderId": "420730455"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:15:20",
+              "Quantity": -500,
+              "Price": 2.56,
+              "Fee": -1.95309825,
+              "Id": "00015e71.63d3eaf7.01.01",
+              "OrderId": "420730455"
+            },
+            {
+              "Symbol": "NASDAQ:APPH",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:15:20",
+              "Quantity": -953,
+              "Price": 2.56,
+              "Fee": -3.722605264,
+              "Id": "00015e71.63d3eaf9.01.01",
+              "OrderId": "420730455"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 8,
+              "Price": 3.64,
+              "Fee": -0.05362058,
+              "Id": "0000eb81.63d3b867.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 276,
+              "Price": 3.64,
+              "Fee": -1.84991001,
+              "Id": "0000eb81.63d3b868.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 120,
+              "Price": 3.64,
+              "Fee": -0.4443087,
+              "Id": "00013584.63d3e1e4.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 116,
+              "Price": 3.64,
+              "Fee": -0.77749841,
+              "Id": "00013d04.63d3ffae.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 400,
+              "Price": 3.64,
+              "Fee": -2.681029,
+              "Id": "00013d04.63d3ffaf.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 100,
+              "Price": 3.64,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d3ffb0.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 100,
+              "Price": 3.64,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d3ffb1.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 100,
+              "Price": 3.64,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d3ffb2.01.01",
+              "OrderId": "420707293"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T12:35:32",
+              "Quantity": 100,
+              "Price": 3.64,
+              "Fee": -0.66025725,
+              "Id": "0001c38b.63d3e8f9.01.01",
+              "OrderId": "420707293"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:08:54",
+              "Quantity": -1020,
+              "Price": 3.95,
+              "Fee": -7.07678805,
+              "Id": "0000d7a7.63d3bf9e.01.01",
+              "OrderId": "420727180"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:08:54",
+              "Quantity": -100,
+              "Price": 3.95,
+              "Fee": -0.69380275,
+              "Id": "00013d04.63d40c6b.01.01",
+              "OrderId": "420727180"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:08:54",
+              "Quantity": -100,
+              "Price": 3.95,
+              "Fee": -0.69380275,
+              "Id": "00013d04.63d40c6c.01.01",
+              "OrderId": "420727180"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T13:08:54",
+              "Quantity": -100,
+              "Price": 3.95,
+              "Fee": -0.69380275,
+              "Id": "00013d04.63d40c6d.01.01",
+              "OrderId": "420727180"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:16:01",
+              "Quantity": 329,
+              "Price": 7.758,
+              "Fee": -1.218146352,
+              "Id": "0000d5d6.63d43fc2.01.01",
+              "OrderId": "420767266"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:16:01",
+              "Quantity": 100,
+              "Price": 7.76,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63d3f418.01.01",
+              "OrderId": "420767266"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:16:01",
+              "Quantity": 100,
+              "Price": 7.76,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63d3f419.01.01",
+              "OrderId": "420767266"
+            },
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:16:01",
+              "Quantity": 100,
+              "Price": 7.755,
+              "Fee": -0.37025725,
+              "Id": "0000e1ae.63d40f45.01.01",
+              "OrderId": "420767266"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:CVNA",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:29:39",
+              "Quantity": -629,
+              "Price": 7.82,
+              "Fee": -2.532763165,
+              "Id": "00016e4a.63d3e23c.01.01",
+              "OrderId": "420775336"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:25:38",
+              "Quantity": 1334,
+              "Price": 3.68,
+              "Fee": -8.941231715,
+              "Id": "00013d04.63d425ed.01.01",
+              "OrderId": "420773060"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:29:24",
+              "Quantity": -100,
+              "Price": 3.59,
+              "Fee": -0.69297835,
+              "Id": "00013d04.63d4274f.01.01",
+              "OrderId": "420775077"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:29:24",
+              "Quantity": -100,
+              "Price": 3.59,
+              "Fee": -0.69297835,
+              "Id": "00013d04.63d42750.01.01",
+              "OrderId": "420775077"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:29:24",
+              "Quantity": -1134,
+              "Price": 3.59,
+              "Fee": -7.858374489,
+              "Id": "00013d04.63d42751.01.01",
+              "OrderId": "420775077"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 110,
+              "Price": 3.83,
+              "Fee": -0.737282975,
+              "Id": "0000eb81.63d3ca81.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 10,
+              "Price": 3.83,
+              "Fee": -0.067025725,
+              "Id": "0000eb81.63d3ca82.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 3,
+              "Price": 3.83,
+              "Fee": -0.020107718,
+              "Id": "0000eb81.63d3ca83.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 50,
+              "Price": 3.83,
+              "Fee": -0.335128625,
+              "Id": "0000eb81.63d3ca84.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 1,
+              "Price": 3.83,
+              "Fee": -0.006702572,
+              "Id": "0000eb81.63d3ca85.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 2,
+              "Price": 3.83,
+              "Fee": -0.013405145,
+              "Id": "0000eb81.63d3ca86.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 1,
+              "Price": 3.83,
+              "Fee": -0.006702572,
+              "Id": "0000eb81.63d3ca87.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 500,
+              "Price": 3.83,
+              "Fee": -3.35128625,
+              "Id": "0000eb81.63d3ca88.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 62,
+              "Price": 3.83,
+              "Fee": -0.415559495,
+              "Id": "0000eb81.63d3ca89.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 50,
+              "Price": 3.83,
+              "Fee": -0.335128625,
+              "Id": "00013d04.63d42e00.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 100,
+              "Price": 3.83,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d42e01.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 100,
+              "Price": 3.83,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d42e02.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:47",
+              "Quantity": 100,
+              "Price": 3.83,
+              "Fee": -0.67025725,
+              "Id": "00013d04.63d42e03.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:48",
+              "Quantity": 100,
+              "Price": 3.84,
+              "Fee": -0.21025725,
+              "Id": "0000d8dc.63d3fa38.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:48",
+              "Quantity": 10,
+              "Price": 3.85,
+              "Fee": -0.021025725,
+              "Id": "0000d8dc.63d3fa39.01.01",
+              "OrderId": "420790518"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T14:57:48",
+              "Quantity": 80,
+              "Price": 3.85,
+              "Fee": -0.5362058,
+              "Id": "0000f315.63d3db38.01.01",
+              "OrderId": "420790518"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "0000e634.63d3c02a.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "0000eb81.63d3cb50.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -1,
+              "Price": 3.73,
+              "Fee": -0.00693299,
+              "Id": "0000eb81.63d3cb51.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "0000eb81.63d3cb52.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -1,
+              "Price": 3.73,
+              "Fee": -0.040757832,
+              "Id": "0000eb81.63d3cb53.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -50,
+              "Price": 3.73,
+              "Fee": -0.346649475,
+              "Id": "0000eb81.63d3cb54.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "0000eb81.63d3cb55.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -91,
+              "Price": 3.73,
+              "Fee": -0.630902044,
+              "Id": "0000eb81.63d3cb56.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "0000eb81.63d3cb57.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -70,
+              "Price": 3.73,
+              "Fee": -0.485309265,
+              "Id": "0000eb81.63d3cb58.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.383871688,
+              "Id": "0000eb81.63d3cb59.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "00013d04.63d42f92.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.69329895,
+              "Id": "00013d04.63d42f93.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:49",
+              "Quantity": -100,
+              "Price": 3.73,
+              "Fee": -0.655971535,
+              "Id": "00013d04.63d42f94.01.01",
+              "OrderId": "420793426"
+            },
+            {
+              "Symbol": "NASDAQ:BZFD",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:03:50",
+              "Quantity": -166,
+              "Price": 3.71,
+              "Fee": -0.652800229,
+              "Id": "0000d322.63d4099c.01.01",
+              "OrderId": "420793426"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:44:17",
+              "Quantity": 67,
+              "Price": 13.178,
+              "Fee": -0.248072357,
+              "Id": "0000d5d6.63d459b4.01.01",
+              "OrderId": "420820312"
+            },
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:44:17",
+              "Quantity": 200,
+              "Price": 13.175,
+              "Fee": -0.7405145,
+              "Id": "000117ff.63d3f2fd.01.01",
+              "OrderId": "420820312"
+            },
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:44:17",
+              "Quantity": 100,
+              "Price": 13.1775,
+              "Fee": -0.37025725,
+              "Id": "00022618.63d3fad5.01.01",
+              "OrderId": "420820312"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:46:06",
+              "Quantity": -100,
+              "Price": 12.9438,
+              "Fee": -0.414398552,
+              "Id": "0000e494.63d44036.01.01",
+              "OrderId": "420822350"
+            },
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:46:06",
+              "Quantity": -67,
+              "Price": 12.94,
+              "Fee": -0.4786412,
+              "Id": "00010358.63d3ee00.01.01",
+              "OrderId": "420822350"
+            },
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:46:06",
+              "Quantity": -100,
+              "Price": 12.94,
+              "Fee": -0.41438985,
+              "Id": "000117ff.63d3f338.01.01",
+              "OrderId": "420822350"
+            },
+            {
+              "Symbol": "NASDAQ:LCID",
+              "Currency": "USD",
+              "Time": "2023-01-27T15:46:06",
+              "Quantity": -100,
+              "Price": 12.94,
+              "Fee": -0.41438985,
+              "Id": "000117ff.63d3f33a.01.01",
+              "OrderId": "420822350"
             }
           ]
         }
