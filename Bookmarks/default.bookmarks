@@ -3730,5 +3730,15 @@
   { "Symbol": "NASDAQ:TSLA", "Time": "2023-01-27" },
   { "Symbol": "AMEX:UEC", "Time": "2023-01-27" },
   { "Symbol": "NYSE:W", "Time": "2023-01-27" },
-  { "Symbol": "ARCA:XLY", "Time": "2023-01-27" }
+  { "Symbol": "ARCA:XLY", "Time": "2023-01-27" },
+  { "Symbol": "NYSE:APE", "Time": "2023-01-30T09:41:25" },
+  { "Symbol": "NASDAQ:ARLP", "Time": "2023-01-30T09:57:37" },
+  { "Symbol": "NASDAQ:BITF", "Time": "2023-01-30T09:57:37" },
+  { "Symbol": "AMEX:GNS", "Time": "2023-01-30T10:26:15" },
+  { "Symbol": "NASDAQ:HSCS", "Time": "2023-01-30T10:10:16" },
+  { "Symbol": "NASDAQ:RIOT", "Time": "2023-01-30T09:57:37" },
+  { "Symbol": "NASDAQ:SOFI", "Time": "2023-01-30T10:00:00" },
+  { "Symbol": "NASDAQ:TSLQ", "Time": "2023-01-30T10:00:00" },
+  { "Symbol": "AMEX:UEC", "Time": "2023-01-30T10:13:24" },
+  { "Symbol": "NASDAQ:UROY", "Time": "2023-01-30T10:10:16" }
 ]
