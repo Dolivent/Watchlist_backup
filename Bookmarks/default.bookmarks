@@ -3736,9 +3736,17 @@
   { "Symbol": "NASDAQ:BITF", "Time": "2023-01-30T09:57:37" },
   { "Symbol": "AMEX:GNS", "Time": "2023-01-30T10:26:15" },
   { "Symbol": "NASDAQ:HSCS", "Time": "2023-01-30T10:10:16" },
-  { "Symbol": "NASDAQ:RIOT", "Time": "2023-01-30T09:57:37" },
+  { "Symbol": "NASDAQ:RIOT", "Time": "2023-01-30" },
   { "Symbol": "NASDAQ:SOFI", "Time": "2023-01-30T10:00:00" },
   { "Symbol": "NASDAQ:TSLQ", "Time": "2023-01-30T10:00:00" },
   { "Symbol": "AMEX:UEC", "Time": "2023-01-30T10:13:24" },
-  { "Symbol": "NASDAQ:UROY", "Time": "2023-01-30T10:10:16" }
+  { "Symbol": "NASDAQ:UROY", "Time": "2023-01-30T10:10:16" },
+  { "Symbol": "NYSE:FIGS", "Time": "2023-01-31T09:49:16" },
+  { "Symbol": "NASDAQ:FULC", "Time": "2023-01-31T09:38:15" },
+  { "Symbol": "NYSE:GM", "Time": "2023-01-31" },
+  { "Symbol": "NASDAQ:HYPR", "Time": "2023-01-31T10:49:26" },
+  { "Symbol": "NYSE:LAC", "Time": "2023-01-31T10:49:48" },
+  { "Symbol": "NASDAQ:MSGM", "Time": "2023-01-31T10:48:02" },
+  { "Symbol": "NYSE:SPOT", "Time": "2023-01-31" },
+  { "Symbol": "NYSE:VSCO", "Time": "2023-01-31T09:39:04" }
 ]
