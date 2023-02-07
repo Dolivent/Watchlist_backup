@@ -3590,10 +3590,14 @@
   { "Symbol": "NASDAQ:VINO", "Time": "2023-02-02" },
   { "Symbol": "NYSE:WNC", "Time": "2023-02-02" },
   { "Symbol": "NASDAQ:Z", "Time": "2023-02-02" },
+  { "Symbol": "NYSE:BBAI", "Time": "2023-02-03" },
   { "Symbol": "NYSE:BTU", "Time": "2023-02-03T09:47:21" },
   { "Symbol": "NASDAQ:GENE", "Time": "2023-02-03T10:30:00" },
   { "Symbol": "NYSE:HCC", "Time": "2023-02-03T09:47:21" },
   { "Symbol": "NYSE:JWN", "Time": "2023-02-03T09:46:28" },
   { "Symbol": "NYSE:KMPR", "Time": "2023-02-03T10:03:30" },
-  { "Symbol": "NYSE:X", "Time": "2023-02-03T10:00:00" }
+  { "Symbol": "NASDAQ:SOUN", "Time": "2023-02-03" },
+  { "Symbol": "NYSE:X", "Time": "2023-02-03T10:00:00" },
+  { "Symbol": "NASDAQ:BBBY", "Time": "2023-02-06" },
+  { "Symbol": "NASDAQ:MNMD", "Time": "2023-02-06" }
 ]
