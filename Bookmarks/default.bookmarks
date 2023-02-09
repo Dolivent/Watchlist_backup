@@ -3611,7 +3611,8 @@
   { "Symbol": "NYSE:SLQT", "Time": "2023-02-07" },
   { "Symbol": "NASDAQ:SWKS", "Time": "2023-02-07" },
   { "Symbol": "NYSE:VIST", "Time": "2023-02-07" },
-  { "Symbol": "NASDAQ:FTNT", "Time": "2023-02-08T09:37:15" },
+  { "Symbol": "NASDAQ:FTNT", "Time": "2023-02-08" },
+  { "Symbol": "NYSE:KD", "Time": "2023-02-08" },
   { "Symbol": "NYSE:NE", "Time": "2023-02-08T10:00:00" },
-  { "Symbol": "NASDAQ:WFRD", "Time": "2023-02-08T10:00:00" }
+  { "Symbol": "NASDAQ:WFRD", "Time": "2023-02-08" }
 ]

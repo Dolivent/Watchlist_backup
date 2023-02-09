@@ -134,5 +134,6 @@
   { "Symbol": "NYSE:SM", "Time": "2021-02-01" },
   { "Symbol": "NASDAQ:TSLA", "Time": "2021-02-01" },
   { "Symbol": "NASDAQ:YGMZ", "Time": "2021-02-01" },
-  { "Symbol": "AMEX:ZOM", "Time": "2021-02-01" }
+  { "Symbol": "AMEX:ZOM", "Time": "2021-02-01" },
+  { "Symbol": "NASDAQ:NVAX", "Time": "2021-02-02" }
 ]
