@@ -3557,5 +3557,11 @@
   { "Symbol": "NASDAQ:FTNT", "Time": "2023-02-08" },
   { "Symbol": "NYSE:KD", "Time": "2023-02-08" },
   { "Symbol": "NYSE:NE", "Time": "2023-02-08T10:00:00" },
-  { "Symbol": "NASDAQ:WFRD", "Time": "2023-02-08" }
+  { "Symbol": "NASDAQ:WFRD", "Time": "2023-02-08" },
+  { "Symbol": "NASDAQ:APP", "Time": "2023-02-09T12:41:22" },
+  { "Symbol": "NYSE:DHT", "Time": "2023-02-09T12:42:27" },
+  { "Symbol": "NASDAQ:EH", "Time": "2023-02-09T09:39:00" },
+  { "Symbol": "NASDAQ:HPCO", "Time": "2023-02-09T12:39:23" },
+  { "Symbol": "NASDAQ:MPWR", "Time": "2023-02-09T10:13:41" },
+  { "Symbol": "NASDAQ:SONO", "Time": "2023-02-09T12:41:52" }
 ]
