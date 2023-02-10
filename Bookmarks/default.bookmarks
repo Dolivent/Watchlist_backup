@@ -3563,5 +3563,6 @@
   { "Symbol": "NASDAQ:EH", "Time": "2023-02-09T09:39:00" },
   { "Symbol": "NASDAQ:HPCO", "Time": "2023-02-09T12:39:23" },
   { "Symbol": "NASDAQ:MPWR", "Time": "2023-02-09T10:13:41" },
-  { "Symbol": "NASDAQ:SONO", "Time": "2023-02-09T12:41:52" }
+  { "Symbol": "NASDAQ:SONO", "Time": "2023-02-09T12:41:52" },
+  { "Symbol": "NYSE:TREX", "Time": "2023-02-09" }
 ]
