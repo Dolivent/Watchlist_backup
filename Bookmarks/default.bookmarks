@@ -3587,6 +3587,10 @@
   { "Symbol": "NASDAQ:AFRM", "Time": "2023-02-15" },
   { "Symbol": "NYSE:BHC", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:BZFD", "Time": "2023-02-15" },
+  { "Symbol": "NYSE:CVNA", "Time": "2023-02-15" },
+  { "Symbol": "NYSE:DASH", "Time": "2023-02-15" },
+  { "Symbol": "NASDAQ:DDOG", "Time": "2023-02-15" },
+  { "Symbol": "NYSE:GME", "Time": "2023-02-15" },
   { "Symbol": "NYSE:IONQ", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:MGNI", "Time": "2023-02-15" },
   { "Symbol": "NYSE:NU", "Time": "2023-02-15" },
@@ -3597,5 +3601,6 @@
   { "Symbol": "NYSE:SMG", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:SOFI", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:TTD", "Time": "2023-02-15" },
+  { "Symbol": "NASDAQ:TXG", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:WBD", "Time": "2023-02-15" }
 ]
