@@ -3602,5 +3602,12 @@
   { "Symbol": "NASDAQ:SOFI", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:TTD", "Time": "2023-02-15" },
   { "Symbol": "NASDAQ:TXG", "Time": "2023-02-15" },
-  { "Symbol": "NASDAQ:WBD", "Time": "2023-02-15" }
+  { "Symbol": "NASDAQ:WBD", "Time": "2023-02-15" },
+  { "Symbol": "NYSE:ARCH", "Time": "2023-02-16T11:04:39" },
+  { "Symbol": "NASDAQ:CROX", "Time": "2023-02-16T09:44:51" },
+  { "Symbol": "NASDAQ:NTRA", "Time": "2023-02-16T11:04:39" },
+  { "Symbol": "NASDAQ:ROKU", "Time": "2023-02-16T09:57:57" },
+  { "Symbol": "NYSE:TECK", "Time": "2023-02-16" },
+  { "Symbol": "NYSE:TWLO", "Time": "2023-02-16T09:57:57" },
+  { "Symbol": "NYSE:YPF", "Time": "2023-02-16T09:37:17" }
 ]
