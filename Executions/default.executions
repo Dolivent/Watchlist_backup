@@ -83686,6 +83686,3342 @@
       "Setup": "mr",
       "BuyMistake": "overtrade",
       "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:39:22",
+              "Quantity": 100,
+              "Price": 20.898,
+              "Fee": -0.5,
+              "Id": "0000d5d6.63e6544f.01.01",
+              "OrderId": "268341595"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:39:22",
+              "Quantity": 2532,
+              "Price": 20.8984,
+              "Fee": -12.66,
+              "Id": "0001506d.63e64578.01.01",
+              "OrderId": "268341595"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00010193.63e6304e.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00010193.63e6304f.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 6,
+              "Price": 21.06,
+              "Fee": -0.03,
+              "Id": "00010193.63e63050.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 6,
+              "Price": 21.06,
+              "Fee": -0.03,
+              "Id": "00010193.63e63051.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00010193.63e63052.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00010193.63e63053.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 200,
+              "Price": 21.06,
+              "Fee": -1,
+              "Id": "0001051b.63e61ba5.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "0001051b.63e61ba6.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 200,
+              "Price": 21.06,
+              "Fee": -1,
+              "Id": "0001051b.63e61ba7.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "0001051b.63e61ba8.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "0001051b.63e61ba9.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 21,
+              "Price": 21.06,
+              "Fee": -0.105,
+              "Id": "0001051b.63e61baa.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "0001e554.63e63550.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 29,
+              "Price": 21.06,
+              "Fee": -0.145,
+              "Id": "0001e554.63e63551.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 38,
+              "Price": 21.06,
+              "Fee": -0.19,
+              "Id": "0001e554.63e63552.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 33,
+              "Price": 21.06,
+              "Fee": -0.165,
+              "Id": "0001e554.63e63553.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00022b5c.63e609f1.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00022b5c.63e609f2.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 6,
+              "Price": 21.06,
+              "Fee": -0.03,
+              "Id": "00022b5c.63e609f3.01.01",
+              "OrderId": "268342727"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:41:01",
+              "Quantity": 100,
+              "Price": 21.06,
+              "Fee": -0.5,
+              "Id": "00022b5c.63e609f4.01.01",
+              "OrderId": "268342727"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "0000d6a5.63e65752.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.965,
+              "Fee": -0.56250985,
+              "Id": "0000e138.63e622c4.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.965,
+              "Fee": -0.56250985,
+              "Id": "0000e1ae.63e64d37.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -300,
+              "Price": 20.9607,
+              "Fee": -1.687500009,
+              "Id": "0000e628.63e653ee.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.0624984,
+              "Id": "00010193.63e6336c.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00010193.63e6336d.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00010193.63e6336e.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -9,
+              "Price": 20.96,
+              "Fee": -0.050624856,
+              "Id": "00010193.63e6336f.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -91,
+              "Price": 20.96,
+              "Fee": -0.511873544,
+              "Id": "00010193.63e63370.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -9,
+              "Price": 20.96,
+              "Fee": -0.050624856,
+              "Id": "00010193.63e63372.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00010193.63e63373.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00010193.63e63374.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00010193.63e63375.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -91,
+              "Price": 20.96,
+              "Fee": -0.511873544,
+              "Id": "00010193.63e63376.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "0001051b.63e61db9.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "0001051b.63e61dba.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "0001051b.63e61dbb.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -200,
+              "Price": 20.96,
+              "Fee": -1.1249968,
+              "Id": "0001051b.63e61dbc.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -300,
+              "Price": 20.96,
+              "Fee": -1.6874952,
+              "Id": "0001051b.63e61dbd.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -738,
+              "Price": 20.96,
+              "Fee": -4.151238192,
+              "Id": "0001051b.63e61dbe.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.965,
+              "Fee": -0.56250985,
+              "Id": "0001051b.63e61dbf.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00012e18.63e632da.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00012e18.63e632db.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.9601,
+              "Fee": -1.062498629,
+              "Id": "00014729.63e64ba8.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "0001c47b.63e6390c.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00022b5c.63e60bf5.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -271,
+              "Price": 20.96,
+              "Fee": -1.524370664,
+              "Id": "00022b5c.63e60bf6.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -329,
+              "Price": 20.96,
+              "Fee": -1.850619736,
+              "Id": "00022b5c.63e60bf7.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -100,
+              "Price": 20.96,
+              "Fee": -0.5624984,
+              "Id": "00022b5c.63e60bf8.01.01",
+              "OrderId": "268346538"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:27",
+              "Quantity": -33,
+              "Price": 20.96,
+              "Fee": -0.185624472,
+              "Id": "00022b5c.63e60bf9.01.01",
+              "OrderId": "268346538"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": -0.5,
+              "Id": "0000e138.63e622d7.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": -0.5,
+              "Id": "0000e138.63e622d8.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": 0,
+              "Id": "00010193.63e633fc.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": -0.5,
+              "Id": "00010193.63e633fd.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": -1,
+              "Id": "00010193.63e633fe.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 4878,
+              "Price": 20.9488,
+              "Fee": -24.39,
+              "Id": "0001506d.63e648ef.01.01",
+              "OrderId": "268346748"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:45:53",
+              "Quantity": 100,
+              "Price": 20.95,
+              "Fee": -0.5,
+              "Id": "0001c47b.63e6393c.01.01",
+              "OrderId": "268346748"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.952,
+              "Fee": -0.56248008,
+              "Id": "0000d5d6.63e65df7.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.952,
+              "Fee": -0.56248008,
+              "Id": "0000d5d6.63e65df8.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0000e138.63e623c3.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "00010193.63e636d8.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "00010193.63e636d9.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "00010193.63e636da.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001051b.63e61f91.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001051b.63e61f92.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -200,
+              "Price": 20.95,
+              "Fee": -1.124951,
+              "Id": "0001051b.63e61f93.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -200,
+              "Price": 20.95,
+              "Fee": -1.124951,
+              "Id": "00012e18.63e63497.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001c47b.63e63a84.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001c47b.63e63a85.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001e554.63e63851.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001e554.63e63852.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -100,
+              "Price": 20.95,
+              "Fee": -0.5624755,
+              "Id": "0001e554.63e63853.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:48",
+              "Quantity": -200,
+              "Price": 20.95,
+              "Fee": -1.124951,
+              "Id": "00022b5c.63e60ce3.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -1200,
+              "Price": 20.942,
+              "Fee": -6.74948616,
+              "Id": "0000d5d6.63e65dfd.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -200,
+              "Price": 20.94,
+              "Fee": -1.1249052,
+              "Id": "0000e138.63e623c4.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636dc.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636dd.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636de.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -6,
+              "Price": 20.94,
+              "Fee": -0.033747156,
+              "Id": "00010193.63e636df.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e0.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e1.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e2.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e3.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e4.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00010193.63e636e5.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -200,
+              "Price": 20.94,
+              "Fee": -1.1249052,
+              "Id": "0001051b.63e61f95.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "0001051b.63e61f96.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -300,
+              "Price": 20.94,
+              "Fee": -1.6873578,
+              "Id": "0001051b.63e61f97.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -300,
+              "Price": 20.94,
+              "Fee": -1.6873578,
+              "Id": "00011bab.63e64dc1.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "00012e18.63e63498.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "0001c47b.63e63a87.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -100,
+              "Price": 20.94,
+              "Fee": -0.5624526,
+              "Id": "0001c47b.63e63a88.01.01",
+              "OrderId": "268349245"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T09:50:49",
+              "Quantity": -72,
+              "Price": 20.94,
+              "Fee": -0.404965872,
+              "Id": "0001e554.63e63858.01.01",
+              "OrderId": "268349245"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 400,
+              "Price": 20.898,
+              "Fee": -2,
+              "Id": "0000d5d6.63e676dd.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.895,
+              "Fee": -0.5,
+              "Id": "0000e1ae.63e65cb1.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 900,
+              "Price": 20.9,
+              "Fee": -4.5,
+              "Id": "0000e95f.63e66bf2.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.895,
+              "Fee": -0.5,
+              "Id": "00010193.63e64944.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.895,
+              "Fee": -0.5,
+              "Id": "00010193.63e64945.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.9,
+              "Fee": -0.5,
+              "Id": "00010193.63e64946.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.9,
+              "Fee": -0.5,
+              "Id": "00010193.63e64947.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.9,
+              "Fee": -0.5,
+              "Id": "00010193.63e64948.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 200,
+              "Price": 20.895,
+              "Fee": -1,
+              "Id": "0001051b.63e63160.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.895,
+              "Fee": -0.5,
+              "Id": "0001051b.63e63161.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 100,
+              "Price": 20.9,
+              "Fee": -0.5,
+              "Id": "0001051b.63e63162.01.01",
+              "OrderId": "268369289"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T10:35:20",
+              "Quantity": 414,
+              "Price": 20.8986,
+              "Fee": -2.07,
+              "Id": "0001506d.63e6571a.01.01",
+              "OrderId": "268369289"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:16",
+              "Quantity": -50,
+              "Price": 21.07,
+              "Fee": -1.03137515,
+              "Id": "0001051b.63e6677b.01.01",
+              "OrderId": "268417862"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:35",
+              "Quantity": -67,
+              "Price": 21.05,
+              "Fee": -1.042012015,
+              "Id": "0001e554.63e6578e.01.01",
+              "OrderId": "268417866"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:35",
+              "Quantity": -200,
+              "Price": 21.05,
+              "Fee": -0.460409,
+              "Id": "0001e554.63e6578f.01.01",
+              "OrderId": "268417866"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:40",
+              "Quantity": -20,
+              "Price": 21.05,
+              "Fee": -1.0125409,
+              "Id": "0000e138.63e638dc.01.01",
+              "OrderId": "268417867"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:40",
+              "Quantity": -400,
+              "Price": 21.04,
+              "Fee": -1.3507264,
+              "Id": "0001051b.63e6677e.01.01",
+              "OrderId": "268417867"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:40",
+              "Quantity": -2,
+              "Price": 21.04,
+              "Fee": -0.011253632,
+              "Id": "0001051b.63e6677f.01.01",
+              "OrderId": "268417867"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:33:40",
+              "Quantity": -575,
+              "Price": 21.04,
+              "Fee": -3.2354192,
+              "Id": "0001051b.63e66780.01.01",
+              "OrderId": "268417867"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:51:28",
+              "Quantity": -185,
+              "Price": 21.05,
+              "Fee": -1.041003325,
+              "Id": "00010193.63e680c6.01.01",
+              "OrderId": "268417953"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:51:28",
+              "Quantity": -15,
+              "Price": 21.05,
+              "Fee": -0.084405675,
+              "Id": "00010193.63e680c7.01.01",
+              "OrderId": "268417953"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:51:28",
+              "Quantity": -1000,
+              "Price": 21.05,
+              "Fee": -5.627045,
+              "Id": "0001051b.63e667ba.01.01",
+              "OrderId": "268417953"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-10T18:51:28",
+              "Quantity": -200,
+              "Price": 21.05,
+              "Fee": -1.125409,
+              "Id": "0001051b.63e667bb.01.01",
+              "OrderId": "268417953"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 100,
+              "Price": 62.08,
+              "Fee": 0,
+              "Id": "0000d6d9.63ee31cd.01.01",
+              "OrderId": "268899087"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 100,
+              "Price": 62.08,
+              "Fee": -0.5,
+              "Id": "0000d6d9.63ee31cf.01.01",
+              "OrderId": "268899087"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 300,
+              "Price": 62.0716,
+              "Fee": -1.5,
+              "Id": "0000e628.63ee4a23.01.01",
+              "OrderId": "268899087"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 125,
+              "Price": 62.075,
+              "Fee": -0.625,
+              "Id": "0000e95f.63ee5373.01.01",
+              "OrderId": "268899087"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 500,
+              "Price": 62.07,
+              "Fee": -2.5,
+              "Id": "0000f7ce.63ee3248.01.01",
+              "OrderId": "268899087"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:36:49",
+              "Quantity": 100,
+              "Price": 62.08,
+              "Fee": -1,
+              "Id": "0001c47b.63ee2f90.01.01",
+              "OrderId": "268899087"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:47:44",
+              "Quantity": -825,
+              "Price": 62.08,
+              "Fee": -5.4174714,
+              "Id": "0000e462.63ee3756.01.01",
+              "OrderId": "268903143"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:KOLD",
+              "Time": "2023-02-16T10:47:44",
+              "Quantity": -400,
+              "Price": 62.08,
+              "Fee": -2.6266528,
+              "Id": "0000f7ce.63ee329f.01.01",
+              "OrderId": "268903143"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 1200,
+              "Price": 20.748,
+              "Fee": -6,
+              "Id": "0000d5d6.63ef875d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 15,
+              "Price": 20.74,
+              "Fee": -1,
+              "Id": "0000d6a5.63ef8937.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 15,
+              "Price": 20.735,
+              "Fee": -0.075,
+              "Id": "0000e138.63ef5adf.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 5,
+              "Price": 20.74,
+              "Fee": -0.025,
+              "Id": "0000e138.63ef5ae0.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 200,
+              "Price": 20.74,
+              "Fee": -1,
+              "Id": "0000e138.63ef5ae1.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 1,
+              "Price": 20.74,
+              "Fee": -0.005,
+              "Id": "0000e138.63ef5ae2.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0000e138.63ef5ae3.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 200,
+              "Price": 20.75,
+              "Fee": -1,
+              "Id": "0000e138.63ef5ae4.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 82,
+              "Price": 20.75,
+              "Fee": -0.41,
+              "Id": "0000e138.63ef5ae5.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 300,
+              "Price": 20.75,
+              "Fee": -1.5,
+              "Id": "0000e138.63ef5ae6.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "0000f592.63ef596d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "0000f592.63ef596e.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a1c.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 6,
+              "Price": 20.74,
+              "Fee": -0.03,
+              "Id": "00010193.63ef5a1d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 98,
+              "Price": 20.74,
+              "Fee": -0.49,
+              "Id": "00010193.63ef5a1e.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a22.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a23.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a24.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a25.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a26.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a27.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 82,
+              "Price": 20.75,
+              "Fee": -0.41,
+              "Id": "00010193.63ef5a28.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a29.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a2a.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a2b.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00010193.63ef5a2c.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 600,
+              "Price": 20.74,
+              "Fee": -3,
+              "Id": "0001051b.63ef4863.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 1,
+              "Price": 20.74,
+              "Fee": -0.005,
+              "Id": "0001051b.63ef4864.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4865.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": 0,
+              "Id": "0001051b.63ef4866.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4867.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4868.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4869.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef486a.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef486b.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.075,
+              "Id": "0001051b.63ef486c.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef486d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef486e.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef486f.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4870.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4871.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4872.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4873.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4874.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4875.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4876.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.745,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4877.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4878.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef679a.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef679b.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef679c.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 11,
+              "Price": 20.75,
+              "Fee": -0.055,
+              "Id": "00012e18.63ef679d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef679e.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 2000,
+              "Price": 20.74,
+              "Fee": -10,
+              "Id": "0001a2f2.63ef828d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.74,
+              "Fee": -0.5,
+              "Id": "0001c47b.63ef7005.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "0001c47b.63ef7006.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 300,
+              "Price": 20.75,
+              "Fee": -1.5,
+              "Id": "0001c47b.63ef7007.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 300,
+              "Price": 20.75,
+              "Fee": -1.5,
+              "Id": "0001c47b.63ef7008.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 300,
+              "Price": 20.75,
+              "Fee": -1.5,
+              "Id": "0001c47b.63ef7009.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 500,
+              "Price": 20.74,
+              "Fee": -2.5,
+              "Id": "0001e554.63ef6ba8.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "0001e554.63ef6ba9.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 500,
+              "Price": 20.75,
+              "Fee": -2.5,
+              "Id": "0001e554.63ef6baa.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 100,
+              "Price": 20.75,
+              "Fee": -0.5,
+              "Id": "00022b5c.63ef3c8b.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 2000,
+              "Price": 20.75,
+              "Fee": -10,
+              "Id": "00022b5c.63ef3c8c.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 91,
+              "Price": 20.75,
+              "Fee": -0.455,
+              "Id": "00022b5c.63ef3c8d.01.01",
+              "OrderId": "268998742"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:30:23",
+              "Quantity": 523,
+              "Price": 20.75,
+              "Fee": -2.615,
+              "Id": "00022b5c.63ef3c8e.01.01",
+              "OrderId": "268998742"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:28",
+              "Quantity": -100,
+              "Price": 20.59,
+              "Fee": -0.5616511,
+              "Id": "00022b5c.63ef3d81.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0000e138.63ef5b34.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0000e138.63ef5b35.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -1.0616282,
+              "Id": "00010193.63ef5c09.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.0616282,
+              "Id": "00010193.63ef5c0a.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c0b.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c0c.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c0d.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -78,
+              "Price": 20.58,
+              "Fee": -0.438069996,
+              "Id": "0001051b.63ef4988.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef4989.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.585,
+              "Fee": -0.56163965,
+              "Id": "0001051b.63ef498c.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef498d.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef498e.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef498f.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -16,
+              "Price": 20.58,
+              "Fee": -0.089860512,
+              "Id": "0001051b.63ef4990.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef4991.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef4992.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -6,
+              "Price": 20.58,
+              "Fee": -0.033697692,
+              "Id": "0001051b.63ef4993.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -36,
+              "Price": 20.58,
+              "Fee": -0.202186152,
+              "Id": "0001051b.63ef4994.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef4995.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef4996.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef4997.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef4998.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef4999.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00012e18.63ef6986.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00014460.63ef3e7a.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:29",
+              "Quantity": -100,
+              "Price": 20.5801,
+              "Fee": -0.561628429,
+              "Id": "00014729.63ef8321.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "00010193.63ef5c0e.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c0f.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c10.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -2,
+              "Price": 20.58,
+              "Fee": -0.011232564,
+              "Id": "00010193.63ef5c11.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c12.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c13.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -102,
+              "Price": 20.58,
+              "Fee": -0.572860764,
+              "Id": "0001051b.63ef499a.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -75,
+              "Price": 20.58,
+              "Fee": -0.42122115,
+              "Id": "0001051b.63ef499b.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -23,
+              "Price": 20.58,
+              "Fee": -0.129174486,
+              "Id": "0001051b.63ef499c.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef499d.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -14,
+              "Price": 20.58,
+              "Fee": -0.078627948,
+              "Id": "0001051b.63ef499e.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef499f.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49a0.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49a1.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef49a2.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49a3.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001c47b.63ef7065.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:30",
+              "Quantity": -5,
+              "Price": 20.58,
+              "Fee": -0.02808141,
+              "Id": "0001c47b.63ef7066.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c14.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c17.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c18.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c1b.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c1d.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49ab.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49ac.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49ad.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49ae.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49af.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b0.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49b1.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b2.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -600,
+              "Price": 20.58,
+              "Fee": -3.3697692,
+              "Id": "0001051b.63ef49b3.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b4.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49b5.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b6.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b7.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b8.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49b9.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -600,
+              "Price": 20.58,
+              "Fee": -3.3697692,
+              "Id": "0001051b.63ef49ba.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49bb.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49bc.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49bd.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -600,
+              "Price": 20.58,
+              "Fee": -3.3697692,
+              "Id": "0001051b.63ef49be.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef49bf.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49c0.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49c1.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:31",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00014460.63ef3e7b.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c1e.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "00010193.63ef5c1f.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -231,
+              "Price": 20.58,
+              "Fee": -1.297361142,
+              "Id": "00010193.63ef5c21.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49c2.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef49c3.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49c4.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49c5.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.585,
+              "Fee": -0.56163965,
+              "Id": "0001051b.63ef49c6.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.585,
+              "Fee": -0.56163965,
+              "Id": "0001051b.63ef49c7.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -200,
+              "Price": 20.58,
+              "Fee": -1.1232564,
+              "Id": "0001051b.63ef49c8.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -300,
+              "Price": 20.58,
+              "Fee": -1.6848846,
+              "Id": "0001051b.63ef49c9.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001051b.63ef49ca.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -142,
+              "Price": 20.58,
+              "Fee": -0.797512044,
+              "Id": "0001051b.63ef49cb.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -600,
+              "Price": 20.58,
+              "Fee": -3.3697692,
+              "Id": "0001051b.63ef49cc.01.01",
+              "OrderId": "269000565"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:32:32",
+              "Quantity": -100,
+              "Price": 20.58,
+              "Fee": -0.5616282,
+              "Id": "0001c47b.63ef7068.01.01",
+              "OrderId": "269000565"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 200,
+              "Price": 20.838,
+              "Fee": -1,
+              "Id": "0000d5d6.63ef9198.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 900,
+              "Price": 20.84,
+              "Fee": -4.5,
+              "Id": "0000e95f.63ef9286.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 500,
+              "Price": 20.84,
+              "Fee": -2.5,
+              "Id": "0001051b.63ef4cb9.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 400,
+              "Price": 20.84,
+              "Fee": -2,
+              "Id": "0001051b.63ef4cba.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 200,
+              "Price": 20.84,
+              "Fee": -1,
+              "Id": "0001051b.63ef4cbb.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 200,
+              "Price": 20.84,
+              "Fee": -1,
+              "Id": "0001051b.63ef4cbc.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "0001051b.63ef4cbd.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef6e1d.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "00012e18.63ef6e1e.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "00014460.63ef3ea7.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.8399,
+              "Fee": -0.5,
+              "Id": "00014729.63ef852b.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 1763,
+              "Price": 20.8388,
+              "Fee": -8.815,
+              "Id": "0001506d.63ef8071.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "0001c47b.63ef71b6.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 600,
+              "Price": 20.84,
+              "Fee": -3,
+              "Id": "0001c47b.63ef71b7.01.01",
+              "OrderId": "269006381"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T09:39:53",
+              "Quantity": 100,
+              "Price": 20.84,
+              "Fee": -0.5,
+              "Id": "0001e554.63ef6e98.01.01",
+              "OrderId": "269006381"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -1300,
+              "Price": 20.842,
+              "Fee": -7.30896634,
+              "Id": "0000d5d6.63efacee.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -200,
+              "Price": 20.84,
+              "Fee": -1.1244472,
+              "Id": "0000d6a5.63efa1be.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0000e138.63ef6243.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0000e138.63ef6244.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -1.0622236,
+              "Id": "0000e138.63ef6245.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0000e138.63ef6246.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -10,
+              "Price": 20.84,
+              "Fee": -0.05622236,
+              "Id": "00010193.63ef7beb.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -3,
+              "Price": 20.84,
+              "Fee": -0.016866708,
+              "Id": "00010193.63ef7bec.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "00010193.63ef7bed.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "00010193.63ef7bee.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "00010193.63ef7bef.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "00010193.63ef7bf0.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "00010193.63ef7bf1.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -40,
+              "Price": 20.84,
+              "Fee": -0.22488944,
+              "Id": "0001051b.63ef5d27.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -1000,
+              "Price": 20.84,
+              "Fee": -5.622236,
+              "Id": "0001051b.63ef5d28.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -200,
+              "Price": 20.84,
+              "Fee": -0.6244472,
+              "Id": "0001051b.63ef5d29.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -1,
+              "Price": 20.84,
+              "Fee": -0.005622236,
+              "Id": "0001051b.63ef5d2a.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0001051b.63ef5d2b.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -400,
+              "Price": 20.84,
+              "Fee": -2.2488944,
+              "Id": "0001051b.63ef5d2c.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0001051b.63ef5d2d.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -200,
+              "Price": 20.84,
+              "Fee": -1.1244472,
+              "Id": "0001051b.63ef5d2e.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0001051b.63ef5d2f.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -500,
+              "Price": 20.84,
+              "Fee": -2.811118,
+              "Id": "00011bab.63ef8ce4.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -200,
+              "Price": 20.8401,
+              "Fee": -1.124447658,
+              "Id": "00014729.63ef8e4d.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0001c47b.63ef7b68.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -100,
+              "Price": 20.84,
+              "Fee": -0.5622236,
+              "Id": "0001c47b.63ef7b69.01.01",
+              "OrderId": "269026242"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:SOXS",
+              "Time": "2023-02-17T10:19:23",
+              "Quantity": -9,
+              "Price": 20.84,
+              "Fee": -0.050600124,
+              "Id": "0001c47b.63ef7b6a.01.01",
+              "OrderId": "269026242"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
     }
   ],
   "Executions": []

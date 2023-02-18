@@ -3605,9 +3605,21 @@
   { "Symbol": "NASDAQ:WBD", "Time": "2023-02-15" },
   { "Symbol": "NYSE:ARCH", "Time": "2023-02-16T11:04:39" },
   { "Symbol": "NASDAQ:CROX", "Time": "2023-02-16T09:44:51" },
+  { "Symbol": "NYSE:CYH", "Time": "2023-02-16" },
+  { "Symbol": "NYSE:HUBS", "Time": "2023-02-16" },
+  { "Symbol": "ARCA:KOLD", "Time": "2023-02-16" },
+  { "Symbol": "NYSE:MANU", "Time": "2023-02-16" },
   { "Symbol": "NASDAQ:NTRA", "Time": "2023-02-16T11:04:39" },
   { "Symbol": "NASDAQ:ROKU", "Time": "2023-02-16T09:57:57" },
   { "Symbol": "NYSE:TECK", "Time": "2023-02-16" },
   { "Symbol": "NYSE:TWLO", "Time": "2023-02-16T09:57:57" },
-  { "Symbol": "NYSE:YPF", "Time": "2023-02-16T09:37:17" }
+  { "Symbol": "NYSE:YPF", "Time": "2023-02-16T09:37:17" },
+  { "Symbol": "NASDAQ:ZEUS", "Time": "2023-02-16" },
+  { "Symbol": "NASDAQ:DKNG", "Time": "2023-02-17T09:34:40" },
+  { "Symbol": "ARCA:DRIP", "Time": "2023-02-17T09:34:40" },
+  { "Symbol": "ARCA:FNGD", "Time": "2023-02-17" },
+  { "Symbol": "NASDAQ:KPRX", "Time": "2023-02-17" },
+  { "Symbol": "NYSE:PCOR", "Time": "2023-02-17T09:34:40" },
+  { "Symbol": "ARCA:SOXS", "Time": "2023-02-17" },
+  { "Symbol": "ARCA:YANG", "Time": "2023-02-17" }
 ]
