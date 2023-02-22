@@ -87022,6 +87022,914 @@
       "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 100,
+              "Price": 26.658,
+              "Fee": -0.5,
+              "Id": "0000d5d6.63f4cae9.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 100,
+              "Price": 26.658,
+              "Fee": -0.5,
+              "Id": "0000d5d6.63f4caea.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 100,
+              "Price": 26.658,
+              "Fee": -0.5,
+              "Id": "0000d5d6.63f4caeb.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 200,
+              "Price": 26.66,
+              "Fee": -1,
+              "Id": "0000d7bd.63f4c7dd.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 7300,
+              "Price": 26.6562,
+              "Fee": -36.5,
+              "Id": "0000e494.63f4d070.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 1200,
+              "Price": 26.6593,
+              "Fee": -6,
+              "Id": "0000e628.63f4cfc2.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 100,
+              "Price": 26.66,
+              "Fee": -0.5,
+              "Id": "00010196.63f4ae88.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 123,
+              "Price": 26.66,
+              "Fee": -0.615,
+              "Id": "0001051b.63f48c38.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 300,
+              "Price": 26.66,
+              "Fee": -1.5,
+              "Id": "0001051b.63f48c39.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 100,
+              "Price": 26.6599,
+              "Fee": -0.5,
+              "Id": "00014729.63f4c81d.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 200,
+              "Price": 26.66,
+              "Fee": -1,
+              "Id": "0001c47b.63f4b65f.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 800,
+              "Price": 26.66,
+              "Fee": -4,
+              "Id": "0001c47b.63f4b660.01.01",
+              "OrderId": "269181293"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:31:26",
+              "Quantity": 200,
+              "Price": 26.66,
+              "Fee": -1,
+              "Id": "0001c47b.63f4b661.01.01",
+              "OrderId": "269181293"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -306,
+              "Price": 26.56,
+              "Fee": -1.760486544,
+              "Id": "0000e138.63f4a0d1.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -298,
+              "Price": 26.56,
+              "Fee": -1.714460752,
+              "Id": "0000e138.63f4a0d2.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -1.0753224,
+              "Id": "00010196.63f4b30c.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -176,
+              "Price": 26.56,
+              "Fee": -1.012567424,
+              "Id": "00010196.63f4b30d.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -198,
+              "Price": 26.56,
+              "Fee": -0.639138352,
+              "Id": "00010196.63f4b30f.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00010196.63f4b310.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "0001051b.63f48d7f.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -400,
+              "Price": 26.56,
+              "Fee": -2.3012896,
+              "Id": "0001051b.63f48d80.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -397,
+              "Price": 26.56,
+              "Fee": -2.284029928,
+              "Id": "0001051b.63f48d81.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -200,
+              "Price": 26.56,
+              "Fee": -1.1506448,
+              "Id": "0001051b.63f48d82.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -400,
+              "Price": 26.56,
+              "Fee": -2.3012896,
+              "Id": "0001051b.63f48d83.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:02",
+              "Quantity": -401,
+              "Price": 26.56,
+              "Fee": -2.307042824,
+              "Id": "0001051b.63f48d84.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -307,
+              "Price": 26.56,
+              "Fee": -1.766239768,
+              "Id": "0000e138.63f4a0d3.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -694,
+              "Price": 26.56,
+              "Fee": -3.992737456,
+              "Id": "0000e138.63f4a0d4.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -88,
+              "Price": 26.56,
+              "Fee": -0.506283712,
+              "Id": "0000e138.63f4a0d5.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -235,
+              "Price": 26.56,
+              "Fee": -1.35200764,
+              "Id": "00010196.63f4b311.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00010196.63f4b312.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00010196.63f4b313.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -800,
+              "Price": 26.56,
+              "Fee": -4.6025792,
+              "Id": "00010196.63f4b314.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -237,
+              "Price": 26.56,
+              "Fee": -1.363514088,
+              "Id": "00010196.63f4b315.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00010196.63f4b316.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -300,
+              "Price": 26.56,
+              "Fee": -1.7259672,
+              "Id": "0001051b.63f48d86.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -461,
+              "Price": 26.56,
+              "Fee": -2.652236264,
+              "Id": "0001051b.63f48d87.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -400,
+              "Price": 26.56,
+              "Fee": -2.3012896,
+              "Id": "0001051b.63f48d88.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -200,
+              "Price": 26.565,
+              "Fee": -1.1506677,
+              "Id": "0001051b.63f48d89.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -800,
+              "Price": 26.56,
+              "Fee": -4.6025792,
+              "Id": "0001051b.63f48d8a.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -5,
+              "Price": 26.56,
+              "Fee": -0.02876612,
+              "Id": "0001051b.63f48d8b.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -461,
+              "Price": 26.56,
+              "Fee": -2.652236264,
+              "Id": "0001051b.63f48d8c.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -400,
+              "Price": 26.56,
+              "Fee": -2.3012896,
+              "Id": "0001051b.63f48d8d.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "0001051b.63f48d8e.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -1100,
+              "Price": 26.56,
+              "Fee": -6.3285464,
+              "Id": "00012e19.63f4aff7.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00012e19.63f4aff8.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00012e19.63f4aff9.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00014460.63f484d5.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "00014460.63f484d6.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -247,
+              "Price": 26.56,
+              "Fee": -1.421046328,
+              "Id": "0001c47b.63f4b70b.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "0001c47b.63f4b70c.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -12,
+              "Price": 26.56,
+              "Fee": -0.069038688,
+              "Id": "0001c47b.63f4b70d.01.01",
+              "OrderId": "269184594"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:34:03",
+              "Quantity": -100,
+              "Price": 26.56,
+              "Fee": -0.5753224,
+              "Id": "0001c47b.63f4b70e.01.01",
+              "OrderId": "269184594"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 200,
+              "Price": 26.53,
+              "Fee": -1,
+              "Id": "0000e138.63f4a263.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0000e138.63f4a264.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 2700,
+              "Price": 26.5262,
+              "Fee": -13.5,
+              "Id": "0000e494.63f4d719.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 1400,
+              "Price": 26.5293,
+              "Fee": -7,
+              "Id": "0000e628.63f4d4a4.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 800,
+              "Price": 26.528,
+              "Fee": -4,
+              "Id": "0000e95f.63f4ddb9.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 800,
+              "Price": 26.53,
+              "Fee": -4,
+              "Id": "0000e95f.63f4ddba.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 200,
+              "Price": 26.53,
+              "Fee": -1,
+              "Id": "00010196.63f4c396.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "00010196.63f4c397.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 1,
+              "Price": 26.53,
+              "Fee": -0.005,
+              "Id": "00010196.63f4c398.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 200,
+              "Price": 26.525,
+              "Fee": -1,
+              "Id": "0001051b.63f491c0.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 200,
+              "Price": 26.53,
+              "Fee": -1,
+              "Id": "0001051b.63f491c1.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 48,
+              "Price": 26.53,
+              "Fee": -0.24,
+              "Id": "0001051b.63f491c2.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -1,
+              "Id": "0001051b.63f491c3.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 400,
+              "Price": 26.53,
+              "Fee": -2,
+              "Id": "0001051b.63f491c4.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 169,
+              "Price": 26.53,
+              "Fee": -0.845,
+              "Id": "0001051b.63f491c5.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": 0,
+              "Id": "0001051b.63f491c6.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0001051b.63f491c7.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 177,
+              "Price": 26.53,
+              "Fee": -0.885,
+              "Id": "0001051b.63f491c8.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0001051b.63f491c9.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 1200,
+              "Price": 26.53,
+              "Fee": -6,
+              "Id": "00012e19.63f4b303.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "00012e19.63f4b304.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "00012e19.63f4b305.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "00014460.63f4853f.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 60,
+              "Price": 26.53,
+              "Fee": -0.3,
+              "Id": "0001c47b.63f4b9a2.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0001c47b.63f4b9a3.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0001c47b.63f4b9a4.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 100,
+              "Price": 26.53,
+              "Fee": -0.5,
+              "Id": "0001c47b.63f4b9a5.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 45,
+              "Price": 26.53,
+              "Fee": -0.225,
+              "Id": "0001c47b.63f4b9a6.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 32,
+              "Price": 26.53,
+              "Fee": -0.16,
+              "Id": "0001c47b.63f4b9a7.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 23,
+              "Price": 26.53,
+              "Fee": -0.115,
+              "Id": "0001c47b.63f4b9a8.01.01",
+              "OrderId": "269191707"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T09:44:40",
+              "Quantity": 1003,
+              "Price": 26.53,
+              "Fee": -5.015,
+              "Id": "00022b5c.63f4898d.01.01",
+              "OrderId": "269191707"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T10:09:30",
+              "Quantity": -100,
+              "Price": 27.125,
+              "Fee": -1.07661625,
+              "Id": "0000e1ae.63f4d566.01.01",
+              "OrderId": "269203512"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T10:09:30",
+              "Quantity": -986,
+              "Price": 27.122,
+              "Fee": -5.185368487,
+              "Id": "0000e95f.63f4ea37.01.01",
+              "OrderId": "269203512"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T10:30:02",
+              "Quantity": -978,
+              "Price": 27.39,
+              "Fee": -5.645241918,
+              "Id": "0000e95f.63f4f1e0.01.01",
+              "OrderId": "269212089"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-02-21T11:28:46",
+              "Quantity": -880,
+              "Price": 27.5938,
+              "Fee": -5.083670258,
+              "Id": "0000e494.63f4f342.01.01",
+              "OrderId": "269226216"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
     }
   ],
   "Executions": []

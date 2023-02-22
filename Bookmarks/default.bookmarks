@@ -3621,5 +3621,8 @@
   { "Symbol": "NASDAQ:KPRX", "Time": "2023-02-17" },
   { "Symbol": "NYSE:PCOR", "Time": "2023-02-17T09:34:40" },
   { "Symbol": "ARCA:SOXS", "Time": "2023-02-17" },
-  { "Symbol": "ARCA:YANG", "Time": "2023-02-17" }
+  { "Symbol": "ARCA:YANG", "Time": "2023-02-17" },
+  { "Symbol": "ARCA:COPX", "Time": "2023-02-21T09:38:59" },
+  { "Symbol": "NYSE:HLX", "Time": "2023-02-21" },
+  { "Symbol": "ARCA:TZA", "Time": "2023-02-21" }
 ]
