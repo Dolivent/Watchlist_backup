@@ -3624,5 +3624,7 @@
   { "Symbol": "ARCA:YANG", "Time": "2023-02-17" },
   { "Symbol": "ARCA:COPX", "Time": "2023-02-21T09:38:59" },
   { "Symbol": "NYSE:HLX", "Time": "2023-02-21" },
-  { "Symbol": "ARCA:TZA", "Time": "2023-02-21" }
+  { "Symbol": "ARCA:TZA", "Time": "2023-02-21" },
+  { "Symbol": "NYSE:FVRR", "Time": "2023-02-22T09:39:58" },
+  { "Symbol": "NASDAQ:IQ", "Time": "2023-02-22T09:39:58" }
 ]
