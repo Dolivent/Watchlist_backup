@@ -3626,5 +3626,6 @@
   { "Symbol": "NYSE:HLX", "Time": "2023-02-21" },
   { "Symbol": "ARCA:TZA", "Time": "2023-02-21" },
   { "Symbol": "NYSE:FVRR", "Time": "2023-02-22T09:39:58" },
-  { "Symbol": "NASDAQ:IQ", "Time": "2023-02-22T09:39:58" }
+  { "Symbol": "NASDAQ:IQ", "Time": "2023-02-22T09:39:58" },
+  { "Symbol": "NASDAQ:LUNR", "Time": "2023-02-22T12:17:21" }
 ]
