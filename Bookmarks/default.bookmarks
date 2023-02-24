@@ -3632,5 +3632,7 @@
   { "Symbol": "NASDAQ:AUPH", "Time": "2023-02-23" },
   { "Symbol": "NYSE:DHT", "Time": "2023-02-23" },
   { "Symbol": "NASDAQ:NVDA", "Time": "2023-02-23" },
-  { "Symbol": "NASDAQ:RVNC", "Time": "2023-02-23" }
+  { "Symbol": "NASDAQ:RVNC", "Time": "2023-02-23" },
+  { "Symbol": "NASDAQ:WBD", "Time": "2023-02-23" },
+  { "Symbol": "NASDAQ:BYND", "Time": "2023-02-24T09:37:03" }
 ]
