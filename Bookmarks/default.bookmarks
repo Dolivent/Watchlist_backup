@@ -3642,5 +3642,8 @@
   { "Symbol": "NYSE:KOS", "Time": "2023-02-27T12:03:45" },
   { "Symbol": "NYSE:MP", "Time": "2023-02-27T12:03:31" },
   { "Symbol": "NASDAQ:RVNC", "Time": "2023-02-27" },
-  { "Symbol": "NASDAQ:TSLA", "Time": "2023-02-27" }
+  { "Symbol": "NASDAQ:TSLA", "Time": "2023-02-27" },
+  { "Symbol": "NASDAQ:AUPH", "Time": "2023-02-28T10:00:44" },
+  { "Symbol": "NASDAQ:COIN", "Time": "2023-02-28T10:05:00" },
+  { "Symbol": "NYSE:HIMS", "Time": "2023-02-28T10:00:38" }
 ]
