@@ -3638,5 +3638,9 @@
   { "Symbol": "NYSE:ZIM", "Time": "2023-02-23" },
   { "Symbol": "NASDAQ:ALTR", "Time": "2023-02-24" },
   { "Symbol": "NASDAQ:BYND", "Time": "2023-02-24T09:37:03" },
-  { "Symbol": "NYSE:FTCH", "Time": "2023-02-24T10:29:55" }
+  { "Symbol": "NYSE:FTCH", "Time": "2023-02-24T10:29:55" },
+  { "Symbol": "NYSE:KOS", "Time": "2023-02-27T12:03:45" },
+  { "Symbol": "NYSE:MP", "Time": "2023-02-27T12:03:31" },
+  { "Symbol": "NASDAQ:RVNC", "Time": "2023-02-27" },
+  { "Symbol": "NASDAQ:TSLA", "Time": "2023-02-27" }
 ]
