@@ -102400,6 +102400,621 @@
       "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 1400,
+              "Price": 22.73,
+              "Fee": -7,
+              "Id": "0000d322.63fcb0f7.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 2000,
+              "Price": 22.738,
+              "Fee": -10,
+              "Id": "0000d5d6.63fcb66e.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 100,
+              "Price": 22.73,
+              "Fee": -1,
+              "Id": "0000ddc2.63fcb096.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 400,
+              "Price": 22.73,
+              "Fee": -1.5,
+              "Id": "00012df0.63fc955f.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 100,
+              "Price": 22.73,
+              "Fee": -0.5,
+              "Id": "00012df0.63fc9560.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 1100,
+              "Price": 22.728,
+              "Fee": -5.5,
+              "Id": "0001506d.63fcaa0b.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:51",
+              "Quantity": 100,
+              "Price": 22.73,
+              "Fee": -0.5,
+              "Id": "00021aaf.63fc6c9f.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:52",
+              "Quantity": 100,
+              "Price": 22.83,
+              "Fee": -0.5,
+              "Id": "0000d371.63fcb088.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:52",
+              "Quantity": 100,
+              "Price": 22.83,
+              "Fee": -0.5,
+              "Id": "0000ddc2.63fcb098.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:52",
+              "Quantity": 15,
+              "Price": 22.83,
+              "Fee": -0.075,
+              "Id": "0000f62c.63fc6a28.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:52",
+              "Quantity": 100,
+              "Price": 22.83,
+              "Fee": -0.5,
+              "Id": "000103bf.63fc6e4e.01.01",
+              "OrderId": "269695527"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:30:52",
+              "Quantity": 100,
+              "Price": 22.83,
+              "Fee": -0.5,
+              "Id": "0001e554.63fc9aef.01.01",
+              "OrderId": "269695527"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -1500,
+              "Price": 22.362,
+              "Fee": -7.610844,
+              "Id": "0000d5d6.63fcb7de.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.36,
+              "Fee": -0.532388,
+              "Id": "0000ddc2.63fcb0f3.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.35,
+              "Fee": -0.03238,
+              "Id": "0000ddc2.63fcb0f5.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -20,
+              "Price": 22.36,
+              "Fee": -0.1064776,
+              "Id": "000103bf.63fc6ec6.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.36,
+              "Fee": -0.532388,
+              "Id": "000103bf.63fc6ec7.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.35,
+              "Fee": -0.53238,
+              "Id": "000103bf.63fc6ec8.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -25,
+              "Price": 22.36,
+              "Fee": -1.008097,
+              "Id": "00012df0.63fc9626.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -500,
+              "Price": 22.36,
+              "Fee": -2.66194,
+              "Id": "00012df0.63fc9627.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -4,
+              "Price": 22.35,
+              "Fee": -0.0212952,
+              "Id": "00012df0.63fc9628.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -2,
+              "Price": 22.35,
+              "Fee": -0.0106476,
+              "Id": "00012df0.63fc9629.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -20,
+              "Price": 22.35,
+              "Fee": -0.106476,
+              "Id": "00012df0.63fc962a.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -30,
+              "Price": 22.35,
+              "Fee": -0.159714,
+              "Id": "00012df0.63fc962b.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -200,
+              "Price": 22.35,
+              "Fee": -1.06476,
+              "Id": "00012df0.63fc962c.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.35,
+              "Fee": -0.53238,
+              "Id": "00012df0.63fc962d.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -100,
+              "Price": 22.35,
+              "Fee": -0.53238,
+              "Id": "00012df0.63fc962e.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:53",
+              "Quantity": -1900,
+              "Price": 22.37,
+              "Fee": -10.115524,
+              "Id": "0001506d.63fcaa73.01.01",
+              "OrderId": "269696029"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T09:31:54",
+              "Quantity": -814,
+              "Price": 22.31,
+              "Fee": -4.33331272,
+              "Id": "0000d322.63fcb162.01.01",
+              "OrderId": "269696029"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:57",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.031908,
+              "Id": "0000d6a5.63fccec7.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:57",
+              "Quantity": -2,
+              "Price": 21.77,
+              "Fee": -0.00063832,
+              "Id": "0000febb.63fc8e99.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:57",
+              "Quantity": -79,
+              "Price": 21.77,
+              "Fee": -1.02521364,
+              "Id": "000103bf.63fc7d4d.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:57",
+              "Quantity": -100,
+              "Price": 21.77,
+              "Fee": -0.531916,
+              "Id": "00012df0.63fca1c5.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:57",
+              "Quantity": -100,
+              "Price": 21.77,
+              "Fee": -0.436916,
+              "Id": "00012df0.63fca1c6.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "0000d371.63fcb1db.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "0000febb.63fc8e9a.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -10,
+              "Price": 21.76,
+              "Fee": -0.0531908,
+              "Id": "0000febb.63fc8e9b.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "000103bf.63fc7d4e.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "000103bf.63fc7d4f.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "000103bf.63fc7d50.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -100,
+              "Price": 21.76,
+              "Fee": -0.531908,
+              "Id": "000103bf.63fc7d51.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -200,
+              "Price": 21.76,
+              "Fee": -1.063816,
+              "Id": "00012df0.63fca1c8.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:17:58",
+              "Quantity": -347,
+              "Price": 21.76,
+              "Fee": -1.84572076,
+              "Id": "00012df0.63fca1c9.01.01",
+              "OrderId": "269718351"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T10:18:00",
+              "Quantity": -300,
+              "Price": 21.75,
+              "Fee": -1.5957,
+              "Id": "0000d322.63fcbbda.01.01",
+              "OrderId": "269718351"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:30",
+              "Quantity": 200,
+              "Price": 22.25,
+              "Fee": -1,
+              "Id": "00012df0.63fca8ec.01.01",
+              "OrderId": "269734176"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:30",
+              "Quantity": 100,
+              "Price": 22.25,
+              "Fee": -0.5,
+              "Id": "00012df0.63fca8ed.01.01",
+              "OrderId": "269734176"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:30",
+              "Quantity": 2,
+              "Price": 22.25,
+              "Fee": -0.01,
+              "Id": "00012df0.63fca8ee.01.01",
+              "OrderId": "269734176"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:31",
+              "Quantity": 1386,
+              "Price": 22.268,
+              "Fee": -6.93,
+              "Id": "0000d5d6.63fcf3a7.01.01",
+              "OrderId": "269734176"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:31",
+              "Quantity": 50,
+              "Price": 22.27,
+              "Fee": -0.25,
+              "Id": "0000f62c.63fc80a6.01.01",
+              "OrderId": "269734176"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-27T11:30:31",
+              "Quantity": 100,
+              "Price": 22.27,
+              "Fee": -0.5,
+              "Id": "0000f62c.63fc80a7.01.01",
+              "OrderId": "269734176"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:38:30",
+              "Quantity": 300,
+              "Price": 23,
+              "Fee": -1.065,
+              "Id": "0000d322.63fe059c.01.01",
+              "OrderId": "269811382"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:38:30",
+              "Quantity": 100,
+              "Price": 23,
+              "Fee": -1,
+              "Id": "0000febb.63fdd358.01.01",
+              "OrderId": "269811382"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:38:30",
+              "Quantity": 500,
+              "Price": 23,
+              "Fee": -2.5,
+              "Id": "0000febb.63fdd359.01.01",
+              "OrderId": "269811382"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:38:30",
+              "Quantity": 13,
+              "Price": 23,
+              "Fee": 0,
+              "Id": "0000febb.63fdd35a.01.01",
+              "OrderId": "269811382"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:53:20",
+              "Quantity": -200,
+              "Price": 22.922,
+              "Fee": -1.0656752,
+              "Id": "0000d5d6.63fe152a.01.01",
+              "OrderId": "269818258"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:53:20",
+              "Quantity": -313,
+              "Price": 22.922,
+              "Fee": -1.667781688,
+              "Id": "0000d5d6.63fe152b.01.01",
+              "OrderId": "269818258"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-02-28T09:53:20",
+              "Quantity": -400,
+              "Price": 22.926,
+              "Fee": -2.1313632,
+              "Id": "0001506d.63fe04f5.01.01",
+              "OrderId": "269818258"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
     }
   ],
   "Executions": []

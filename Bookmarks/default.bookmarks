@@ -3649,5 +3649,9 @@
   { "Symbol": "NYSE:FOUR", "Time": "2023-02-28T12:18:06" },
   { "Symbol": "NYSE:HIMS", "Time": "2023-02-28T10:00:38" },
   { "Symbol": "NASDAQ:MARA", "Time": "2023-02-28T11:34:48" },
-  { "Symbol": "NASDAQ:META", "Time": "2023-02-28" }
+  { "Symbol": "NASDAQ:META", "Time": "2023-02-28" },
+  { "Symbol": "NASDAQ:DUOL", "Time": "2023-03-01T09:47:34" },
+  { "Symbol": "NASDAQ:FSLR", "Time": "2023-03-01T09:33:12" },
+  { "Symbol": "NASDAQ:MLCO", "Time": "2023-03-01" },
+  { "Symbol": "NASDAQ:VTYX", "Time": "2023-03-01" }
 ]
