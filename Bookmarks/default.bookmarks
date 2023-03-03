@@ -3653,5 +3653,6 @@
   { "Symbol": "NASDAQ:DUOL", "Time": "2023-03-01T09:47:34" },
   { "Symbol": "NASDAQ:FSLR", "Time": "2023-03-01T09:33:12" },
   { "Symbol": "NASDAQ:MLCO", "Time": "2023-03-01" },
-  { "Symbol": "NASDAQ:VTYX", "Time": "2023-03-01" }
+  { "Symbol": "NASDAQ:VTYX", "Time": "2023-03-01" },
+  { "Symbol": "NYSE:GOTU", "Time": "2023-03-02" }
 ]
