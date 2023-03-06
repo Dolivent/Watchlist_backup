@@ -3655,6 +3655,16 @@
   { "Symbol": "NASDAQ:FSLR", "Time": "2023-03-01T09:33:12" },
   { "Symbol": "NASDAQ:MLCO", "Time": "2023-03-01" },
   { "Symbol": "NASDAQ:VTYX", "Time": "2023-03-01" },
+  { "Symbol": "NYSE:EDU", "Time": "2023-03-02" },
   { "Symbol": "NYSE:GOTU", "Time": "2023-03-02" },
-  { "Symbol": "NYSE:TAL", "Time": "2023-03-02" }
+  { "Symbol": "NYSE:TAL", "Time": "2023-03-02" },
+  { "Symbol": "NYSE:AI", "Time": "2023-03-03" },
+  { "Symbol": "NASDAQ:ARDX", "Time": "2023-03-03T11:52:49" },
+  { "Symbol": "NYSE:CCJ", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:CVNA", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:FSLY", "Time": "2023-03-03T11:48:59" },
+  { "Symbol": "NYSE:IOT", "Time": "2023-03-03T10:44:41" },
+  { "Symbol": "NASDAQ:META", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:SHOP", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:SPOT", "Time": "2023-03-03T11:49:36" }
 ]
