@@ -3672,6 +3672,8 @@
   { "Symbol": "NASDAQ:ALGM", "Time": "2023-03-03" },
   { "Symbol": "NASDAQ:ALGN", "Time": "2023-03-03" },
   { "Symbol": "NASDAQ:ARDX", "Time": "2023-03-03" },
+  { "Symbol": "ARCA:ARKK", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:ASAN", "Time": "2023-03-03" },
   { "Symbol": "ARCA:BULZ", "Time": "2023-03-03" },
   { "Symbol": "NYSE:CCJ", "Time": "2023-03-03" },
   { "Symbol": "NYSE:CVNA", "Time": "2023-03-03" },
@@ -3685,6 +3687,9 @@
   { "Symbol": "NASDAQ:SOUN", "Time": "2023-03-03" },
   { "Symbol": "ARCA:SOXL", "Time": "2023-03-03" },
   { "Symbol": "NYSE:SPOT", "Time": "2023-03-03" },
+  { "Symbol": "NYSE:SQ", "Time": "2023-03-03" },
+  { "Symbol": "ARCA:TNA", "Time": "2023-03-03" },
   { "Symbol": "NASDAQ:TXG", "Time": "2023-03-03" },
+  { "Symbol": "ARCA:URTY", "Time": "2023-03-03" },
   { "Symbol": "ARCA:WEBL", "Time": "2023-03-03" }
 ]
