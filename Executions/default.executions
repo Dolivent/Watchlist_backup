@@ -87963,6 +87963,88 @@
               "OrderId": "269328409"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T10:25:23",
+              "Quantity": -100,
+              "Price": 27.065,
+              "Fee": -1.036152,
+              "Id": "0000e1ae.64020534.01.01",
+              "OrderId": "270187844"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T10:25:23",
+              "Quantity": -1503,
+              "Price": 27.065,
+              "Fee": -7.55836456,
+              "Id": "0000e95f.640215e8.01.01",
+              "OrderId": "270187844"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T11:31:27",
+              "Quantity": -2200,
+              "Price": 27.0138,
+              "Fee": -11.79444288,
+              "Id": "0000e494.64021a8f.01.01",
+              "OrderId": "270203449"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T11:31:27",
+              "Quantity": -200,
+              "Price": 27.0101,
+              "Fee": -1.07221616,
+              "Id": "00014729.6402067f.01.01",
+              "OrderId": "270203449"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T11:31:27",
+              "Quantity": -3,
+              "Price": 27.01,
+              "Fee": -0.01608324,
+              "Id": "0001c47b.6401fbca.01.01",
+              "OrderId": "270203449"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T11:37:19",
+              "Quantity": -200,
+              "Price": 26.995,
+              "Fee": -1.072192,
+              "Id": "0000e1ae.64020f08.01.01",
+              "OrderId": "270203850"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "ARCA:TZA",
+              "Time": "2023-03-03T11:37:19",
+              "Quantity": -2203,
+              "Price": 26.995,
+              "Fee": -11.81019488,
+              "Id": "0000e95f.64022434.01.01",
+              "OrderId": "270203850"
+            }
+          ]
         }
       ],
       "Setup": null,
@@ -103408,6 +103490,2091 @@
               "Fee": -0.532812,
               "Id": "0001c47b.6400995f.01.01",
               "OrderId": "270062344"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 1972,
+              "Price": 28.09,
+              "Fee": -9.86,
+              "Id": "0000d323.6401f71f.01.01",
+              "OrderId": "270163653"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 1000,
+              "Price": 28.088,
+              "Fee": -5,
+              "Id": "0000d5d6.6401fadb.01.01",
+              "OrderId": "270163653"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 200,
+              "Price": 28.09,
+              "Fee": -1,
+              "Id": "0000d6a5.6401ff22.01.01",
+              "OrderId": "270163653"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 1000,
+              "Price": 28.08,
+              "Fee": -5,
+              "Id": "0000e95f.6401ff62.01.01",
+              "OrderId": "270163653"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 500,
+              "Price": 28.09,
+              "Fee": -2.5,
+              "Id": "00016e4a.6401f6c7.01.01",
+              "OrderId": "270163653"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:32:06",
+              "Quantity": 300,
+              "Price": 28.09,
+              "Fee": -1.5,
+              "Id": "00022650.6401fdd7.01.01",
+              "OrderId": "270163653"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -62,
+              "Price": 27.97,
+              "Fee": -0.33286312,
+              "Id": "0000d323.6401f7c8.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -600,
+              "Price": 27.97,
+              "Fee": -3.221256,
+              "Id": "0000d323.6401f7ca.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -800,
+              "Price": 27.972,
+              "Fee": -4.2950208,
+              "Id": "0000d5d6.6401fc2a.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -300,
+              "Price": 27.9707,
+              "Fee": -1.61062968,
+              "Id": "0000de6f.6401f01e.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -1000,
+              "Price": 27.975,
+              "Fee": -5.3688,
+              "Id": "0000e95f.640200bd.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -10,
+              "Price": 27.98,
+              "Fee": -0.0536884,
+              "Id": "00012dfa.6401dd45.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -1900,
+              "Price": 27.9754,
+              "Fee": -10.20072608,
+              "Id": "0001506d.6401f1fd.01.01",
+              "OrderId": "270166084"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:CCJ",
+              "Time": "2023-03-03T09:34:04",
+              "Quantity": -300,
+              "Price": 27.97,
+              "Fee": -1.610628,
+              "Id": "00022650.6401fe39.01.01",
+              "OrderId": "270166084"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:42:51",
+              "Quantity": 770,
+              "Price": 25.12,
+              "Fee": -3.85,
+              "Id": "00015e71.6401fd05.01.01",
+              "OrderId": "270170618"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:46:15",
+              "Quantity": 120,
+              "Price": 25.75,
+              "Fee": -1,
+              "Id": "0000d6a5.640207d4.01.01",
+              "OrderId": "270171716"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:46:15",
+              "Quantity": 100,
+              "Price": 25.75,
+              "Fee": -0.1,
+              "Id": "0000ddc2.6401fcf5.01.01",
+              "OrderId": "270171716"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:46:15",
+              "Quantity": 310,
+              "Price": 25.75,
+              "Fee": -1.55,
+              "Id": "0000edae.6401cdcc.01.01",
+              "OrderId": "270171716"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:58:26",
+              "Quantity": 300,
+              "Price": 25.83,
+              "Fee": -1.325,
+              "Id": "00015e71.640201cd.01.01",
+              "OrderId": "270178386"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T09:58:26",
+              "Quantity": 165,
+              "Price": 25.85,
+              "Fee": -1,
+              "Id": "00015e71.640201cf.01.01",
+              "OrderId": "270178386"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T10:02:41",
+              "Quantity": -65,
+              "Price": 25.14,
+              "Fee": -1.0224978,
+              "Id": "0000febb.6401d9cf.01.01",
+              "OrderId": "270180722"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:AI",
+              "Time": "2023-03-03T10:02:41",
+              "Quantity": -1700,
+              "Price": 25.1698,
+              "Fee": -8.41380928,
+              "Id": "0001506d.6401fdae.01.01",
+              "OrderId": "270180722"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:44",
+              "Quantity": 100,
+              "Price": 2.855,
+              "Fee": -0.5,
+              "Id": "0000d6a5.640209ef.01.01",
+              "OrderId": "270174200"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:44",
+              "Quantity": 100,
+              "Price": 2.86,
+              "Fee": -0.5,
+              "Id": "00010193.6401d270.01.01",
+              "OrderId": "270174200"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:44",
+              "Quantity": 2000,
+              "Price": 2.86,
+              "Fee": -10,
+              "Id": "0001a2f2.6401fc24.01.01",
+              "OrderId": "270174200"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:44",
+              "Quantity": 386,
+              "Price": 2.86,
+              "Fee": -1.93,
+              "Id": "00022b5c.6401b0bc.01.01",
+              "OrderId": "270174200"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:45",
+              "Quantity": 74,
+              "Price": 2.87,
+              "Fee": -0.37,
+              "Id": "00016247.6401f444.01.01",
+              "OrderId": "270174200"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T09:49:45",
+              "Quantity": 2000,
+              "Price": 2.87,
+              "Fee": -10,
+              "Id": "0001a2f2.6401fc28.01.01",
+              "OrderId": "270174200"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T10:02:49",
+              "Quantity": -1400,
+              "Price": 2.78,
+              "Fee": -7.234136,
+              "Id": "0000d958.6401fbfa.01.01",
+              "OrderId": "270179540"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T10:02:49",
+              "Quantity": -2556,
+              "Price": 2.78,
+              "Fee": -13.20746544,
+              "Id": "00010193.6401d9a3.01.01",
+              "OrderId": "270179540"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:SOUN",
+              "Time": "2023-03-03T10:02:49",
+              "Quantity": -704,
+              "Price": 2.78,
+              "Fee": -3.63773696,
+              "Id": "00010193.6401d9a4.01.01",
+              "OrderId": "270179540"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 600,
+              "Price": 64.93,
+              "Fee": -3,
+              "Id": "0000d323.6405eb93.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 200,
+              "Price": 64.948,
+              "Fee": -0.665,
+              "Id": "0000d5d6.6405f2c8.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 26,
+              "Price": 64.95,
+              "Fee": -0.13,
+              "Id": "0000d6a5.6405f2e0.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 100,
+              "Price": 64.94,
+              "Fee": 0,
+              "Id": "0000dc24.6405eaf6.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 60,
+              "Price": 64.9462,
+              "Fee": -0.3,
+              "Id": "0000e494.6405f2c5.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 400,
+              "Price": 64.945,
+              "Fee": -2,
+              "Id": "0000e95f.6405f3da.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 25,
+              "Price": 64.94,
+              "Fee": -0.125,
+              "Id": "0000f62c.6405a492.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 25,
+              "Price": 64.92,
+              "Fee": -0.125,
+              "Id": "000100df.6405c081.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 8,
+              "Price": 64.93,
+              "Fee": -1,
+              "Id": "000100df.6405c082.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 25,
+              "Price": 64.93,
+              "Fee": -0.125,
+              "Id": "000100df.6405c083.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 30,
+              "Price": 64.92,
+              "Fee": -0.15,
+              "Id": "000103bf.6405a915.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:53",
+              "Quantity": 25,
+              "Price": 64.92,
+              "Fee": 0,
+              "Id": "000103bf.6405a916.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 800,
+              "Price": 64.98,
+              "Fee": -4,
+              "Id": "0000d323.6405eb97.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 100,
+              "Price": 64.97,
+              "Fee": -0.5,
+              "Id": "0000e126.6405c27d.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 100,
+              "Price": 64.99,
+              "Fee": -0.5,
+              "Id": "0000e126.6405c27e.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 50,
+              "Price": 64.99,
+              "Fee": -0.25,
+              "Id": "0000e126.6405c27f.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 86,
+              "Price": 64.99,
+              "Fee": -0.43,
+              "Id": "0000e126.6405c280.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 300,
+              "Price": 64.99,
+              "Fee": -1.5,
+              "Id": "00015e46.6405eaf8.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 234,
+              "Price": 64.97,
+              "Fee": -1.17,
+              "Id": "00016e4a.6405eb12.01.01",
+              "OrderId": "270289884"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:30:54",
+              "Quantity": 166,
+              "Price": 64.99,
+              "Fee": -0.83,
+              "Id": "00016e4a.6405eb14.01.01",
+              "OrderId": "270289884"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.44,
+              "Fee": -0.066052,
+              "Id": "0000e126.6405c296.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -25,
+              "Price": 64.43,
+              "Fee": -0.141511,
+              "Id": "0000e126.6405c298.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.4,
+              "Fee": -0.56602,
+              "Id": "0000e126.6405c299.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -25,
+              "Price": 64.44,
+              "Fee": -0.141513,
+              "Id": "0000f62c.6405a4de.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.41,
+              "Fee": -0.566028,
+              "Id": "0000f62c.6405a4df.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -25,
+              "Price": 64.4,
+              "Fee": -0.141505,
+              "Id": "0000f62c.6405a4e0.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -30,
+              "Price": 64.4,
+              "Fee": -0.169806,
+              "Id": "000100df.6405c128.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -25,
+              "Price": 64.4,
+              "Fee": -0.141505,
+              "Id": "000100df.6405c129.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -5,
+              "Price": 64.39,
+              "Fee": -0.0283006,
+              "Id": "000100df.6405c12a.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -200,
+              "Price": 64.39,
+              "Fee": -1.132024,
+              "Id": "000100df.6405c12b.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -25,
+              "Price": 64.39,
+              "Fee": -0.141503,
+              "Id": "000100df.6405c12c.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.39,
+              "Fee": -0.566012,
+              "Id": "000100df.6405c12d.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.41,
+              "Fee": -1.066028,
+              "Id": "000103bf.6405a990.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.4,
+              "Fee": -0.56602,
+              "Id": "000103bf.6405a991.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.41,
+              "Fee": -0.566028,
+              "Id": "00012dfa.6405d103.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.4,
+              "Fee": -0.56602,
+              "Id": "00012dfa.6405d104.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:19",
+              "Quantity": -100,
+              "Price": 64.4,
+              "Fee": -0.56602,
+              "Id": "0001e554.6405d54a.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:20",
+              "Quantity": -100,
+              "Price": 64.39,
+              "Fee": -0.566012,
+              "Id": "0000f62c.6405a4ea.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:20",
+              "Quantity": -100,
+              "Price": 64.38,
+              "Fee": -0.566004,
+              "Id": "0000f62c.6405a4eb.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:20",
+              "Quantity": -25,
+              "Price": 64.38,
+              "Fee": -0.141501,
+              "Id": "0000f62c.6405a4ec.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:20",
+              "Quantity": -100,
+              "Price": 64.39,
+              "Fee": -0.566012,
+              "Id": "0001e554.6405d553.01.01",
+              "OrderId": "270292118"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:20",
+              "Quantity": -400,
+              "Price": 64.38,
+              "Fee": -2.264016,
+              "Id": "0001e554.6405d554.01.01",
+              "OrderId": "270292118"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:31:21",
+              "Quantity": -1375,
+              "Price": 64.22,
+              "Fee": -7.780795,
+              "Id": "0000d323.6405ebd4.01.01",
+              "OrderId": "270292152"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:28",
+              "Quantity": 100,
+              "Price": 11.96,
+              "Fee": -1,
+              "Id": "0000f592.6405c440.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:28",
+              "Quantity": 100,
+              "Price": 11.96,
+              "Fee": 0,
+              "Id": "0001e554.6405d63e.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:29",
+              "Quantity": 2100,
+              "Price": 11.97,
+              "Fee": -10.5,
+              "Id": "0000e4ee.6405eafe.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:29",
+              "Quantity": 200,
+              "Price": 11.97,
+              "Fee": -1,
+              "Id": "00010196.6405d3ea.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:29",
+              "Quantity": 100,
+              "Price": 11.97,
+              "Fee": -0.5,
+              "Id": "00010196.6405d3eb.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 200,
+              "Price": 11.978,
+              "Fee": -1,
+              "Id": "0000d5d6.6405f65d.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 10,
+              "Price": 11.955,
+              "Fee": -0.05,
+              "Id": "0000e138.6405c493.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 2200,
+              "Price": 11.98,
+              "Fee": -11,
+              "Id": "0000e4ee.6405eb00.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 10,
+              "Price": 11.98,
+              "Fee": -0.05,
+              "Id": "00010196.6405d3f0.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 200,
+              "Price": 11.96,
+              "Fee": -1,
+              "Id": "00010196.6405d3f4.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 200,
+              "Price": 11.98,
+              "Fee": -1,
+              "Id": "00012e19.6405d2ab.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 100,
+              "Price": 11.98,
+              "Fee": -0.5,
+              "Id": "00012e19.6405d2ac.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 900,
+              "Price": 11.975,
+              "Fee": -4.5,
+              "Id": "0002258e.6405f39a.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 1600,
+              "Price": 11.975,
+              "Fee": -8,
+              "Id": "0002264f.6405f8d5.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 300,
+              "Price": 11.98,
+              "Fee": -1.5,
+              "Id": "00022650.6405f2a5.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:31",
+              "Quantity": 200,
+              "Price": 11.98,
+              "Fee": -1,
+              "Id": "00022b5c.6405a3e9.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:33",
+              "Quantity": 1100,
+              "Price": 11.97,
+              "Fee": -5.5,
+              "Id": "0000e4ee.6405eb02.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:33",
+              "Quantity": 100,
+              "Price": 11.97,
+              "Fee": -0.5,
+              "Id": "0001e554.6405d648.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:35",
+              "Quantity": 100,
+              "Price": 11.98,
+              "Fee": -0.5,
+              "Id": "0000f592.6405c452.01.01",
+              "OrderId": "270292978"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T09:33:37",
+              "Quantity": 162,
+              "Price": 11.99,
+              "Fee": -0.81,
+              "Id": "0000e4ee.6405eb04.01.01",
+              "OrderId": "270292978"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -100,
+              "Price": 12.11,
+              "Fee": -0.024188,
+              "Id": "0000d6a5.64060cd2.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -25,
+              "Price": 12.11,
+              "Fee": -0.131047,
+              "Id": "0000e138.6405ca49.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -100,
+              "Price": 12.11,
+              "Fee": -0.524188,
+              "Id": "0000e138.6405ca4a.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -10,
+              "Price": 12.11,
+              "Fee": -0.0524188,
+              "Id": "0000e138.6405ca4b.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -1,
+              "Price": 12.11,
+              "Fee": -0.00524188,
+              "Id": "0000e138.6405ca4c.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -251,
+              "Price": 12.11,
+              "Fee": -1.31571188,
+              "Id": "0000e138.6405ca4d.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -25,
+              "Price": 12.11,
+              "Fee": -0.131047,
+              "Id": "00010196.64060094.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -10,
+              "Price": 12.11,
+              "Fee": -0.0524188,
+              "Id": "00010196.64060095.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -1,
+              "Price": 12.11,
+              "Fee": -0.00524188,
+              "Id": "00010196.64060096.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -251,
+              "Price": 12.11,
+              "Fee": -1.31571188,
+              "Id": "00010196.64060097.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -100,
+              "Price": 12.115,
+              "Fee": -1.024192,
+              "Id": "00012e19.6405dd6a.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -82,
+              "Price": 12.11,
+              "Fee": -0.42983416,
+              "Id": "00012e19.6405dd6b.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -200,
+              "Price": 12.11,
+              "Fee": -1.048376,
+              "Id": "00012e19.6405dd6c.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -500,
+              "Price": 12.11,
+              "Fee": -2.62094,
+              "Id": "00012e19.6405dd6d.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -200,
+              "Price": 12.11,
+              "Fee": -1.048376,
+              "Id": "00012e19.6405dd6e.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -200,
+              "Price": 12.11,
+              "Fee": -1.048376,
+              "Id": "00012e19.6405dd6f.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -100,
+              "Price": 12.11,
+              "Fee": -0.524188,
+              "Id": "00012e19.6405dd70.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -200,
+              "Price": 12.11,
+              "Fee": -1.048376,
+              "Id": "00012e19.6405dd71.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:27",
+              "Quantity": -2000,
+              "Price": 12.11,
+              "Fee": -10.48376,
+              "Id": "0001a2f3.6405f14c.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -21,
+              "Price": 12.1,
+              "Fee": -0.1100778,
+              "Id": "0000e138.6405ca59.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0000e138.6405ca5a.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0000e138.6405ca5b.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -1500,
+              "Price": 12.1,
+              "Fee": -7.8627,
+              "Id": "0000e4ee.6405ebe5.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00010196.64060098.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -75,
+              "Price": 12.1,
+              "Fee": -0.393135,
+              "Id": "00010196.64060099.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00010196.6406009a.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00010196.6406009b.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.105,
+              "Fee": -0.524184,
+              "Id": "00012e19.6405dd72.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00012e19.6405dd73.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00012e19.6405dd74.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -200,
+              "Price": 12.1,
+              "Fee": -1.04836,
+              "Id": "00012e19.6405dd75.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -200,
+              "Price": 12.1,
+              "Fee": -1.04836,
+              "Id": "00012e19.6405dd76.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -148,
+              "Price": 12.1,
+              "Fee": -0.7757864,
+              "Id": "00012e19.6405dd77.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00019763.6405abd7.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -2000,
+              "Price": 12.1,
+              "Fee": -10.4836,
+              "Id": "0001a2f3.6405f14e.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -61,
+              "Price": 12.1,
+              "Fee": -0.3197498,
+              "Id": "0001c47b.6405e70f.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0001e554.6405df83.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0001ebbb.64059c46.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0001ebbb.64059c47.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "0001ebbb.64059c48.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -18,
+              "Price": 12.1,
+              "Fee": -0.0943524,
+              "Id": "00022b5c.6405ad71.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -100,
+              "Price": 12.1,
+              "Fee": -0.52418,
+              "Id": "00022b5c.6405ad72.01.01",
+              "OrderId": "270315973"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:28:28",
+              "Quantity": -3,
+              "Price": 12.1,
+              "Fee": -0.0157254,
+              "Id": "00022b5c.6405ad73.01.01",
+              "OrderId": "270315973"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 50,
+              "Price": 64.93,
+              "Fee": -0.25,
+              "Id": "0000f62c.6405ac20.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 100,
+              "Price": 64.94,
+              "Fee": -0.5,
+              "Id": "0000f62c.6405ac21.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 20,
+              "Price": 64.93,
+              "Fee": -0.1,
+              "Id": "000100df.6405cf74.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 100,
+              "Price": 64.93,
+              "Fee": -0.5,
+              "Id": "000100df.6405cf75.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 56,
+              "Price": 64.94,
+              "Fee": 0,
+              "Id": "000100df.6405cf76.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 100,
+              "Price": 64.94,
+              "Fee": -1,
+              "Id": "000100df.6405cf77.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 238,
+              "Price": 64.94,
+              "Fee": -1.19,
+              "Id": "000103bf.6405b0f6.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 100,
+              "Price": 64.9399,
+              "Fee": -0.5,
+              "Id": "00014729.6405f137.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 100,
+              "Price": 64.94,
+              "Fee": -0.5,
+              "Id": "00015036.6405ed56.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 200,
+              "Price": 64.94,
+              "Fee": -0.78,
+              "Id": "00016e4a.6405ed90.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:03",
+              "Quantity": 200,
+              "Price": 64.94,
+              "Fee": -1,
+              "Id": "00016e4a.6405ed92.01.01",
+              "OrderId": "270302739"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:04",
+              "Quantity": 228,
+              "Price": 64.95,
+              "Fee": -1.14,
+              "Id": "00015e46.6405eba4.01.01",
+              "OrderId": "270302739"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T09:53:31",
+              "Quantity": 532,
+              "Price": 65.17,
+              "Fee": -2.66,
+              "Id": "0000d323.6405efe7.01.01",
+              "OrderId": "270302838"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -1174,
+              "Price": 65.02,
+              "Fee": -6.65089784,
+              "Id": "0000d323.6405fb94.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.04,
+              "Fee": -0.566532,
+              "Id": "0000d6a5.640639a5.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -75,
+              "Price": 65.03,
+              "Fee": -0.049893,
+              "Id": "0000d6a5.640639a6.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.03,
+              "Fee": -1.066524,
+              "Id": "0000d6a5.640639a7.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.02,
+              "Fee": -0.566516,
+              "Id": "0000d6a5.640639a8.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.02,
+              "Fee": -0.566516,
+              "Id": "0000d6a5.640639a9.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -75,
+              "Price": 65.01,
+              "Fee": -0.424881,
+              "Id": "0000d6a5.640639aa.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.01,
+              "Fee": -0.441508,
+              "Id": "0000d6a5.640639ab.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.03,
+              "Fee": -0.566524,
+              "Id": "00015036.6405f241.01.01",
+              "OrderId": "270346336"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-06T13:46:51",
+              "Quantity": -100,
+              "Price": 65.03,
+              "Fee": -0.566524,
+              "Id": "00018d2a.6405f313.01.01",
+              "OrderId": "270346336"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:22",
+              "Quantity": 50,
+              "Price": 12.15,
+              "Fee": -0.25,
+              "Id": "0000d6a5.64060fde.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:22",
+              "Quantity": 600,
+              "Price": 12.15,
+              "Fee": -3,
+              "Id": "00010196.6406058a.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:22",
+              "Quantity": 300,
+              "Price": 12.15,
+              "Fee": -1.5,
+              "Id": "00010196.6406058b.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:23",
+              "Quantity": 1200,
+              "Price": 12.16,
+              "Fee": -6,
+              "Id": "0000dd95.6405ede6.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:23",
+              "Quantity": 1300,
+              "Price": 12.1595,
+              "Fee": -6.5,
+              "Id": "0000de6f.6405ea9b.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:23",
+              "Quantity": 800,
+              "Price": 12.1588,
+              "Fee": -4,
+              "Id": "0001506d.6405f94f.01.01",
+              "OrderId": "270318417"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:37:23",
+              "Quantity": 1375,
+              "Price": 12.16,
+              "Fee": -6.875,
+              "Id": "0001a2f3.6405f1ad.01.01",
+              "OrderId": "270318417"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 2200,
+              "Price": 12.198,
+              "Fee": -11,
+              "Id": "0000d5d6.640621c6.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 1300,
+              "Price": 12.1895,
+              "Fee": -6.5,
+              "Id": "0000de6f.6405eaa3.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 300,
+              "Price": 12.19,
+              "Fee": -1.5,
+              "Id": "0000e138.6405cb3b.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 100,
+              "Price": 12.2,
+              "Fee": -0.5,
+              "Id": "00010196.64060630.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 100,
+              "Price": 12.2,
+              "Fee": -0.5,
+              "Id": "00010196.64060631.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 40,
+              "Price": 12.2,
+              "Fee": -0.2,
+              "Id": "00012e19.6405de80.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 4043,
+              "Price": 12.2,
+              "Fee": -20.215,
+              "Id": "00012e19.6405de81.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 100,
+              "Price": 12.2,
+              "Fee": -0.5,
+              "Id": "00012e19.6405de82.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 100,
+              "Price": 12.2,
+              "Fee": -0.5,
+              "Id": "00012e19.6405de83.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 200,
+              "Price": 12.1999,
+              "Fee": -1,
+              "Id": "00014729.6405f7f7.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:11",
+              "Quantity": 100,
+              "Price": 12.2,
+              "Fee": -0.5,
+              "Id": "0001ebbb.64059c71.01.01",
+              "OrderId": "270318542"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:38:12",
+              "Quantity": 800,
+              "Price": 12.21,
+              "Fee": -4,
+              "Id": "0000e4ee.6405ec06.01.01",
+              "OrderId": "270318542"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -1500,
+              "Price": 12.162,
+              "Fee": -7.863444,
+              "Id": "0000d5d6.64062b94.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -100,
+              "Price": 12.16,
+              "Fee": -0.524228,
+              "Id": "0000d6a5.640615f5.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -100,
+              "Price": 12.16,
+              "Fee": -0.524228,
+              "Id": "0000d6a5.640615f6.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -2000,
+              "Price": 12.1605,
+              "Fee": -10.484568,
+              "Id": "0000de6f.6405eb9c.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -1500,
+              "Price": 12.1638,
+              "Fee": -7.8634656,
+              "Id": "0000e494.64060c4e.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -100,
+              "Price": 12.165,
+              "Fee": -0.524232,
+              "Id": "00010196.64060fb1.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -200,
+              "Price": 12.16,
+              "Fee": -1.048456,
+              "Id": "00010196.64060fb2.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -100,
+              "Price": 12.16,
+              "Fee": -0.524228,
+              "Id": "00010196.64060fb3.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -200,
+              "Price": 12.16,
+              "Fee": -1.048456,
+              "Id": "00012e19.6405e07a.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -200,
+              "Price": 12.16,
+              "Fee": -1.048456,
+              "Id": "00012e19.6405e07b.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -200,
+              "Price": 12.16,
+              "Fee": -1.048456,
+              "Id": "00012e19.6405e07c.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -5300,
+              "Price": 12.162,
+              "Fee": -27.7841688,
+              "Id": "0001506d.6405fd65.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -2000,
+              "Price": 12.16,
+              "Fee": -10.48456,
+              "Id": "0001a2f3.6405f294.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -201,
+              "Price": 12.16,
+              "Fee": -1.05369828,
+              "Id": "0001c47b.6405ec92.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -100,
+              "Price": 12.165,
+              "Fee": -0.524232,
+              "Id": "0001ebbb.64059ce5.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:29",
+              "Quantity": -300,
+              "Price": 12.16,
+              "Fee": -1.572684,
+              "Id": "00022650.6405fe16.01.01",
+              "OrderId": "270324588"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NYSE:YPF",
+              "Time": "2023-03-06T10:59:31",
+              "Quantity": -907,
+              "Price": 12.15,
+              "Fee": -4.7546754,
+              "Id": "0000e4ee.6405ec57.01.01",
+              "OrderId": "270324588"
             }
           ]
         }
