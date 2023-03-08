@@ -103125,7 +103125,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "ep",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -103494,7 +103494,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bd",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -103649,7 +103649,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bo",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -103752,9 +103752,9 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bo",
       "BuyMistake": null,
-      "SellMistake": null
+      "SellMistake": "moved stop too soon"
     },
     {
       "Orders": [
@@ -103857,8 +103857,8 @@
           ]
         }
       ],
-      "Setup": null,
-      "BuyMistake": null,
+      "Setup": "mr",
+      "BuyMistake": "chase",
       "SellMistake": null
     },
     {
@@ -104307,7 +104307,7 @@
         }
       ],
       "Setup": null,
-      "BuyMistake": null,
+      "BuyMistake": "in range",
       "SellMistake": null
     },
     {
@@ -104951,9 +104951,9 @@
           ]
         }
       ],
-      "Setup": null,
-      "BuyMistake": null,
-      "SellMistake": null
+      "Setup": "bo",
+      "BuyMistake": "in range",
+      "SellMistake": "moved stop too soon"
     },
     {
       "Orders": [
@@ -105200,9 +105200,9 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bo",
       "BuyMistake": null,
-      "SellMistake": null
+      "SellMistake": "no partial"
     },
     {
       "Orders": [
@@ -105579,9 +105579,9 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bo",
       "BuyMistake": null,
-      "SellMistake": null
+      "SellMistake": "moved stop too soon"
     },
     {
       "Orders": [
@@ -105718,7 +105718,7 @@
           ]
         }
       ],
-      "Setup": null,
+      "Setup": "bd",
       "BuyMistake": null,
       "SellMistake": null
     },
@@ -105773,8 +105773,8 @@
           ]
         }
       ],
-      "Setup": null,
-      "BuyMistake": null,
+      "Setup": "bd",
+      "BuyMistake": "no setup",
       "SellMistake": null
     },
     {
@@ -105962,8 +105962,8 @@
           ]
         }
       ],
-      "Setup": null,
-      "BuyMistake": null,
+      "Setup": "bd",
+      "BuyMistake": "no setup",
       "SellMistake": null
     }
   ],
