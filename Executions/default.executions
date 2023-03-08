@@ -105582,6 +105582,389 @@
       "Setup": null,
       "BuyMistake": null,
       "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T09:59:17",
+              "Quantity": -100,
+              "Price": 62.16,
+              "Fee": -1.064228,
+              "Id": "0000dc24.64073d88.01.01",
+              "OrderId": "270431136"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T09:59:17",
+              "Quantity": -96,
+              "Price": 62.1535,
+              "Fee": -0.061653888,
+              "Id": "0000e628.64074c9c.01.01",
+              "OrderId": "270431136"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T09:59:17",
+              "Quantity": -100,
+              "Price": 62.17,
+              "Fee": -0.544236,
+              "Id": "0000f62c.6406f3ed.01.01",
+              "OrderId": "270431136"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T09:59:17",
+              "Quantity": -100,
+              "Price": 62.18,
+              "Fee": -0.564244,
+              "Id": "00015036.64073e54.01.01",
+              "OrderId": "270431136"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:01:24",
+              "Quantity": -270,
+              "Price": 61.18,
+              "Fee": -1.5212988,
+              "Id": "00016e4a.64073e75.01.01",
+              "OrderId": "270433629"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:20",
+              "Quantity": 100,
+              "Price": 61.7379,
+              "Fee": 0,
+              "Id": "0000e628.6407530e.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:20",
+              "Quantity": 10,
+              "Price": 61.73,
+              "Fee": -1,
+              "Id": "000100df.64071a06.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:21",
+              "Quantity": 100,
+              "Price": 61.73,
+              "Fee": -0.5,
+              "Id": "000100df.64071a07.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:21",
+              "Quantity": 72,
+              "Price": 61.73,
+              "Fee": -0.36,
+              "Id": "000100df.64071a08.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:21",
+              "Quantity": 84,
+              "Price": 61.73,
+              "Fee": -0.42,
+              "Id": "000100df.64071a09.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:21",
+              "Quantity": 200,
+              "Price": 61.73,
+              "Fee": -1,
+              "Id": "00015e46.64073d89.01.01",
+              "OrderId": "270446027"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:22:21",
+              "Quantity": 100,
+              "Price": 61.73,
+              "Fee": -0.05,
+              "Id": "00018d2a.64073e50.01.01",
+              "OrderId": "270446027"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:26:09",
+              "Quantity": -100,
+              "Price": 61.97,
+              "Fee": -1.064076,
+              "Id": "0000d6a5.64076087.01.01",
+              "OrderId": "270448867"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:26:09",
+              "Quantity": -64,
+              "Price": 61.97,
+              "Fee": -0.04100864,
+              "Id": "000100df.64071b47.01.01",
+              "OrderId": "270448867"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:26:09",
+              "Quantity": -700,
+              "Price": 61.97,
+              "Fee": -3.768532,
+              "Id": "00016e4a.640741cf.01.01",
+              "OrderId": "270448867"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:30:55",
+              "Quantity": 864,
+              "Price": 62.38,
+              "Fee": -4.32,
+              "Id": "0000d323.64074338.01.01",
+              "OrderId": "270450389"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 41,
+              "Price": 63.08,
+              "Fee": -0.205,
+              "Id": "0000f62c.6406fb1c.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 59,
+              "Price": 63.08,
+              "Fee": 0,
+              "Id": "0000f62c.6406fb1d.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 24,
+              "Price": 63.09,
+              "Fee": -0.12,
+              "Id": "0000f62c.6406fb1e.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 100,
+              "Price": 63.08,
+              "Fee": -0.27,
+              "Id": "00015036.64073fff.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 10,
+              "Price": 63.075,
+              "Fee": 0,
+              "Id": "00016247.64074396.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 85,
+              "Price": 63.09,
+              "Fee": -1,
+              "Id": "00016e4a.6407427e.01.01",
+              "OrderId": "270452585"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:08",
+              "Quantity": 15,
+              "Price": 63.09,
+              "Fee": -0.075,
+              "Id": "00016e4a.64074280.01.01",
+              "OrderId": "270452585"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:28",
+              "Quantity": 100,
+              "Price": 63.15,
+              "Fee": -0.5,
+              "Id": "00015036.64074005.01.01",
+              "OrderId": "270452922"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:36:28",
+              "Quantity": 223,
+              "Price": 63.145,
+              "Fee": -1.115,
+              "Id": "00016247.640743a3.01.01",
+              "OrderId": "270452922"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -100,
+              "Price": 62.752,
+              "Fee": -0.5647016,
+              "Id": "0000d5d6.64076d96.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -100,
+              "Price": 62.75,
+              "Fee": -0.5647,
+              "Id": "0000d6a5.6407668c.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -100,
+              "Price": 62.76,
+              "Fee": -0.564708,
+              "Id": "0000dc24.64073f56.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -100,
+              "Price": 62.7538,
+              "Fee": -0.06470304,
+              "Id": "0000e494.64075f22.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -100,
+              "Price": 62.7535,
+              "Fee": -1.0647028,
+              "Id": "0000e628.6407562b.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -6,
+              "Price": 62.77,
+              "Fee": -0.03388296,
+              "Id": "0000f592.64072317.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:52",
+              "Quantity": -1,
+              "Price": 62.77,
+              "Fee": -0.00564716,
+              "Id": "0000f62c.6406fb77.01.01",
+              "OrderId": "270453768"
+            },
+            {
+              "Currency": "USD",
+              "Symbol": "NASDAQ:COIN",
+              "Time": "2023-03-07T10:38:53",
+              "Quantity": -150,
+              "Price": 62.7501,
+              "Fee": -0.84705012,
+              "Id": "00014729.64074838.01.01",
+              "OrderId": "270453768"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
     }
   ],
   "Executions": []
