@@ -3704,5 +3704,8 @@
   { "Symbol": "NYSE:YPF", "Time": "2023-03-06" },
   { "Symbol": "NASDAQ:PTGX", "Time": "2023-03-07T10:46:57" },
   { "Symbol": "NYSE:SE", "Time": "2023-03-07T09:46:04" },
-  { "Symbol": "NASDAQ:WW", "Time": "2023-03-07" }
+  { "Symbol": "NASDAQ:WW", "Time": "2023-03-07" },
+  { "Symbol": "NASDAQ:MAXN", "Time": "2023-03-08" },
+  { "Symbol": "NASDAQ:SMCI", "Time": "2023-03-08" },
+  { "Symbol": "NYSE:ASAN", "Time": "2023-03-09" }
 ]
