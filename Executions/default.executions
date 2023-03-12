@@ -103123,6 +103123,34 @@
               "OrderId": "269934776"
             }
           ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:FSLR",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:19:31",
+              "Quantity": -32,
+              "Price": 213.35,
+              "Fee": -1.0592576,
+              "Id": "0000dc7d.64089178.01.01",
+              "OrderId": "270570727"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:FSLR",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:51:38",
+              "Quantity": -94,
+              "Price": 212.455,
+              "Fee": -1.17339616,
+              "Id": "0002264f.6408b85a.01.01",
+              "OrderId": "270579848"
+            }
+          ]
         }
       ],
       "Setup": "ep",
@@ -105964,6 +105992,1350 @@
       ],
       "Setup": "bd",
       "BuyMistake": "no setup",
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -100,
+              "Price": 5.97,
+              "Fee": -0.519276,
+              "Id": "0000e131.64086457.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -6,
+              "Price": 5.97,
+              "Fee": -0.03115656,
+              "Id": "0000e131.64086458.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -100,
+              "Price": 5.97,
+              "Fee": -0.519276,
+              "Id": "0000e131.64086459.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -100,
+              "Price": 5.97,
+              "Fee": -0.519276,
+              "Id": "0001015d.64085269.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -100,
+              "Price": 5.97,
+              "Fee": -0.519276,
+              "Id": "0001015d.6408526a.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -200,
+              "Price": 5.97,
+              "Fee": -1.038552,
+              "Id": "0001015d.6408526b.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -1,
+              "Price": 5.97,
+              "Fee": -0.00519276,
+              "Id": "0001015d.6408526c.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:46",
+              "Quantity": -2005,
+              "Price": 5.9712,
+              "Fee": -10.411503048,
+              "Id": "0001506d.6408886b.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -5,
+              "Price": 5.96,
+              "Fee": -0.0259634,
+              "Id": "0000e131.6408645a.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -23,
+              "Price": 5.96,
+              "Fee": -0.11943164,
+              "Id": "0000e131.6408645b.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -49,
+              "Price": 5.96,
+              "Fee": -0.25444132,
+              "Id": "0000e131.6408645c.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -3523,
+              "Price": 5.97,
+              "Fee": -18.29409348,
+              "Id": "0000e95f.640896de.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -200,
+              "Price": 5.96,
+              "Fee": -1.038536,
+              "Id": "0001015d.64085270.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -800,
+              "Price": 5.96,
+              "Fee": -4.154144,
+              "Id": "0001015d.64085271.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -600,
+              "Price": 5.96,
+              "Fee": -3.115608,
+              "Id": "0001015d.64085272.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -300,
+              "Price": 5.96,
+              "Fee": -1.557804,
+              "Id": "00010279.640845e9.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -100,
+              "Price": 5.96,
+              "Fee": -0.519268,
+              "Id": "00010279.640845ea.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -100,
+              "Price": 5.96,
+              "Fee": -0.519268,
+              "Id": "00015963.64088e5b.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -2000,
+              "Price": 5.96,
+              "Fee": -10.38536,
+              "Id": "0001a2f4.64088e80.01.01",
+              "OrderId": "270551337"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:31:47",
+              "Quantity": -100,
+              "Price": 5.96,
+              "Fee": -0.519268,
+              "Id": "0001e554.64087877.01.01",
+              "OrderId": "270551337"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -100,
+              "Price": 5.96,
+              "Fee": -0.706268,
+              "Id": "0000d6a5.6408968e.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -5,
+              "Price": 5.96,
+              "Fee": -0.3139634,
+              "Id": "0000f62c.6408420d.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -200,
+              "Price": 5.96,
+              "Fee": -1.038536,
+              "Id": "0000f62c.6408420e.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -200,
+              "Price": 5.96,
+              "Fee": -0.563536,
+              "Id": "0001015d.640852dc.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -10,
+              "Price": 5.96,
+              "Fee": -0.0519268,
+              "Id": "0001015d.640852dd.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -100,
+              "Price": 5.96,
+              "Fee": -0.519268,
+              "Id": "0001c47b.64087ce0.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -800,
+              "Price": 5.96,
+              "Fee": -4.154144,
+              "Id": "0001e554.640878a9.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -300,
+              "Price": 5.96,
+              "Fee": -1.557804,
+              "Id": "0001e554.640878aa.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:22",
+              "Quantity": -600,
+              "Price": 5.96,
+              "Fee": -3.115608,
+              "Id": "00022650.64089588.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.94,
+              "Fee": -0.519252,
+              "Id": "0000f62c.6408420f.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -200,
+              "Price": 5.94,
+              "Fee": -1.038504,
+              "Id": "0000f62c.64084210.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -44,
+              "Price": 5.94,
+              "Fee": -0.22847088,
+              "Id": "0001015d.640852e0.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -200,
+              "Price": 5.94,
+              "Fee": -1.038504,
+              "Id": "0001015d.640852e1.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.94,
+              "Fee": -0.519252,
+              "Id": "0001015d.640852e2.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.94,
+              "Fee": -0.519252,
+              "Id": "0001015d.640852e3.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -667,
+              "Price": 5.94,
+              "Fee": -3.46341084,
+              "Id": "0001015d.640852e4.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.94,
+              "Fee": -0.519252,
+              "Id": "0001015d.640852e5.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -200,
+              "Price": 5.94,
+              "Fee": -1.038504,
+              "Id": "0001015d.640852e6.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -133,
+              "Price": 5.94,
+              "Fee": -0.69060516,
+              "Id": "0001015d.640852e7.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.945,
+              "Fee": -0.519256,
+              "Id": "00010279.64084639.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -22,
+              "Price": 5.94,
+              "Fee": -0.11423544,
+              "Id": "00010279.6408463a.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -1,
+              "Price": 5.94,
+              "Fee": -0.00519252,
+              "Id": "00010279.6408463b.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -300,
+              "Price": 5.94,
+              "Fee": -1.557756,
+              "Id": "00010279.6408463c.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -581,
+              "Price": 5.94,
+              "Fee": -3.01685412,
+              "Id": "00012e17.6408719b.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -200,
+              "Price": 5.9401,
+              "Fee": -1.03850416,
+              "Id": "00014729.64088ea1.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -100,
+              "Price": 5.95,
+              "Fee": -0.51926,
+              "Id": "0001c47b.64087ce1.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -70,
+              "Price": 5.95,
+              "Fee": -0.363482,
+              "Id": "0001c47b.64087ce2.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -400,
+              "Price": 5.94,
+              "Fee": -2.077008,
+              "Id": "0001c47b.64087ce3.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:23",
+              "Quantity": -600,
+              "Price": 5.94,
+              "Fee": -3.115512,
+              "Id": "0001c47b.64087ce4.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -2367,
+              "Price": 5.93,
+              "Fee": -12.29050548,
+              "Id": "0000f62c.64084213.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -100,
+              "Price": 5.93,
+              "Fee": -0.519244,
+              "Id": "00010279.6408463e.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -300,
+              "Price": 5.93,
+              "Fee": -1.557732,
+              "Id": "00010279.6408463f.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -100,
+              "Price": 5.93,
+              "Fee": -0.519244,
+              "Id": "00014460.64084ac7.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -400,
+              "Price": 5.93,
+              "Fee": -2.076976,
+              "Id": "0001a2f4.64088eb2.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -300,
+              "Price": 5.93,
+              "Fee": -1.557732,
+              "Id": "0001e554.640878ac.01.01",
+              "OrderId": "270551502"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T09:32:24",
+              "Quantity": -1800,
+              "Price": 5.937,
+              "Fee": -9.3464928,
+              "Id": "0002258e.64089604.01.01",
+              "OrderId": "270551502"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 200,
+              "Price": 6.068,
+              "Fee": -1,
+              "Id": "0000d5d6.6408aa7c.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 1900,
+              "Price": 6.07,
+              "Fee": -9.5,
+              "Id": "0000d6a5.6408a8d5.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 512,
+              "Price": 6.0662,
+              "Fee": -2.56,
+              "Id": "0000e494.6408a600.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 300,
+              "Price": 6.07,
+              "Fee": -1.5,
+              "Id": "00010279.64084ecb.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 200,
+              "Price": 6.07,
+              "Fee": -1,
+              "Id": "00010279.64084ecc.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 200,
+              "Price": 6.0699,
+              "Fee": -1,
+              "Id": "00014729.640894c6.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 18000,
+              "Price": 6.0688,
+              "Fee": -90,
+              "Id": "0001506d.640895f4.01.01",
+              "OrderId": "270569574"
+            },
+            {
+              "Symbol": "NASDAQ:MARA",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:27",
+              "Quantity": 1000,
+              "Price": 6.07,
+              "Fee": -5,
+              "Id": "0001a2f4.640895f5.01.01",
+              "OrderId": "270569574"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:42",
+              "Quantity": 100,
+              "Price": 62.3879,
+              "Fee": -0.5,
+              "Id": "0000e628.64089f65.01.01",
+              "OrderId": "270569615"
+            },
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:12:42",
+              "Quantity": 308,
+              "Price": 62.39,
+              "Fee": -1.54,
+              "Id": "00015e46.64088ecd.01.01",
+              "OrderId": "270569615"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:16:37",
+              "Quantity": -200,
+              "Price": 61.91,
+              "Fee": -1.128056,
+              "Id": "0000d323.6408957f.01.01",
+              "OrderId": "270570256"
+            },
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:16:37",
+              "Quantity": -100,
+              "Price": 61.9,
+              "Fee": -0.56402,
+              "Id": "0000dc24.64088fc3.01.01",
+              "OrderId": "270570256"
+            },
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:16:37",
+              "Quantity": -100,
+              "Price": 61.9,
+              "Fee": -0.56402,
+              "Id": "0000dc24.64088fc5.01.01",
+              "OrderId": "270570256"
+            },
+            {
+              "Symbol": "NASDAQ:COIN",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:16:37",
+              "Quantity": -8,
+              "Price": 61.9,
+              "Fee": -0.0451216,
+              "Id": "00015036.64089407.01.01",
+              "OrderId": "270570256"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 100,
+              "Price": 8.638,
+              "Fee": -0.5,
+              "Id": "0000d5d6.6408adeb.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 100,
+              "Price": 8.638,
+              "Fee": -0.5,
+              "Id": "0000d5d6.6408adec.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 800,
+              "Price": 8.64,
+              "Fee": -4,
+              "Id": "0000d6a5.6408aab9.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 700,
+              "Price": 8.64,
+              "Fee": -3.5,
+              "Id": "0000d6a5.6408aaba.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 200,
+              "Price": 8.64,
+              "Fee": -1,
+              "Id": "0000d6a5.6408aabb.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 100,
+              "Price": 8.64,
+              "Fee": -0.5,
+              "Id": "0000d6a5.6408aabc.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 200,
+              "Price": 8.64,
+              "Fee": -1,
+              "Id": "00010412.640844ea.01.01",
+              "OrderId": "270571408"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:20:32",
+              "Quantity": 100,
+              "Price": 8.64,
+              "Fee": -0.5,
+              "Id": "00015962.64089020.01.01",
+              "OrderId": "270571408"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -75,
+              "Price": 8.42,
+              "Fee": -1.015927,
+              "Id": "0000d6a5.6408aed8.01.01",
+              "OrderId": "270576078"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -100,
+              "Price": 8.42,
+              "Fee": -0.521236,
+              "Id": "0000d6a5.6408aed9.01.01",
+              "OrderId": "270576078"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -325,
+              "Price": 8.42,
+              "Fee": -1.069017,
+              "Id": "0000e462.64089297.01.01",
+              "OrderId": "270576078"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -300,
+              "Price": 8.4238,
+              "Fee": -1.56371712,
+              "Id": "0000e494.6408ab37.01.01",
+              "OrderId": "270576078"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -200,
+              "Price": 8.4201,
+              "Fee": -1.04247216,
+              "Id": "00014729.640896e8.01.01",
+              "OrderId": "270576078"
+            },
+            {
+              "Symbol": "NYSE:HKD",
+              "Currency": "USD",
+              "Time": "2023-03-08T10:33:15",
+              "Quantity": -1300,
+              "Price": 8.4236,
+              "Fee": -6.77610544,
+              "Id": "0001506d.64089a51.01.01",
+              "OrderId": "270576078"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
+      "SellMistake": null
+    },
+    {
+      "Orders": [
+        {
+          "Executions": [
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.255,
+              "Fee": -0.5,
+              "Id": "0000e1ae.640b314e.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 2,
+              "Price": 21.26,
+              "Fee": -0.01,
+              "Id": "00010193.640b2e75.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.26,
+              "Fee": -0.5,
+              "Id": "00010193.640b2e76.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 35,
+              "Price": 21.26,
+              "Fee": -0.175,
+              "Id": "00010193.640b2e77.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.26,
+              "Fee": -0.5,
+              "Id": "00010193.640b2e78.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.255,
+              "Fee": -0.115,
+              "Id": "00010193.640b2e79.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 300,
+              "Price": 21.26,
+              "Fee": -1.5,
+              "Id": "00010193.640b2e7a.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.26,
+              "Fee": -0.5,
+              "Id": "00010193.640b2e7b.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 3,
+              "Price": 21.26,
+              "Fee": -0.015,
+              "Id": "00010193.640b2e7c.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 4,
+              "Price": 21.26,
+              "Fee": -0.02,
+              "Id": "00010193.640b2e7d.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 4,
+              "Price": 21.26,
+              "Fee": -0.02,
+              "Id": "00010193.640b2e7e.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.26,
+              "Fee": -1,
+              "Id": "00010193.640b2e7f.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 4,
+              "Price": 21.26,
+              "Fee": -0.02,
+              "Id": "00010193.640b2e80.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 2,
+              "Price": 21.26,
+              "Fee": -0.01,
+              "Id": "00010193.640b2e81.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 23,
+              "Price": 21.26,
+              "Fee": 0,
+              "Id": "00010193.640b2e82.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.26,
+              "Fee": -0.5,
+              "Id": "0001051b.640b0c08.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 100,
+              "Price": 21.255,
+              "Fee": -0.5,
+              "Id": "0001051b.640b0c09.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 20,
+              "Price": 21.26,
+              "Fee": -0.1,
+              "Id": "0001051b.640b0c0a.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 36,
+              "Price": 21.26,
+              "Fee": -0.18,
+              "Id": "0001051b.640b0c0b.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 200,
+              "Price": 21.255,
+              "Fee": -1,
+              "Id": "00016247.640b2a63.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 2000,
+              "Price": 21.26,
+              "Fee": -10,
+              "Id": "0001a2f2.640b3292.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 2000,
+              "Price": 21.26,
+              "Fee": -10,
+              "Id": "0001a2f2.640b3294.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 10,
+              "Price": 21.26,
+              "Fee": -0.05,
+              "Id": "0001c47b.640b1fe7.01.01",
+              "OrderId": "270814630"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T09:31:22",
+              "Quantity": 590,
+              "Price": 21.26,
+              "Fee": -2.95,
+              "Id": "0001c47b.640b1fe8.01.01",
+              "OrderId": "270814630"
+            }
+          ]
+        },
+        {
+          "Executions": [
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -200,
+              "Price": 21.25,
+              "Fee": -1.063,
+              "Id": "0000d6a5.640b741a.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "0000d958.640b451b.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "0000e138.640b1f46.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -800,
+              "Price": 21.25,
+              "Fee": -4.252,
+              "Id": "0000e138.640b1f47.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -2600,
+              "Price": 21.25,
+              "Fee": -13.819,
+              "Id": "0000e95f.640b6eca.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -1,
+              "Price": 21.25,
+              "Fee": -0.005315,
+              "Id": "00010193.640b6ea0.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -20,
+              "Price": 21.25,
+              "Fee": -0.1063,
+              "Id": "00010193.640b6ea1.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -200,
+              "Price": 21.25,
+              "Fee": -1.063,
+              "Id": "00010193.640b6ea2.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "00010193.640b6ea3.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "00010193.640b6ea4.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -400,
+              "Price": 21.25,
+              "Fee": -2.126,
+              "Id": "00010193.640b6ea5.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -12,
+              "Price": 21.25,
+              "Fee": -0.06378,
+              "Id": "00010193.640b6ea6.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -300,
+              "Price": 21.25,
+              "Fee": -1.5945,
+              "Id": "0001051b.640b425b.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "0001051b.640b425c.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "0001c47b.640b4015.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "0001e554.640b3392.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -500,
+              "Price": 21.25,
+              "Fee": -2.6575,
+              "Id": "00022b5c.640b0d2b.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "00022b5c.640b0d2c.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "00022b5c.640b0d2d.01.01",
+              "OrderId": "270866693"
+            },
+            {
+              "Symbol": "ARCA:SOXS",
+              "Currency": "USD",
+              "Time": "2023-03-10T11:26:15",
+              "Quantity": -100,
+              "Price": 21.25,
+              "Fee": -0.5315,
+              "Id": "00022b5c.640b0d2e.01.01",
+              "OrderId": "270866693"
+            }
+          ]
+        }
+      ],
+      "Setup": null,
+      "BuyMistake": null,
       "SellMistake": null
     }
   ],
