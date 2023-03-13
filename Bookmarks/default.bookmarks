@@ -3711,5 +3711,7 @@
   { "Symbol": "NASDAQ:FCEL", "Time": "2023-03-09" },
   { "Symbol": "BATS:UVIX", "Time": "2023-03-09" },
   { "Symbol": "ARCA:SOXS", "Time": "2023-03-10T09:34:50" },
-  { "Symbol": "NASDAQ:TLT", "Time": "2023-03-10T10:33:30" }
+  { "Symbol": "NASDAQ:TLT", "Time": "2023-03-10T10:33:30" },
+  { "Symbol": "NYSE:AMAM", "Time": "2023-03-13T11:19:27" },
+  { "Symbol": "NASDAQ:RIOT", "Time": "2023-03-13T11:31:13" }
 ]
